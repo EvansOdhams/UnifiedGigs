@@ -1,0 +1,729 @@
+"id","site","job_url","job_url_direct","title","company","location","date_posted","job_type","salary_source","interval","min_amount","max_amount","currency","is_remote","job_level","job_function","listing_type","emails","description","company_industry","company_url","company_logo","company_url_direct","company_addresses","company_num_employees","company_revenue","company_description","skills","experience_range","company_rating","company_reviews_count","vacancy_count","work_from_home_type"
+"gd-1009810159320","glassdoor","https://www.glassdoor.com/job-listing/j?jl=1009810159320","","Senior Full Stack Developer - Senior Lead Software Engineer","JPMorganChase","Jersey City, NJ","2025-07-12","","direct_data","yearly",171000.0,260000.0,"USD",False,"","","organic","","","","https://www.glassdoor.com/Overview/W-EI_IE5224839.htm","https://media.glassdoor.com/sql/5224839/jpmorgan-chase-and-co-squareLogo-1724869012253.png","","","","","","","","","","",""
+"gd-1009809746890","glassdoor","https://www.glassdoor.com/job-listing/j?jl=1009809746890","","Customer Solution Architect","Ookla","New York, NY","2025-07-12","","direct_data","yearly",75000.0,115000.0,"USD",False,"","","organic","","","","https://www.glassdoor.com/Overview/W-EI_IE1408200.htm","https://media.glassdoor.com/sql/1408200/ookla-squarelogo-1562012457226.png","","","","","","","","","","",""
+"gd-1009809775901","glassdoor","https://www.glassdoor.com/job-listing/j?jl=1009809775901","","Senior Software Engineer","DailyPay","United States","2025-07-12","","direct_data","yearly",129000.0,200000.0,"USD",False,"","","organic","","","","https://www.glassdoor.com/Overview/W-EI_IE1197210.htm","https://media.glassdoor.com/sql/1197210/dailypay-squareLogo-1621300132296.png","","","","","","","","","","",""
+"gd-1009809694943","glassdoor","https://www.glassdoor.com/job-listing/j?jl=1009809694943","",".Net developer with SQL","Capgemini","New York, NY","2025-07-12","","direct_data","yearly",61087.0,104364.0,"USD",False,"","","organic","","","","https://www.glassdoor.com/Overview/W-EI_IE3803.htm","https://media.glassdoor.com/sql/3803/capgemini-squareLogo-1688367853815.png","","","","","","","","","","",""
+"gd-1009809694812","glassdoor","https://www.glassdoor.com/job-listing/j?jl=1009809694812","","Sr. .NET Developer","Capgemini","United States","2025-07-12","","direct_data","yearly",86129.0,127189.0,"USD",False,"","","organic","","","","https://www.glassdoor.com/Overview/W-EI_IE3803.htm","https://media.glassdoor.com/sql/3803/capgemini-squareLogo-1688367853815.png","","","","","","","","","","",""
+"gd-1009809872438","glassdoor","https://www.glassdoor.com/job-listing/j?jl=1009809872438","","Senior Staff Software Engineer, Cloud Storage File System","Google","New York, NY","2025-07-12","","direct_data","yearly",248000.0,349000.0,"USD",False,"","","organic","","","","https://www.glassdoor.com/Overview/W-EI_IE9079.htm","https://media.glassdoor.com/sql/9079/google-squarelogo-1441130773284.png","","","","","","","","","","",""
+"in-48ff10f3ea284cbd","indeed","https://www.indeed.com/viewjob?jk=48ff10f3ea284cbd","https://JPMorganChase.contacthr.com/148239218","Senior Full Stack Developer - Senior Lead Software Engineer","JPMorganChase","Jersey City, NJ, US","2025-07-12","fulltime","direct_data","yearly",171000.0,260000.0,"USD",False,"","","","","**JOB DESCRIPTION**  
+
+Be an integral part of an agile team that's constantly pushing the envelope to enhance, build, and deliver top\\-notch technology products.
+
+
+
+
+As a Senior Lead Software Engineer at JPMorganChase within the Commercial \\& Investment Bank Credit Technology Team, you are an integral part of an agile team that works to enhance, build, and deliver trusted market\\-leading technology products in a secure, stable, and scalable way. Drive significant business impact through your capabilities and contributions, and apply deep technical expertise and problem\\-solving methodologies to tackle a diverse array of challenges that span multiple technologies and applications.
+
+**Job responsibilities**
+
+
+* Regularly provides technical guidance and direction to support the business and its technical teams, contractors, and vendors
+* Develops secure and high\\-quality production code, and reviews and debugs code written by others
+* Drives decisions that influence the product design, application functionality, and technical operations and processes
+* Serves as a function\\-wide subject matter expert in one or more areas of focus
+* Actively contributes to the engineering community as an advocate of firmwide frameworks, tools, and practices of the Software Development Life Cycle
+* Influences peers and project decision\\-makers to consider the use and application of leading\\-edge technologies
+* Adds to the team culture of diversity, opportunity, inclusion, and respect
+
+
+
+
+**Required qualifications, capabilities, and skills**
+
+* Formal training or certification on software engineering concepts and 5\\+ years applied experience
+* Over 10 years of hands\\-on experience with Java and the Spring Framework, demonstrating deep expertise in building robust microservices.
+* Proven track record in designing and implementing enterprise\\-grade APIs and streaming platforms, with a strong focus on Kafka.
+* Significant experience in building enterprise\\-grade applications using React, with a focus on creating dynamic and responsive user interfaces.
+* Advanced proficiency in developing applications on AWS, showcasing the ability to leverage cloud technologies for scalable solutions
+* Demonstrated mastery in Java and Spring Boot, with a proven ability to architect and develop high\\-performance, scalable applications using these technologies
+* Ability to tackle design and functionality problems independently with little to no oversight
+* Practical cloud native experience
+* Experience in Computer Science, Computer Engineering, Mathematics, or a related technical field
+
+
+**Preferred qualifications, capabilities, and skills*** Experience in financial industry is a plus
+* Experience managing a team of engineers is preferred
+
+
+**ABOUT US**  
+
+
+JPMorganChase, one of the oldest financial institutions, offers innovative financial solutions to millions of consumers, small businesses and many of the world’s most prominent corporate, institutional and government clients under the J.P. Morgan and Chase brands. Our history spans over 200 years and today we are a leader in investment banking, consumer and small business banking, commercial banking, financial transaction processing and asset management.
+We offer a competitive total rewards package including base salary determined based on the role, experience, skill set and location. Those in eligible roles may receive commission\\-based pay and/or discretionary incentive compensation, paid in the form of cash and/or forfeitable equity, awarded in recognition of individual achievements and contributions. We also offer a range of benefits and programs to meet employee needs, based on eligibility. These benefits include comprehensive health care coverage, on\\-site health and wellness centers, a retirement savings plan, backup childcare, tuition reimbursement, mental health support, financial coaching and more. Additional details about total compensation and benefits will be provided during the hiring process.
+
+
+We recognize that our people are our strength and the diverse talents they bring to our global workforce are directly linked to our success. We are an equal opportunity employer and place a high value on diversity and inclusion at our company. We do not discriminate on the basis of any protected attribute, including race, religion, color, national origin, gender, sexual orientation, gender identity, gender expression, age, marital or veteran status, pregnancy or disability, or any other basis protected under applicable law. We also make reasonable accommodations for applicants’ and employees’ religious practices and beliefs, as well as mental health or physical disability needs. Visit our FAQs for more information about requesting an accommodation.
+
+
+JPMorgan Chase \\& Co. is an Equal Opportunity Employer, including Disability/Veterans
+
+  
+
+  
+
+  
+
+**ABOUT THE TEAM**  
+
+  
+
+J.P. Morgan’s Commercial \\& Investment Bank is a global leader across banking, markets, securities services and payments. Corporations, governments and institutions throughout the world entrust us with their business in more than 100 countries. The Commercial \\& Investment Bank provides strategic advice, raises capital, manages risk and extends liquidity in markets around the world.","","https://www.indeed.com/cmp/Jpmorganchase-2","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/62e186e96c7550325814ef6880fae379","https://www.jpmorganchase.com/","New York, NY","10,000+","more than $10B (USD)","Headquartered in New York City, JPMorgan Chase is the largest bank in the United States.","","","","","",""
+"in-9b6bc4badf55b82e","indeed","https://www.indeed.com/viewjob?jk=9b6bc4badf55b82e","https://jsv3.recruitics.com/redirect?rx_cid=3427&rx_jobId=200612529&rx_url=https%3A%2F%2Fjobs.apple.com%2Fen-us%2Fdetails%2F200612529%2Fsr-full-stack-software-engineer-siri-speech%3Fboard_id%3DJB001%26rx_campaign%3Dindeed0%26rx_ch%3Djobp4p%26rx_group%3D130780%26rx_id%3D6cab0d14-5eeb-11f0-bd15-f94ffb5446f5%26rx_job%3D200612529%26rx_medium%3Dcpc%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20250712T163811Z%26rx_vp%3Dcpc%26team%3DMLAI","Sr. Full Stack Software Engineer, Siri Speech","Apple","New York, NY, US","2025-07-12","","direct_data","yearly",181100.0,318400.0,"USD",False,"","","","","The Siri Speech Engineering team is in search of a curious and innovative teammate who is passionate about using groundbreaking web technology to deliver experiences that surpass user expectations. The team works on many impactful web applications and services at Apple where quality and performance cannot be sacrificed. Our services impact multiple Apple partner organizations and products such as Siri, AppleCare, Fitness, News and Books, to name a few. Join Apple and help us leave the world better than we found it!  
+
+  
+
+**Description**  
+
+  
+
+As a Senior Full Stack Engineer, your responsibilities will include all phases of user interface development and other stacks of the architecture. From architecture and design to implementation and customer engagement. You will work with our internal customers and backend developers both on the team and cross functional. We are looking for someone that has an eye for design, is able to communicate well with members of the team and play an active role in the future roadmap of our applications.  
+
+  
+
+**Minimum Qualifications**  
+
+* 5\\+ years professional experience building responsive, user friendly web applications
+* Proficient understanding of base front end development technologies including HTML5/JavaScript
+* Significant experience with JavaScript frameworks and client side state management using React.js / Redux
+* Solid experience using best practices when working with REST APIs. Experience integrating with external APIs and HTTP requests: GET/POST calls, pagination, error handling, asynchronous requests, load handling
+* Experience with building solutions in the cloud (AWS, GCP, Kubernetes, etc)
+* Experience with relational and NoSQL databases (MongoDB, Cassandra, etc)
+* Building reusable components and front\\-end libraries for future use
+* Experience in developing secure web applications and knowledge of application vulnerabilities such as Cross Site Scripting (XSS), Cross Site Request Forgery (CSRF) etc
+* Good communication and personal skills: ability to communicate effectively and work well with members of other functional groups in a project team and a solid sense of project ownership
+* Able to quickly learn new and existing technologies
+* Excellent problem solving and analytical thinking skills
+
+  
+
+**Preferred Qualifications**  
+
+* BS, MS in Computer Science, Computer Engineering, or equivalent degree with applicable experience
+* Experience with GoLang, Remix \\& DGraph is a plus.
+* Experience with full stack development is a plus
+* Experience with CI/CD tools is a plus
+* Experience with linguistics or natural language processing is a plus
+
+  
+
+**Pay \\& Benefits**  
+
+  
+
+At Apple, base pay is one part of our total compensation package and is determined within a range. This provides the opportunity to progress as you grow and develop within a role. The base pay range for this role is between $181,100 and $318,400, and your base pay will depend on your skills, qualifications, experience, and location.  
+
+  
+
+Apple employees also have the opportunity to become an Apple shareholder through participation in Apple’s discretionary employee stock programs. Apple employees are eligible for discretionary restricted stock unit awards, and can purchase Apple stock at a discount if voluntarily participating in Apple’s Employee Stock Purchase Plan. You’ll also receive benefits including: Comprehensive medical and dental coverage, retirement benefits, a range of discounted products and free services, and for formal education related to advancing your career at Apple, reimbursement for certain educational expenses \\- including tuition. Additionally, this role might be eligible for discretionary bonuses or commission payments as well as relocation. Learn more about Apple Benefits.  
+
+  
+
+Note: Apple benefit, compensation and employee stock programs are subject to eligibility requirements and other terms of the applicable plan or program.  
+
+  
+
+Apple is an equal opportunity employer that is committed to inclusion and diversity. We seek to promote equal opportunity for all applicants without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, Veteran status, or other legally protected characteristics. Learn more about your EEO rights as an applicant .  
+
+  
+
+Submit Resume","","https://www.indeed.com/cmp/Apple","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/60c39b87a9a4eaa4df878c716840f84d","http://www.apple.com","Cupertino, CA","10,000+","more than $10B (USD)","This is where you can do the best work of your life.","","","","","",""
+"in-74babe55bfc2aab5","indeed","https://www.indeed.com/viewjob?jk=74babe55bfc2aab5","https://careers.google.com/jobs/results/135398543983551174-senior-staff-software-engineer/","Senior Staff Software Engineer, Cloud Storage File System","Google","New York, NY, US","2025-07-12","fulltime","direct_data","yearly",248000.0,349000.0,"USD",False,"","","","","Note: By applying to this position you will have an opportunity to share your preferred working location from the following: **Seattle, WA, USA; Cambridge, MA, USA; New York City, NY, USA; Raleigh, NC, USA; Durham, NC, USA; Sunnyvale, CA, USA**.### **Minimum qualifications:**
+
+* Bachelor's degree or equivalent practical experience.
+* 8 years of experience in software development.
+* 5 years of experience testing, and launching software products.
+* 5 years of experience programming in Java, C\\+\\+ or Go.
+* 5 years of experience with distributed systems concepts like data replication, consistency models and fault tolerance.
+* 5 years of experience with file systems or storage management.
+
+  
+
+### **Preferred qualifications:**
+
+* Master’s degree or PhD in Engineering, Computer Science, or a related technical field.
+* 8 years of experience with data structures/algorithms.
+* 5 years of experience in a technical leadership role leading project teams and setting technical direction.
+* 3 years of experience working in a complex, matrixed organization involving cross\\-functional, or cross\\-business projects.
+* Experience with linux kernel internals.
+* Experience with distributed Machine Learning and Machine Learning infrastructure.
+
+**About the job**
+-----------------
+
+
+Google Cloud's software engineers develop the next\\-generation technologies that change how billions of users connect, explore, and interact with information and one another. We're looking for engineers who bring fresh ideas from all areas, including information retrieval, distributed computing, large\\-scale system design, networking and data storage, security, artificial intelligence, natural language processing, UI design and mobile; the list goes on and is growing every day. As a software engineer, you will work on a specific project critical to Google Cloud's needs with opportunities to switch teams and projects as you and our fast\\-paced business grow and evolve. You will anticipate our customer needs and be empowered to act like an owner, take action and innovate. We need our engineers to be versatile, display leadership qualities and be enthusiastic to take on new problems across the full\\-stack as we continue to push technology forward.
+
+
+
+Google Cloud Storage (GCS) is a global\\-scale object storage system that manages exabytes of data across objects, processing queries per second for both Google Cloud customers and Google itself. This distributed service supports global AI, consumer, and enterprise companies, as well as numerous startups, and is a key business driver for Google Cloud, with the GCS, AI/ML Solutions team developing products like GCS Fuse, which provides performant file interface.
+
+
+Google Cloud accelerates every organization’s ability to digitally transform its business and industry. We deliver enterprise\\-grade solutions that leverage Google’s cutting\\-edge technology, and tools that help developers build more sustainably. Customers in more than 200 countries and territories turn to Google Cloud as their trusted partner to enable growth and solve their most critical business problems.
+
+
+The US base salary range for this full\\-time position is $248,000\\-$349,000 \\+ bonus \\+ equity \\+ benefits. Our salary ranges are determined by role, level, and location. Within the range, individual pay is determined by work location and additional factors, including job\\-related skills, experience, and relevant education or training. Your recruiter can share more about the specific salary range for your preferred location during the hiring process. Please note that the compensation details listed in US role postings reflect the base salary only, and do not include bonus, equity, or benefits. Learn more about benefits at Google.
+
+**Responsibilities**
+--------------------
+
+* Help us figure out a roadmap to make GCS the Cloud Storage for AIML workloads.
+* Lead a team of engineers to design, develop, and deploy new GCS features and enhancements. Provide technical guidance, mentorship, and code reviews to ensure quality software development.
+* Architect and design systems that meet the needs of GCS growing AI/ML customer base. Make data\\-driven decisions to optimize system performance and efficiency.
+* Troubleshoot technical issues, analyze performance bottlenecks, and develop innovative solutions to address customer tests. Collaborate with cross\\-functional teams to resolve issues.
+* Stay abreast of the latest trends in AI and drive innovation within the GCS team. Propose and implement new features that enhance GCS capabilities and differentiate it from performers.
+Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also Google's EEO Policy and EEO is the Law. If you have a disability or special need that requires accommodation, please let us know by completing our Accommodations for Applicants form.","","https://www.indeed.com/cmp/Google","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/fff4be3829cee39e477a518f55475f44","http://goo.gle/3ygdkgv","Mountain View, CA","10,000+","more than $10B (USD)","Our mission is to organize the world’s information and make it universally accessible and useful. ","","","","","",""
+"in-1cd19a58f9357c6e","indeed","https://www.indeed.com/viewjob?jk=1cd19a58f9357c6e","https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/301930","Consulting Technical Manager","Oracle","Bridgewater, NJ, US","2025-07-11","fulltime","direct_data","yearly",83831.0,153745.0,"USD",True,"","","","","**Entity** : Oracle Financial Services Software, Inc.  
+
+
+
+**Job Duties** : Lead solution design and implementation aspects of engagement(s) ensuring high\\-quality, integrated software solutions within constraints of time and budget. As a recognized authority and leading contributor within their practice, this senior\\-level consulting position provides consistent high quality and innovative solution leadership to a project team. Analyzes business needs to help ensure Oracle solution meets the customer’s objectives by combining industry best practices, product knowledge, and business acumen. Exercises judgment and business acumen in selecting methods and techniques to deliver functional and technical solutions on non\\-routine and very complex aspects of applications and technology installations. Provides direction and mentoring to project teams, leads technical team, and effectively influences customer leadership on key decisions. Assigns tasks, mentors team, tracks deliverables, and oversees activities of the team (e.g.\\-configuring the solution, data loading, UI configurations, etc). Coordinate technical interviews. Provide performance feedback to management for team. Interact with sales and product management to recommend future product enhancements. Support business development efforts by pursuing new opportunities and extensions. Collaborate with consulting sales team by providing domain expertise. Resolves complex customer issues by recommending and implementing solutions. Demonstrates expertise in multiple business processes across two or more product families or ability to architect and design technology solutions encompassing multiple products and make decisions based on impact across the stack. May work at various unanticipated locations throughout U.S. May telecommute. (6181\\.1959\\)  
+
+
+
+Employer will accept a Bachelor's degree in Computer Science, Engineering or related field and 2 years of experience in the job offered or in a technical consulting\\-related occupation. Position requires:
+
+
+* SQL, PL/SQL;
+* Core Java, J2EE – Servlets, JSP and JDBC;
+* Oracle 9i/10g/11g/12c/19c;
+* Microsoft Windows and UNIX based servers;
+* Java/J2EE, JS, XML, Websphere/Weblogic Servers, OBIEE IDE, Eclipse SDK, Oracle JDeveloper, PLSQL Developer, SQL Plus, Toad, Miscroservices;
+* Build/Versioning Tools : Rational ClearCase, Apache Subversion(SVN); and,
+* Windows/Unix/Linux (GUI).","Internet And Software","https://www.indeed.com/cmp/Oracle","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/7469a5861d5fac78de05b68853a2b2ee","https://oracle.com/careers","2300 Oracle Way
+Austin, TX 78741","10,000+","more than $10B (USD)","Oracle is the cloud leader for global business. Our technologies are transforming the world and no matter how complex, they have one thing in common: making our shared future better.","","","","","",""
+"in-15859476cb3aeb41","indeed","https://www.indeed.com/viewjob?jk=15859476cb3aeb41","https://jobs.ashbyhq.com/dailypay/70c8ba02-94d7-4c97-a739-d40596e3265d?utm_source=DqjBd2XJm4","Senior Software Engineer","DailyPay Inc","New York, NY, US","2025-07-11","fulltime","direct_data","yearly",129000.0,200000.0,"USD",True,"","","","","**About Us:**  
+
+DailyPay is transforming the way people get paid. As a worktech company and the industry’s leading on demand pay solution, DailyPay uses an award\\-winning technology platform to help America’s top employers build stronger relationships with their employees. This voluntary employee benefit enables workers everywhere to feel more motivated to work harder and stay longer on the job while supporting their financial well\\-being outside of the workplace.  
+
+DailyPay is headquartered in New York City, with operations throughout the United States as well as in Belfast. For more information, visit DailyPay's Press Center.
+
+**The Role:**
+-------------
+
+
+You’ll work alongside a supportive, high\\-impact team of skilled backend developers to improve how other teams deploy and access their services, how we move data across our platform, and how we automate operations to enable future scale.
+
+
+Our backend engineering teams specialise in developing robust and scalable Go microservices, leveraging a tech stack that includes AWS, Docker, Postgres, and Kafka. We’re looking for engineers who are passionate about building high\\-quality solutions and who thrive in a dynamic and collaborative environment.
+
+
+If this opportunity excites you, we encourage you to apply even if you do not meet all of the qualifications.
+
+**How You Will Make an Impact:**
+--------------------------------
+
+* Design, develop and maintain scalable backend services and APIs
+* Contribute to the transition to microservices, designing APIs and event\\-driven architecture
+* Optimise database performance and data structures for high\\-traffic, real\\-time applications
+* Collaborate with cross\\-functional teams to align technical solutions with business needs
+* Mentor engineers, perform code\\-reviews and drive best practices in Golang
+
+**What You Bring to The Team:**
+-------------------------------
+
+* 5\\+ years hands on software development experience working with strongly\\-typed languages (Go, Java, etc.)
+* Demonstrated proficiency writing maintainable, high quality, robust code
+* Experience in designing and developing micro services in one or more cloud computing services (AWS, Azure, GCP, etc)
+* Experience with SQL databases
+* Strong problem\\-solving skills and a pragmatic approach to engineering problems and a demonstrated willingness to learn new technologies
+* Knowledge of message queues (SQS, Kafka, etc.) and asynchronous processing patterns
+* Excellent written and verbal communication skills
+
+**Nice to Haves:**
+------------------
+
+* Understanding of Agile or Kanban / Lean software development methodologies
+* Experience using Jira for software engineering
+* Experience building and designing complex software systems that have been
+
+
+successfully delivered to customers
+
+**What We Offer:**
+------------------
+
+* Exceptional health, vision, and dental care
+* Opportunity for equity ownership
+* Life and AD\\&D, short\\- and long\\-term disability
+* Employee Assistance Program
+* Employee Resource Groups
+* Fun company outings and events
+* Unlimited PTO
+* 401K with company match
+
+  
+
+\\#BI\\-Remote \\#LI\\-Remote
+
+  
+
+Compensation Range: $129K \\- $200K","","https://www.indeed.com/cmp/Dailypay-Inc","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/66129a8b343da8ea3b792bd0b4b1c49d","http://www.dailypay.com/careers","55 Water Street
+New York, NY 10038","501 to 1,000","","DailyPay, powered by its industry-leading technology platform, is on a mission to build a new financial system and the mindset to reimagine the way money moves, from the moment work starts.","","","","","",""
+"in-d5df835e0cff5e8a","indeed","https://www.indeed.com/viewjob?jk=d5df835e0cff5e8a","https://app.jobvite.com/CompanyJobs/Job.aspx?j=oQfywfwT&loc=C5aTXfwP&s=Indeed","Customer Solution Architect","Ookla","New York, NY, US","2025-07-11","fulltime","direct_data","yearly",75000.0,115000.0,"USD",False,"","","","","Ookla® is a global leader in connectivity intelligence, offering unparalleled network insights through the combined expertise of Speedtest®, Downdetector®, RootMetrics®, and Ekahau®. Ookla’s complementary datasets combine crowdsourced and controlled, public and private collection methods, QoS and QoE metrics, and more to unlock correlations and actionable insights — helping organizations optimize networks, enhance digital experiences, and create better connected experiences for end\\-users.
+
+
+Our team is a group of people brought together through passion and inspired by possibility. We are looking for team members who love solving problems, are motivated by challenges, and enjoy turning clever ideas into exceptional products. When you work for us, you are using Ookla data and insights to advance our mission of better connectivity for all.
+
+### **Job Overview:**
+
+
+We are seeking an experienced and proactive Customer Solution Architect to join our team. As a Solution Architect, you will be responsible for designing, developing, and implementing solutions that address business needs while meeting technical requirements. You will work closely with cross\\-functional teams, including business analysts, developers, and project managers, to ensure the successful delivery of high\\-quality, scalable, and sustainable solutions.
+
+### **Key Responsibilities:**
+
+* **Solution Design**: Lead the architecture and design of end\\-to\\-end solutions for business problems, ensuring they are scalable, secure, and cost\\-effective.
+* **Requirement Analysis**: Work with stakeholders to gather and analyze business requirements and translate them into technical specifications.
+* **Stakeholder Engagement**: Collaborate with business leaders, product owners, and technical teams to define project scope and objectives, ensuring alignment with business goals.
+* **Technical Leadership**: Provide guidance to development teams, ensuring that solutions adhere to architectural best practices, standards, and industry best practices.
+* **Technology Evaluation**: Assess and recommend appropriate technologies and tools for various solutions, ensuring they align with the organization’s tech stack.
+* **Risk Management**: Identify potential risks or challenges associated with the architecture and provide solutions to mitigate them.
+* **Documentation**: Create and maintain clear documentation of architectural designs, processes, and solutions to ensure effective communication across teams.
+* **Quality Assurance**: Ensure solutions meet quality and performance standards through testing, validation, and peer reviews.
+* **Continuous Improvement**: Stay up to date with industry trends, emerging technologies, and best practices to ensure the team’s solutions are innovative and competitive.
+
+### **Required Skills \\& Qualifications:**
+
+* **Bachelor’s degree** in Computer Science, Engineering, Information Technology, or related field (or equivalent work experience).
+* Proven experience as a Solution Architect, Technical Architect, or similar role with a strong track record of designing and implementing enterprise\\-level solutions.
+* Deep understanding of system architecture, data engineering, software development life cycle (SDLC), cloud computing (e.g., AWS, Azure, Google Cloud), and enterprise integration techniques.
+* Expertise in designing solutions across various domains, such as enterprise applications, data management, security, and cloud infrastructure.
+* Strong proficiency in programming languages, frameworks, and development methodologies.
+* Ability to effectively communicate complex technical concepts to non\\-technical stakeholders.
+* Excellent problem\\-solving skills and the ability to think critically and innovatively.
+* Strong leadership and team collaboration skills, with experience mentoring junior developers and architects.
+
+### **Preferred Skills:**
+
+* Experience with Agile or DevOps methodologies.
+* Telecom and IT industry experioence
+* Certifications like TOGAF (The Open Group Architecture Framework), AWS Certified Solutions Architect, or similar are desirable.
+
+**Benefits**
+
+We care deeply about each other and the work we do, and our perks are just one way we demonstrate this. We offer a comprehensive benefits package, including (but not limited to):* 401(k) matching
+* Unlimited PTO
+* Employee Stock Purchase Plan options
+* Health/dental/vision insurance coverage
+* Wellness benefits (Calm app, gym reimbursement, ERG groups, etc)
+* Employee Assistance Programs (EAP) (mental health, financial advice, legal guidance, and more)
+* Fertility options
+* Pregnancy support
+* Pet insurance
+* Enhanced parental leave
+* Disability coverage
+
+
+
+As required by applicable Pay Transparency laws, Ookla provides a range for the base pay. Factors that may be used to determine your actual pay may include your specific job related knowledge, skills, experience, and geographic location. Some roles may include a target bonus or sales commission plan based on level of role. The base pay for this position ranges from $75,000/year up to $115,000/year in base salary.
+
+If you’re passionate about joining the work we’re doing, we welcome your application and encourage applicants with both traditional and non\\-traditional experience that makes them an excellent candidate for the role. We strongly believe diversity of all kinds makes us better. We are an equal opportunity employer actively working to build an inclusive workforce at all levels of the company. \\[Read our latest diversity report from our parent company **here.**] Ookla is an equal opportunity employer, and qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender perception or identity, national origin, age, marital status, protected veteran status, disability status, or any other characteristic protected by law.","","https://www.indeed.com/cmp/Ookla","","http://www.ookla.com","Seattle, WA","51 to 200","Decline to state","Ookla® is the global leader in internet testing, data and analysis. Speedtest®, the company’s flagship product, is the most accurate way to measure internet performance and network diagnostics.","","","","","",""
+"in-ba5f6e1cbc39e902","indeed","https://www.indeed.com/viewjob?jk=ba5f6e1cbc39e902","https://candidateportal.ceipal.com/jobs/job_description/dnBqV3NLeGpBR1dCRzNTbkI5TGNnUT09#.job_boards.Indeed","Senior Full Stack Lead Engineer (Remote)","Centstone","Hazlet, NJ, US","2025-07-11","fulltime, contract","direct_data","yearly",68207.0,83847.0,"USD",True,"","","","","**Job Title:** Senior Full Stack Lead Engineer (Remote)  
+
+**Experience:** 10\\+ Years  
+
+**Location:** Remote  
+
+**Type:** Full\\-Time / Contract
+
+
+**Position Overview:**
+We are looking for a **Senior Full Stack Lead Engineer** with 10\\+ years of experience to lead a cross\\-functional engineering team. The ideal candidate will have strong hands\\-on experience in backend development, big data processing, event streaming technologies, and semi\\-structured data handling. This is a remote role requiring strong leadership and technical skills across .NET, PySpark, Kafka/Event Hub, and MongoDB.
+
+
+**Key Responsibilities:**
+* Lead and contribute to full\\-stack development initiatives using **.NET C\\#** and **RESTful APIs**
+* Design and implement data engineering pipelines using **PySpark**
+* Manage **real\\-time event streaming** solutions using **Kafka** or **Azure Event Hub**
+* Oversee **semi\\-structured data modeling and optimization** using **MongoDB**
+* Work closely with data engineers and backend developers to ensure seamless integration and data flow
+* Provide technical leadership and mentorship across the team
+* Maintain high coding standards and contribute to architecture decisions
+* Collaborate with cross\\-functional stakeholders to meet product and data objectives
+
+**Required Skills:**
+* 10\\+ years of overall software development experience
+* Proven experience in backend API development with **.NET C\\#**
+* Strong experience in **data engineering using PySpark**
+* Hands\\-on experience with **Kafka** or **Azure Event Hub** for real\\-time data streaming
+* Solid understanding of **semi\\-structured data systems, especially MongoDB**
+* Leadership experience in managing cross\\-functional development teams
+* Excellent problem\\-solving and system design capabilities
+* Strong verbal and written communication skills
+
+**Preferred Qualifications:**
+* Experience working in cloud environments (Azure preferred)
+* Familiarity with DevOps tools, CI/CD pipelines
+* Exposure to containerization (Docker, Kubernetes)","","https://www.indeed.com/cmp/Centstone","","","","","","","","","","","",""
+"in-0fca5fc7426884b3","indeed","https://www.indeed.com/viewjob?jk=0fca5fc7426884b3","https://www.capgemini.com/jobs/TijB-pcB90OGbO4wfn5W/287331-en_GB/",".Net developer with SQL","Capgemini","New York, NY, US","2025-07-11","fulltime","direct_data","yearly",61087.0,104364.0,"USD",False,"","","","","**Choosing Capgemini means choosing a company where you will be empowered to shape your career in the way you’d like, where you’ll be supported and inspired by a collaborative community of colleagues around the world, and where you’ll be able to reimagine what’s possible. Join us and help the world’s leading organizations unlock the value of technology and build a more sustainable, more inclusive world.**
+
+**Job Description:**
+--------------------
+
+**The Full Stack Senior Engineer is responsible for designing, developing and maintaining legacy and """"Cloud First"""" applications written primarily in C\\# and focused on .Net Core and Azure cloud platform.**
+
+**What Will You Do?**
+---------------------
+
+* **Will help lead in the design \\& development of cross\\-functional, multi\\-platform application systems.**
+* **Writing great quality code with a drive for automated testing and validation based on the You Build You Own (YBYO) model.**
+* **Perform complex engineering activities for performance tuning, monitoring, deployment and production support.**
+* **Research, influence and implement vendor dependency to simplify the architecture.**
+* **Implement, maintain and update CI/CD pipelines on a cloud environment.**
+* **Collaborate with business partners, architects and other groups to identify complex technical and functional needs of systems based on priority.**
+* **Collaborate with multiple, enterprise\\-wide distributed performing teams to deliver new capabilities in business applications.**
+* **Design and develop API's for Omni\\-channel clients.**
+* **Build APIs and UIs to help make use of large data sets, infrastructure and user experience.**
+* **Provide programming expertise and business analysis skills within broad business area, usually as a senior member of a project team, in analyzing, designing, modifying, and developing business applications.**
+* **Create and educate on programming specifications from which programs will be written, and designs, codes, tests, debugs, and documents programs.**
+* **Create \\& review programming documentation and recommend changes in development, maintenance and application standards.**
+* **Analyze and develop logical database designs, data models and relational data definitions across multiple computing environments (e.g., host based, distributed systems, client server, etc.)**
+* **Comply with architectural standards and established methodologies and practices.**
+**Required Qualifications:**
+----------------------------
+
+* **Minimum of 6\\+ years of experience: .NET**
+* **Minimum of 6\\+ years experience with databases and data modeling / design (SQL and NoSQL)**
+* **Minimum of 5\\+ years coordinating team efforts in a project or operations environment**
+* **Minimum of 3 years in full stack development for cloud solutions (Azure or AWS) \\- Azure preferred**
+**Additional Qualifications:**
+------------------------------
+
+* **8\\+ years of experience managing software development projects through complete release cycles**
+* **4\\+ years of experience in big data and event streaming technologies: Spark, Kafka, etc.**
+* **4\\+ years of experience leading software engineering teams**
+* **4\\+ years of experience with container and orchestration: Docker, Kubernetes, etc.**
+* **4\\+ years of experience in build and CICD technologies: GitHub, BitBucket, Azure DevOps, Maven, Jenkins, Nexus or Sonar**
+* **4\\+ years of experience in quality assurance technologies: ATDD, Selenium, Cucumber, NUnit, SoapUI or Postman**
+* **4\\+ years of experience in Unix Shell scripting**
+* **Certified in .Net, or cloud technologies**
+* **Exposure of data management methodologies**
+* **Experience with serverless architectures and computing**
+* **Preferably 2\\+ UI/UX development \\& design systems: CSS, Web Components, Less, Sass""**
+**Life at Capgemini:**
+----------------------
+
+**Capgemini supports all aspects of your well\\-being throughout the changing stages of your life and career. For eligible employees, we offer:**  
+
+* **Flexible work**
+* **Healthcare including dental, vision, mental health, and well\\-being programs**
+* **Financial well\\-being programs such as 401(k) and Employee Share Ownership Plan**
+* **Paid time off and paid holidays**
+* **Paid parental leave**
+* **Family building benefits like adoption assistance, surrogacy, and cryopreservation**
+* **Social well\\-being benefits like subsidized back\\-up child/elder care and tutoring**
+* **Mentoring, coaching and learning programs**
+* **Employee Resource Groups**
+* **Disaster Relief**
+**Salary Transparency:**
+------------------------
+
+**Capgemini discloses salary range information in compliance with state and local pay transparency obligations. The disclosed range represents the lowest to highest salary we, in good faith, believe we would pay for this role at the time of this posting, although we may ultimately pay more or less than the disclosed range, and the range may be modified in the future. The disclosed range takes into account the wide range of factors that are considered in making compensation decisions including, but not limited to, geographic location, relevant education, qualifications, certifications, experience, skills, seniority, performance, sales or revenue\\-based metrics, and business or organizational needs. At Capgemini, it is not typical for an individual to be hired at or near the top of the range for their role. The base salary range for the tagged location is $61087 to $104364/annum.**
+
+**This role may be eligible for other compensation including variable compensation, bonus, or commission. Full time regular employees are eligible for paid time off, medical/dental/vision insurance, 401(k), and any other benefits to eligible employees.**
+
+**Note: No amount of pay is wages or compensation until such amount is earned, vested, and determinable. The amount and availability of any bonus, commission, or any other form of compensation that are allocable to a particular employee remains in the Company's sole discretion unless and until paid and may be modified at the Company’s sole discretion, consistent with the law.**
+
+**Capgemini is an Equal Opportunity Employer:**
+-----------------------------------------------
+
+**Capgemini is an Equal Opportunity Employer encouraging diversity in the workplace. All qualified applicants will receive consideration for employment without regard to race, national origin, gender identity/expression, age, religion, disability, sexual orientation, genetics, veteran status, marital status or any other characteristic protected by law.**
+
+**This is a general description of the Duties, Responsibilities and Qualifications required for this position. Physical, mental, sensory or environmental demands may be referenced in an attempt to communicate the manner in which this position traditionally is performed. Whenever necessary to provide individuals with disabilities an equal employment opportunity, Capgemini will consider reasonable accommodations that might involve varying job requirements and/or changing the way this job is performed, provided that such accommodations do not pose an undue hardship.**
+
+**Capgemini is committed to providing reasonable accommodations during our recruitment process. If you need assistance or accommodation, please get in touch with your recruiting contact.**
+
+**Click the following link for more information on your rights as an Applicant** **http://www.capgemini.com/resources/equal\\-employment\\-opportunity\\-is\\-the\\-law** **.**
+
+**Capgemini is a global business and technology transformation partner, helping organizations to accelerate their dual transition to a digital and sustainable world, while creating tangible impact for enterprises and society. It is a responsible and diverse group of 340,000 team members in more than 50 countries. With its strong over 55\\-year heritage, Capgemini is trusted by its clients to unlock the value of technology to address the entire breadth of their business needs. It delivers end\\-to\\-end services and solutions leveraging strengths from strategy and design to engineering, all fueled by its market leading capabilities in AI, generative AI, cloud and data, combined with its deep industry expertise and partner ecosystem.**","","https://www.indeed.com/cmp/Capgemini","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/705e8467dd710fe59b83f3f0d13d2b16","https://www.capgemini.com","Paris","10,000+","more than $10B (USD)","With more than 325,000 people, Capgemini is present in over 50 countries and celebrated its 50th Anniversary year in 2017.","","","","","",""
+"in-6c3544235a7d7b51","indeed","https://www.indeed.com/viewjob?jk=6c3544235a7d7b51","https://www.capgemini.com/jobs/UCjB-pcB90OGbO4wfn5z/287332-en_GB/",".Net developer with SQL","Capgemini","New York, NY, US","2025-07-11","fulltime","direct_data","yearly",61087.0,104364.0,"USD",False,"","","","","**Choosing Capgemini means choosing a company where you will be empowered to shape your career in the way you’d like, where you’ll be supported and inspired by a collaborative community of colleagues around the world, and where you’ll be able to reimagine what’s possible. Join us and help the world’s leading organizations unlock the value of technology and build a more sustainable, more inclusive world.**
+
+**Job Description:**
+--------------------
+
+**The Full Stack Senior Engineer is responsible for designing, developing and maintaining legacy and """"Cloud First"""" applications written primarily in C\\# and focused on .Net Core and Azure cloud platform.**
+
+**WHAT WILL YOU DO?**
+---------------------
+
+* **Will help lead in the design \\& development of cross\\-functional, multi\\-platform application systems.**
+* **Writing great quality code with a drive for automated testing and validation based on the You Build You Own (YBYO) model.**
+* **Perform complex engineering activities for performance tuning, monitoring, deployment and production support.**
+* **Research, influence and implement vendor dependency to simplify the architecture.**
+* **Implement, maintain and update CI/CD pipelines on a cloud environment.**
+* **Collaborate with business partners, architects and other groups to identify complex technical and functional needs of systems based on priority.**
+* **Collaborate with multiple, enterprise\\-wide distributed performing teams to deliver new capabilities in business applications.**
+* **Design and develop API's for Omni\\-channel clients.**
+* **Build APIs and UIs to help make use of large data sets, infrastructure and user experience.**
+* **Provide programming expertise and business analysis skills within broad business area, usually as a senior member of a project team, in analyzing, designing, modifying, and developing business applications.**
+* **Create and educate on programming specifications from which programs will be written, and designs, codes, tests, debugs, and documents programs.**
+* **Create \\& review programming documentation and recommend changes in development, maintenance and application standards.**
+* **Analyze and develop logical database designs, data models and relational data definitions across multiple computing environments (e.g., host based, distributed systems, client server, etc.)**
+* **Comply with architectural standards and established methodologies and practices.**
+**Required Qualifications:**
+----------------------------
+
+* **Minimum of 5\\+ years of experience: .NET**
+* **Minimum of 5\\+ years experience with databases and data modeling / design (SQL and NoSQL)**
+* **Minimum of 4\\+ years coordinating team efforts in a project or operations environment**
+* **Minimum of 2 years in full stack development for cloud solutions (Azure or AWS) \\- Azure preferred**
+**Additional Qualifications:**
+------------------------------
+
+* **6\\+ years of experience managing software development projects through complete release cycles**
+* **3\\+ years of experience in big data and event streaming technologies: Spark, Kafka, etc.**
+* **3\\+ years of experience leading software engineering teams**
+* **3\\+ years of experience with container and orchestration: Docker, Kubernetes, etc.**
+* **3\\+ years of experience in build and CICD technologies: GitHub, BitBucket, Azure DevOps, Maven, Jenkins, Nexus or Sonar**
+* **3\\+ years of experience in quality assurance technologies: ATDD, Selenium, Cucumber, NUnit, SoapUI or Postman**
+* **3\\+ years of experience in Unix Shell scripting**
+* **Certified in .Net, or cloud technologies**
+* **Exposure of data management methodologies**
+* **Experience with serverless architectures and computing**
+* **Preferably 2\\+ UI/UX development \\& design systems: CSS, Web Components, Less, Sass""**
+**Life at Capgemini:**
+----------------------
+
+**Capgemini supports all aspects of your well\\-being throughout the changing stages of your life and career. For eligible employees, we offer:**  
+
+* **Flexible work**
+* **Healthcare including dental, vision, mental health, and well\\-being programs**
+* **Financial well\\-being programs such as 401(k) and Employee Share Ownership Plan**
+* **Paid time off and paid holidays**
+* **Paid parental leave**
+* **Family building benefits like adoption assistance, surrogacy, and cryopreservation**
+* **Social well\\-being benefits like subsidized back\\-up child/elder care and tutoring**
+* **Mentoring, coaching and learning programs**
+* **Employee Resource Groups**
+* **Disaster Relief**
+**Salary Transparency:**
+------------------------
+
+**Capgemini discloses salary range information in compliance with state and local pay transparency obligations. The disclosed range represents the lowest to highest salary we, in good faith, believe we would pay for this role at the time of this posting, although we may ultimately pay more or less than the disclosed range, and the range may be modified in the future. The disclosed range takes into account the wide range of factors that are considered in making compensation decisions including, but not limited to, geographic location, relevant education, qualifications, certifications, experience, skills, seniority, performance, sales or revenue\\-based metrics, and business or organizational needs. At Capgemini, it is not typical for an individual to be hired at or near the top of the range for their role. The base salary range for the tagged location is $61087 to $104364/annum.**
+
+**This role may be eligible for other compensation including variable compensation, bonus, or commission. Full time regular employees are eligible for paid time off, medical/dental/vision insurance, 401(k), and any other benefits to eligible employees.**
+
+**Note: No amount of pay is wages or compensation until such amount is earned, vested, and determinable. The amount and availability of any bonus, commission, or any other form of compensation that are allocable to a particular employee remains in the Company's sole discretion unless and until paid and may be modified at the Company’s sole discretion, consistent with the law.**
+
+**Capgemini is an Equal Opportunity Employer:**
+-----------------------------------------------
+
+**Capgemini is an Equal Opportunity Employer encouraging diversity in the workplace. All qualified applicants will receive consideration for employment without regard to race, national origin, gender identity/expression, age, religion, disability, sexual orientation, genetics, veteran status, marital status or any other characteristic protected by law.**
+
+**This is a general description of the Duties, Responsibilities and Qualifications required for this position. Physical, mental, sensory or environmental demands may be referenced in an attempt to communicate the manner in which this position traditionally is performed. Whenever necessary to provide individuals with disabilities an equal employment opportunity, Capgemini will consider reasonable accommodations that might involve varying job requirements and/or changing the way this job is performed, provided that such accommodations do not pose an undue hardship.**
+
+**Capgemini is committed to providing reasonable accommodations during our recruitment process. If you need assistance or accommodation, please get in touch with your recruiting contact.**
+
+**Click the following link for more information on your rights as an Applicant** **http://www.capgemini.com/resources/equal\\-employment\\-opportunity\\-is\\-the\\-law** **.**
+
+**Capgemini is a global business and technology transformation partner, helping organizations to accelerate their dual transition to a digital and sustainable world, while creating tangible impact for enterprises and society. It is a responsible and diverse group of 340,000 team members in more than 50 countries. With its strong over 55\\-year heritage, Capgemini is trusted by its clients to unlock the value of technology to address the entire breadth of their business needs. It delivers end\\-to\\-end services and solutions leveraging strengths from strategy and design to engineering, all fueled by its market leading capabilities in AI, generative AI, cloud and data, combined with its deep industry expertise and partner ecosystem.**","","https://www.indeed.com/cmp/Capgemini","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/705e8467dd710fe59b83f3f0d13d2b16","https://www.capgemini.com","Paris","10,000+","more than $10B (USD)","With more than 325,000 people, Capgemini is present in over 50 countries and celebrated its 50th Anniversary year in 2017.","","","","","",""
+"in-dcd313a112012ee9","indeed","https://www.indeed.com/viewjob?jk=dcd313a112012ee9","https://www.capgemini.com/jobs/TSjB-pcB90OGbO4wfn5G/287334-en_GB/","Sr. .NET Developer","Capgemini","New York, NY, US","2025-07-11","fulltime","direct_data","yearly",86129.0,127189.0,"USD",False,"","","","","**Choosing Capgemini means choosing a company where you will be empowered to shape your career in the way you’d like, where you’ll be supported and inspired by a collaborative community of colleagues around the world, and where you’ll be able to reimagine what’s possible. Join us and help the world’s leading organizations unlock the value of technology and build a more sustainable, more inclusive world.**
+
+**Job Description:**
+--------------------
+
+**The Full Stack Lead Engineer is responsible for designing, developing and maintaining legacy and """"Cloud First"""" applications written primarily in C\\# and focused on .Net Core and Azure cloud platform.**
+
+**WHAT WILL YOU DO?**
+---------------------
+
+* **Will help lead in the design \\& development of cross\\-functional, multi\\-platform application systems.**
+* **Writing great quality code with a drive for automated testing and validation based on the You Build You Own (YBYO) model.**
+* **Perform complex engineering activities for performance tuning, monitoring, deployment and production support.**
+* **Research, influence and implement vendor dependency to simplify the architecture.**
+* **Implement, maintain and update CI/CD pipelines on a cloud environment.**
+* **Collaborate with business partners, architects and other groups to identify complex technical and functional needs of systems based on priority.**
+* **Collaborate with multiple, enterprise\\-wide distributed performing teams to deliver new capabilities in business applications.**
+* **Design and develop API's for Omni\\-channel clients.**
+* **Build APIs and UIs to help make use of large data sets, infrastructure and user experience.**
+* **Own the full lifecycle for web software development, from ideas to production.**
+* **Provide programming expertise and business analysis skills within broad business area, usually as a senior member of a project team, in analyzing, designing, modifying, and developing business applications.**
+* **Create and educate on programming specifications from which programs will be written, and designs, codes, tests, debugs, and documents programs.**
+* **Create \\& review programming documentation and recommend changes in development, maintenance and application standards.**
+* **Analyze and develop logical database designs, data models and relational data definitions across multiple computing environments (e.g., host based, distributed systems, client server, etc.)**
+* **Comply with architectural standards and established methodologies and practices.**
+**Required Qualifications:**
+----------------------------
+
+* **Minimum of 6\\+ years of experience: .NET**
+* **Minimum of 6\\+ years experience with databases and data modeling / design (SQL and NoSQL)**
+* **Minimum of 5\\+ years coordinating team efforts in a project or operations environment**
+* **Minimum of 3 years in full stack development for cloud solutions (Azure or AWS) \\- Azure preferred**
+**Additional Qualifications:**
+------------------------------
+
+* **8\\+ years of experience managing software development projects through complete release cycles**
+* **5\\+ years of experience in leading teams and managing stakeholders**
+* **4\\+ years of experience in big data and event streaming technologies: Spark, Kafka, etc.**
+* **4\\+ years of experience leading software engineering teams**
+* **4\\+ years of experience with container and orchestration: Docker, Kubernetes, etc.**
+* **4\\+ years of experience in build and CICD technologies: GitHub, BitBucket, Azure DevOps, Maven, Jenkins, Nexus or Sonar**
+* **4\\+ years of experience in quality assurance technologies: ATDD, Selenium, Cucumber, NUnit, SoapUI or Postman**
+* **4\\+ years of experience in Unix Shell scripting**
+* **Certified in .Net, or cloud technologies**
+* **Exposure of data management methodologies**
+* **Experience with serverless architectures and computing**
+* **Preferably 2\\+ UI/UX development \\& design systems: CSS, Web Components, Less, Sass""**
+**Life at Capgemini:**
+----------------------
+
+**Capgemini supports all aspects of your well\\-being throughout the changing stages of your life and career. For eligible employees, we offer:**  
+
+* **Flexible work**
+* **Healthcare including dental, vision, mental health, and well\\-being programs**
+* **Financial well\\-being programs such as 401(k) and Employee Share Ownership Plan**
+* **Paid time off and paid holidays**
+* **Paid parental leave**
+* **Family building benefits like adoption assistance, surrogacy, and cryopreservation**
+* **Social well\\-being benefits like subsidized back\\-up child/elder care and tutoring**
+* **Mentoring, coaching and learning programs**
+* **Employee Resource Groups**
+* **Disaster Relief**
+**Salary Transparency:**
+------------------------
+
+**Capgemini discloses salary range information in compliance with state and local pay transparency obligations. The disclosed range represents the lowest to highest salary we, in good faith, believe we would pay for this role at the time of this posting, although we may ultimately pay more or less than the disclosed range, and the range may be modified in the future. The disclosed range takes into account the wide range of factors that are considered in making compensation decisions including, but not limited to, geographic location, relevant education, qualifications, certifications, experience, skills, seniority, performance, sales or revenue\\-based metrics, and business or organizational needs. At Capgemini, it is not typical for an individual to be hired at or near the top of the range for their role. The base salary range for the tagged location is $86129 to $127189/annum.**
+
+**This role may be eligible for other compensation including variable compensation, bonus, or commission. Full time regular employees are eligible for paid time off, medical/dental/vision insurance, 401(k), and any other benefits to eligible employees.**
+
+**Note: No amount of pay is wages or compensation until such amount is earned, vested, and determinable. The amount and availability of any bonus, commission, or any other form of compensation that are allocable to a particular employee remains in the Company's sole discretion unless and until paid and may be modified at the Company’s sole discretion, consistent with the law.**
+
+**Capgemini is an Equal Opportunity Employer:**
+-----------------------------------------------
+
+**Capgemini is an Equal Opportunity Employer encouraging diversity in the workplace. All qualified applicants will receive consideration for employment without regard to race, national origin, gender identity/expression, age, religion, disability, sexual orientation, genetics, veteran status, marital status or any other characteristic protected by law.**
+
+**This is a general description of the Duties, Responsibilities and Qualifications required for this position. Physical, mental, sensory or environmental demands may be referenced in an attempt to communicate the manner in which this position traditionally is performed. Whenever necessary to provide individuals with disabilities an equal employment opportunity, Capgemini will consider reasonable accommodations that might involve varying job requirements and/or changing the way this job is performed, provided that such accommodations do not pose an undue hardship.**
+
+**Capgemini is committed to providing reasonable accommodations during our recruitment process. If you need assistance or accommodation, please get in touch with your recruiting contact.**
+
+**Click the following link for more information on your rights as an Applicant** **http://www.capgemini.com/resources/equal\\-employment\\-opportunity\\-is\\-the\\-law** **.**
+
+**Capgemini is a global business and technology transformation partner, helping organizations to accelerate their dual transition to a digital and sustainable world, while creating tangible impact for enterprises and society. It is a responsible and diverse group of 340,000 team members in more than 50 countries. With its strong over 55\\-year heritage, Capgemini is trusted by its clients to unlock the value of technology to address the entire breadth of their business needs. It delivers end\\-to\\-end services and solutions leveraging strengths from strategy and design to engineering, all fueled by its market leading capabilities in AI, generative AI, cloud and data, combined with its deep industry expertise and partner ecosystem.**","","https://www.indeed.com/cmp/Capgemini","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/705e8467dd710fe59b83f3f0d13d2b16","https://www.capgemini.com","Paris","10,000+","more than $10B (USD)","With more than 325,000 people, Capgemini is present in over 50 countries and celebrated its 50th Anniversary year in 2017.","","","","","",""
+"in-9469797d5e202801","indeed","https://www.indeed.com/viewjob?jk=9469797d5e202801","https://job-boards.greenhouse.io/galaxydigitalservices/jobs/5535644004","MD, Application Architect New","Galaxy Digital","New York, NY, US","2025-07-11","","direct_data","yearly",250000.0,300000.0,"USD",False,"","","","careers@galaxy.com","**Who We Are:**  
+
+Galaxy is a global leader in digital assets and data center infrastructure, delivering solutions that accelerate progress in finance and artificial intelligence. We believe that blockchain and digital asset innovation will transform how value moves through the world – and we’re building the products and services to make that future a reality.  
+
+  
+
+Our institutional digital assets platform spans trading, investment banking, asset management, staking, self\\-custody, and tokenization technology. We also invest in and operate cutting\\-edge data center infrastructure to power AI and high\\-performance computing, addressing the growing demand for scalable energy and compute in the U.S.  
+
+  
+
+We work at the intersection of finance and technology, helping institutions, startups, and developers navigate a digitally native economy. Led by CEO and Founder Michael Novogratz, our team blends deep crypto expertise with institutional experience and a shared commitment to shaping the future of Web3 and AI.  
+
+  
+
+Galaxy is headquartered in New York City, with offices across North America, Europe, the Middle East, and Asia.  
+
+  
+
+To learn more about our businesses and products, visit www.galaxy.com.
+
+
+**What We Value:**
+
+
+
+We are a diverse team of free thinkers, and fast movers united to help investors and creators energize the global economy. We are looking for individuals who thrive in a culture of builders and overachievers and embrace high performance, transparent feedback, and a mission\\-first approach. Our culture shapes our way of working and gets us where we want to be.
+
+
+* *Seek Excellence.*
+* *Be Selective To Be Effective.*
+* *Be Highly Aligned, Loosely Coupled.*
+* *Disagree Transparently.*
+* *Encourage Independent Decision\\-Making.*
+* *Build Dream Teams.*
+**Who You Are:**  
+
+We are looking for a seasoned Application Architect at the Managing Director level to serve as the enterprise application architect across our technology stack. This individual will lead the design the evolution of our application architecture, ensuring alignment with business strategy, scalability, security, and performance goals. This is a high\\-impact, cross\\-functional role reporting directly to the CTO, with the mandate to establish the best architectural practices and influence technology decisions across Galaxy.
+
+
+**What You’ll Do:**
+
+
+* Serve as the company’s principal architect for application design and development, with ownership of end\\-to\\-end system architecture.
+* Partner closely with the CTO and senior engineering leads to define the strategic architectural direction, technical vision, and roadmap.
+* Design and maintain scalable, resilient, secure, and high\\-performance systems to support crypto\\-native workflows, digital asset custody, and trading infrastructure.
+* Define architecture standards, patterns, and best practices across front\\-end, back\\-end, and cloud\\-native systems.
+* Provide hands\\-on guidance to engineering teams during solution design and implementation, ensuring consistency with architectural vision.
+* Evaluate and select appropriate tools, technologies, and frameworks; own the application architecture review process.
+* Act as a thought leader and mentor to technical teams, fostering a culture of engineering excellence and architectural rigor.
+* Drive cross\\-functional collaboration across engineering, product, security, and infrastructure teams.
+  
+
+
+**What We’re Looking For:**
+
+
+* 15\\+ years of software engineering and architecture experience, with at least 5 years in a senior or principal architect role.
+* Strong track record designing and scaling distributed systems, particularly in fintech, crypto, or high\\-availability environments.
+* Deep understanding of secure application development, cryptographic principles, and secure key management.
+* Expertise in modern software development practices including microservices, event\\-driven architecture, cloud\\-native platforms (e.g., AWS/GCP), and containerization.
+* Experience with blockchain technologies, digital asset infrastructure, or decentralized systems is strongly preferred.
+* Excellent communication skills with the ability to influence senior stakeholders and translate complex technical concepts into business terms.
+* Proven ability to operate both strategically and tactically in a fast\\-paced, evolving environment.
+  
+
+
+**Bonus Points:**
+
+
+* Prior experience as the sole or lead application architect in a high\\-growth startup or crypto\\-native company.
+* Familiarity with financial services regulatory environments (e.g., SEC, FINRA, MiFID).
+* Strong software engineering background in languages such as Java, Go, Rust, or Kotlin.
+* Experience integrating with custody platforms, on\\-chain protocols, and institutional trading systems.
+  
+
+
+**What We Offer:**
+
+
+* Competitive base salary and discretionary bonus
+* Flexible Time Off (i.e. unlimited paid vacation days)
+* Company paid Holidays (11\\)
+* Company paid sick leave
+* Company\\-paid health and protective benefits for employees, partners, and other dependents
+* 3% 401(k) company contribution
+* Generous paid Parental Leave
+* Free virtual coaching and counseling sessions through Headspace
+* Opportunities to learn about the Crypto industry
+* Free daily snacks in\\-office
+* Smart, entrepreneurial, and fun colleagues
+* Employee Resource Groups
+
+
+Apply now and join us on our mission to engineer a new economic paradigm.
+
+
+The base salary ranges included below will be commensurate with candidate experience, expertise and local market. Final offer amounts are determined by multiple factors, including candidate experience and expertise. At Galaxy, we maintain a total compensation philosophy which consists of a competitive base salary, annual bonus, and equity incentives.
+
+
+Base Salary Range
+
+
+$250,000 \\- $300,000 USD
+
+*Galaxy respects diversity and seeks to provide equal employment opportunities to all employees and job applicants for employment without regard to actual or perceived age, race, color, creed, religion, sex or gender (including pregnancy, childbirth, lactation and related medical conditions), gender identity or gender expression (including transgender status), sexual orientation, marital or partnership or caregiver status, ancestry, national origin, citizenship status, disability, military or veteran status, protected medical condition as defined by applicable state or local law, genetic information or predisposing genetic characteristic, or other characteristic protected by applicable federal, state, or local laws and ordinances.*
+
+
+*We will endeavor to make a reasonable accommodation to the known limitations of a qualified applicant with a disability unless the accommodation would impose an undue hardship on the operation of our business. If you believe you require such assistance to complete the application process or to participate in an interview, please contact* *careers@galaxy.com.*","","https://www.indeed.com/cmp/Galaxy-Digital","","https://www.galaxydigital.com","Asheville","2 to 10","less than $1M (USD)","","","","","","",""
+"li-4265275113","linkedin","https://www.linkedin.com/jobs/view/4265275113","","Senior Software Engineer","NoGood","New York, NY","2025-07-11","","","","","","",False,"","","","","","","https://www.linkedin.com/company/nogood","","","","","","","","","","","",""
+"li-4253697643","linkedin","https://www.linkedin.com/jobs/view/4253697643","","Software Engineer, Core Product","Notion","New York, NY","","","","","","","",False,"","","","","","","https://www.linkedin.com/company/notionhq","","","","","","","","","","","",""
+"li-4265688654","linkedin","https://www.linkedin.com/jobs/view/4265688654","","Junior Full Stack Developer","Valitana","Stamford, CT","","","","","","","",False,"","","","","","","https://www.linkedin.com/company/valitana","","","","","","","","","","","",""
+"li-4265518483","linkedin","https://www.linkedin.com/jobs/view/4265518483","","Software Engineer, Netcode (Backend)","Viam","New York, NY","","","","","","","",False,"","","","","","","https://www.linkedin.com/company/viaminc","","","","","","","","","","","",""
+"li-4265693298","linkedin","https://www.linkedin.com/jobs/view/4265693298","","Software Engineer","PDG Consulting","New York, NY","","","","","","","",False,"","","","","","","https://www.linkedin.com/company/principal-development-group-consulting","","","","","","","","","","","",""
+"li-4237474772","linkedin","https://www.linkedin.com/jobs/view/4237474772","","Software Engineer, Platform","Houston Chronicle","New York, NY","","","","","","","",False,"","","","","","","https://www.linkedin.com/company/houston-chronicle","","","","","","","","","","","",""
+"li-4265553124","linkedin","https://www.linkedin.com/jobs/view/4265553124","","Fullstack Engineer","Cogent Security","New York, NY","","","","","","","",False,"","","","","","","https://www.linkedin.com/company/cogentsecurity","","","","","","","","","","","",""
+"li-4240995102","linkedin","https://www.linkedin.com/jobs/view/4240995102","","Software Engineer, Credit Card and SoFi Money","SoFi","New York, NY","","","","","","","",False,"","","","","","","https://www.linkedin.com/company/sofi","","","","","","","","","","","",""
+"li-4265815001","linkedin","https://www.linkedin.com/jobs/view/4265815001","","Software Engineer, New Grad & Entry Level","Jobright.ai","New York, NY","","","","","","","",False,"","","","","","","https://www.linkedin.com/company/jobright-ai","","","","","","","","","","","",""
+"li-4265688768","linkedin","https://www.linkedin.com/jobs/view/4265688768","","Software Engineer - Frontend, Entry Level","Jobright.ai","New York, NY","","","","","","","",False,"","","","","","","https://www.linkedin.com/company/jobright-ai","","","","","","","","","","","",""
+"li-4265692486","linkedin","https://www.linkedin.com/jobs/view/4265692486","","New Grad Software Engineer","Jobright.ai","New York, NY","","","","","","","",False,"","","","","","","https://www.linkedin.com/company/jobright-ai","","","","","","","","","","","",""
+"li-4265713103","linkedin","https://www.linkedin.com/jobs/view/4265713103","","Computer Associate (Software), Level III","New York City Police Department","","","","","","","","",False,"","","","","","","https://www.linkedin.com/company/new-york-city-police-department","","","","","","","","","","","",""
+"li-4240182883","linkedin","https://www.linkedin.com/jobs/view/4240182883","","Full Stack Deployment Engineer","Norm Ai","New York, NY","","","","","","","",False,"","","","","","","https://www.linkedin.com/company/normative-ai","","","","","","","","","","","",""
+"li-4265287335","linkedin","https://www.linkedin.com/jobs/view/4265287335","","Software Development Engineer II","Audible","Newark, NJ","","","","","","","",False,"","","","","","","https://www.linkedin.com/company/audible","","","","","","","","","","","",""
+"li-4265806968","linkedin","https://www.linkedin.com/jobs/view/4265806968","","Software Engineer (Entry Level)","Jobright.ai","New York, NY","","","","","","","",False,"","","","","","","https://www.linkedin.com/company/jobright-ai","","","","","","","","","","","",""
+"li-4265688858","linkedin","https://www.linkedin.com/jobs/view/4265688858","","Software Engineer (Entry Level)","Jobright.ai","New York, NY","","","","","","","",False,"","","","","","","https://www.linkedin.com/company/jobright-ai","","","","","","","","","","","",""
+"li-4263524864","linkedin","https://www.linkedin.com/jobs/view/4263524864","","Senior Software Engineer, Full Stack, Google Workspace","Google","New York, NY","","","","","","","",False,"","","","","","","https://www.linkedin.com/company/google","","","","","","","","","","","",""
+"li-4263541184","linkedin","https://www.linkedin.com/jobs/view/4263541184","","Software Engineer, Deploy Platform","DoorDash","New York, NY","","","","","","","",False,"","","","","","","https://www.linkedin.com/company/doordash","","","","","","","","","","","",""
+"li-4265817123","linkedin","https://www.linkedin.com/jobs/view/4265817123","","Software Engineer, New Grad & Entry Level","Jobright.ai","New York, NY","","","","","","","",False,"","","","","","","https://www.linkedin.com/company/jobright-ai","","","","","","","","","","","",""
+"li-4263526819","linkedin","https://www.linkedin.com/jobs/view/4263526819","","Software Engineer, Security","Google","New York, NY","","","","","","","",False,"","","","","","","https://www.linkedin.com/company/google","","","","","","","","","","","",""

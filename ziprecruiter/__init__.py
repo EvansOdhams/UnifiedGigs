@@ -21,6 +21,7 @@ from util import (
 from model import (
     JobPost,
     Compensation,
+    CompensationInterval,
     Location,
     JobResponse,
     Country,
@@ -187,6 +188,16 @@ class ZipRecruiter(Scraper):
         date_posted = datetime.fromisoformat(job["posted_time"].rstrip("Z")).date()
         comp_interval = job.get("compensation_interval")
         comp_interval = "yearly" if comp_interval == "annual" else comp_interval
+        
+        # Convert string interval to CompensationInterval enum
+        interval_enum = None
+        if comp_interval:
+            try:
+                interval_enum = CompensationInterval(comp_interval)
+            except ValueError:
+                # If the interval string doesn't match any enum value, set to None
+                interval_enum = None
+        
         comp_min = int(job["compensation_min"]) if "compensation_min" in job else None
         comp_max = int(job["compensation_max"]) if "compensation_max" in job else None
         comp_currency = job.get("compensation_currency")
@@ -199,7 +210,7 @@ class ZipRecruiter(Scraper):
             location=location,
             job_type=job_type,
             compensation=Compensation(
-                interval=comp_interval,
+                interval=interval_enum,
                 min_amount=comp_min,
                 max_amount=comp_max,
                 currency=comp_currency,

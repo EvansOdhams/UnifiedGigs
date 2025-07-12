@@ -144,11 +144,18 @@ def scrape_jobs(
             # Handle compensation
             compensation_obj = job_data.get("compensation")
             if compensation_obj and isinstance(compensation_obj, dict):
-                job_data["interval"] = (
-                    compensation_obj.get("interval").value
-                    if compensation_obj.get("interval")
-                    else None
-                )
+                # Safely handle interval - it might be a string or enum
+                interval_obj = compensation_obj.get("interval")
+                if interval_obj:
+                    if hasattr(interval_obj, 'value'):
+                        # It's an enum, get its value
+                        job_data["interval"] = interval_obj.value
+                    else:
+                        # It's a string or other type, use it directly
+                        job_data["interval"] = str(interval_obj)
+                else:
+                    job_data["interval"] = None
+                
                 job_data["min_amount"] = compensation_obj.get("min_amount")
                 job_data["max_amount"] = compensation_obj.get("max_amount")
                 job_data["currency"] = compensation_obj.get("currency", "USD")

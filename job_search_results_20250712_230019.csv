@@ -1,0 +1,108 @@
+"id","site","job_url","job_url_direct","title","company","location","date_posted","job_type","salary_source","interval","min_amount","max_amount","currency","is_remote","job_level","job_function","listing_type","emails","description","company_industry","company_url","company_logo","company_url_direct","company_addresses","company_num_employees","company_revenue","company_description","skills","experience_range","company_rating","company_reviews_count","vacancy_count","work_from_home_type"
+"in-15859476cb3aeb41","indeed","https://www.indeed.com/viewjob?jk=15859476cb3aeb41","https://jobs.ashbyhq.com/dailypay/70c8ba02-94d7-4c97-a739-d40596e3265d?utm_source=DqjBd2XJm4","Senior Software Engineer","DailyPay Inc","New York, NY, US","2025-07-11","fulltime","direct_data","yearly",129000.0,200000.0,"USD",True,"","","","","**About Us:**  
+
+DailyPay is transforming the way people get paid. As a worktech company and the industry’s leading on demand pay solution, DailyPay uses an award\\-winning technology platform to help America’s top employers build stronger relationships with their employees. This voluntary employee benefit enables workers everywhere to feel more motivated to work harder and stay longer on the job while supporting their financial well\\-being outside of the workplace.  
+
+DailyPay is headquartered in New York City, with operations throughout the United States as well as in Belfast. For more information, visit DailyPay's Press Center.
+
+**The Role:**
+-------------
+
+
+You’ll work alongside a supportive, high\\-impact team of skilled backend developers to improve how other teams deploy and access their services, how we move data across our platform, and how we automate operations to enable future scale.
+
+
+Our backend engineering teams specialise in developing robust and scalable Go microservices, leveraging a tech stack that includes AWS, Docker, Postgres, and Kafka. We’re looking for engineers who are passionate about building high\\-quality solutions and who thrive in a dynamic and collaborative environment.
+
+
+If this opportunity excites you, we encourage you to apply even if you do not meet all of the qualifications.
+
+**How You Will Make an Impact:**
+--------------------------------
+
+* Design, develop and maintain scalable backend services and APIs
+* Contribute to the transition to microservices, designing APIs and event\\-driven architecture
+* Optimise database performance and data structures for high\\-traffic, real\\-time applications
+* Collaborate with cross\\-functional teams to align technical solutions with business needs
+* Mentor engineers, perform code\\-reviews and drive best practices in Golang
+
+**What You Bring to The Team:**
+-------------------------------
+
+* 5\\+ years hands on software development experience working with strongly\\-typed languages (Go, Java, etc.)
+* Demonstrated proficiency writing maintainable, high quality, robust code
+* Experience in designing and developing micro services in one or more cloud computing services (AWS, Azure, GCP, etc)
+* Experience with SQL databases
+* Strong problem\\-solving skills and a pragmatic approach to engineering problems and a demonstrated willingness to learn new technologies
+* Knowledge of message queues (SQS, Kafka, etc.) and asynchronous processing patterns
+* Excellent written and verbal communication skills
+
+**Nice to Haves:**
+------------------
+
+* Understanding of Agile or Kanban / Lean software development methodologies
+* Experience using Jira for software engineering
+* Experience building and designing complex software systems that have been
+
+
+successfully delivered to customers
+
+**What We Offer:**
+------------------
+
+* Exceptional health, vision, and dental care
+* Opportunity for equity ownership
+* Life and AD\\&D, short\\- and long\\-term disability
+* Employee Assistance Program
+* Employee Resource Groups
+* Fun company outings and events
+* Unlimited PTO
+* 401K with company match
+
+  
+
+\\#BI\\-Remote \\#LI\\-Remote
+
+  
+
+Compensation Range: $129K \\- $200K","","https://www.indeed.com/cmp/Dailypay-Inc","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/66129a8b343da8ea3b792bd0b4b1c49d","http://www.dailypay.com/careers","55 Water Street
+New York, NY 10038","501 to 1,000","","DailyPay, powered by its industry-leading technology platform, is on a mission to build a new financial system and the mindset to reimagine the way money moves, from the moment work starts.","","","","","",""
+"in-ba5f6e1cbc39e902","indeed","https://www.indeed.com/viewjob?jk=ba5f6e1cbc39e902","https://candidateportal.ceipal.com/jobs/job_description/dnBqV3NLeGpBR1dCRzNTbkI5TGNnUT09#.job_boards.Indeed","Senior Full Stack Lead Engineer (Remote)","Centstone","Hazlet, NJ, US","2025-07-11","fulltime, contract","direct_data","yearly",68207.0,83847.0,"USD",True,"","","","","**Job Title:** Senior Full Stack Lead Engineer (Remote)  
+
+**Experience:** 10\\+ Years  
+
+**Location:** Remote  
+
+**Type:** Full\\-Time / Contract
+
+
+**Position Overview:**
+We are looking for a **Senior Full Stack Lead Engineer** with 10\\+ years of experience to lead a cross\\-functional engineering team. The ideal candidate will have strong hands\\-on experience in backend development, big data processing, event streaming technologies, and semi\\-structured data handling. This is a remote role requiring strong leadership and technical skills across .NET, PySpark, Kafka/Event Hub, and MongoDB.
+
+
+**Key Responsibilities:**
+* Lead and contribute to full\\-stack development initiatives using **.NET C\\#** and **RESTful APIs**
+* Design and implement data engineering pipelines using **PySpark**
+* Manage **real\\-time event streaming** solutions using **Kafka** or **Azure Event Hub**
+* Oversee **semi\\-structured data modeling and optimization** using **MongoDB**
+* Work closely with data engineers and backend developers to ensure seamless integration and data flow
+* Provide technical leadership and mentorship across the team
+* Maintain high coding standards and contribute to architecture decisions
+* Collaborate with cross\\-functional stakeholders to meet product and data objectives
+
+**Required Skills:**
+* 10\\+ years of overall software development experience
+* Proven experience in backend API development with **.NET C\\#**
+* Strong experience in **data engineering using PySpark**
+* Hands\\-on experience with **Kafka** or **Azure Event Hub** for real\\-time data streaming
+* Solid understanding of **semi\\-structured data systems, especially MongoDB**
+* Leadership experience in managing cross\\-functional development teams
+* Excellent problem\\-solving and system design capabilities
+* Strong verbal and written communication skills
+
+**Preferred Qualifications:**
+* Experience working in cloud environments (Azure preferred)
+* Familiarity with DevOps tools, CI/CD pipelines
+* Exposure to containerization (Docker, Kubernetes)","","https://www.indeed.com/cmp/Centstone","","","","","","","","","","","",""
+"li-4265712312","linkedin","https://www.linkedin.com/jobs/view/4265712312","","Senior .Net Engineer (120/HR) - REMOTE WORK","Lensa","New York, NY","","","","","","","",True,"","","","","","","https://www.linkedin.com/company/lensa","","","","","","","","","","","",""
+"li-4265707342","linkedin","https://www.linkedin.com/jobs/view/4265707342","","Senior .Net Developer | Remote | Contract","Lensa","New York, NY","","","","","","","",True,"","","","","","","https://www.linkedin.com/company/lensa","","","","","","","","","","","",""
