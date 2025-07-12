@@ -1,0 +1,1134 @@
+"id","site","job_url","job_url_direct","title","company","location","date_posted","job_type","salary_source","interval","min_amount","max_amount","currency","is_remote","job_level","job_function","listing_type","emails","description","company_industry","company_url","company_logo","company_url_direct","company_addresses","company_num_employees","company_revenue","company_description","skills","experience_range","company_rating","company_reviews_count","vacancy_count","work_from_home_type"
+"in-d23a25cb57d6006e","indeed","https://www.indeed.com/viewjob?jk=d23a25cb57d6006e","http://www.indeed.com/job/kdb-engineer-d23a25cb57d6006e","KDB+ Engineer","Emergent365","New York, NY, US","2025-05-22","fulltime","direct_data","yearly",125000.0,175000.0,"USD",True,"","","","","Location: **NYC or Newark, NJ**
+
+AVP Level, 5+ years’ experience
+
+125-175K base + bonus
+
+Hybrid, 2-3 days onsite
+
+Accepting H1B, OPT, TN Work Visa’s
+
+**Job Summary:**
+
+Financial firm with offices in Midtown NYC and Whippany NJ seeks a KDB+ Engineer to be part of a team responsible for building a Time Series Database for the Rates Trading business. Will have opportunity to be part of major rebuild and work directly with front office traders and quant traders. Will work closely with a team of Java developers for development, implementation and support of KDB+ solutions.Will collaborate extensively with Quant Traders working mostly in Python.
+
+Seeking a KDB+ Engineer with 5+ years of relevant experience building KDB solutions and strong Q programming skills. The full tech stack includes Python, Java, C++, AWS, Dockers, Kubernetes – experience with any is helpful but not required. Can be based in either Midtown NYC or Whippany NJ office.
+
+Must have:
+
+* BS in Comp Sci or similar
+* Min 3+ years’ KDB+
+* Min 3+ years’ Q programming
+* Proficiency in either Java, Python, C++
+* AWS, Docker, Kubernetes a plus
+
+**Job Description:**
+
+As a KDB Data Engineer you will deliver KDB+ solutions to support the growing Electronic Rates Trading business. The KDB technology team is responsible for the development and support of front office applications and systems that are used by the Macro business globally. In this role, you will be performing activities related to the design, development, unit testing, deployment, support, and maintenance of an exciting transformational enterprise project with high visibility.
+
+**Responsibilities:**
+
+To design, develop and improve software, utilizing various engineering methodologies, that provides business, platform, and technology capabilities for our customers and colleagues.
+
+* Development and delivery of high-quality software solutions by using industry aligned programming languages, frameworks, and tools. Ensuring that code is scalable, maintainable, and optimized for performance.
+* Cross-functional collaboration with product managers, designers, and other engineers to define software requirements, devise solution strategies, and ensure seamless integration and alignment with business objectives.
+* Collaboration with peers, participate in code reviews, and promote a culture of code quality and knowledge sharing.
+* Stay informed of industry technology trends and innovations and actively contribute to the organization’s technology communities to foster a culture of technical excellence and growth.
+* Adherence to secure coding practices to mitigate vulnerabilities, protect sensitive data, and ensure secure software solutions.
+* Implementation of effective unit testing practices to ensure proper code design, readability, and reliability.
+
+**Requirements:**
+
+* Software development experience with Q/KDB+ on Linux
+* Development In front office / electronic trading systems.
+* Handling and analyzing large amounts of tick data
+* Building production quality infrastructure
+
+**Nice to have:**
+
+* Experience with Java, Python or C++
+* Experience with Maven / Git / Team City / AWS / Containers
+* Notable knowledge of Agile and SDLC processes.
+* Understanding of Macro markets
+* Excellent verbal and written communication skills
+
+Job Type: Full-time
+
+Pay: $125,000.00 - $175,000.00 per year
+
+Benefits:
+
+* 401(k)
+* 401(k) matching
+* Dental insurance
+* Flexible schedule
+* Health insurance
+* Health savings account
+* Life insurance
+* Paid time off
+* Parental leave
+* Retirement plan
+* Vision insurance
+
+Compensation Package:
+
+* Bonus opportunities
+* Yearly bonus
+
+Schedule:
+
+* 8 hour shift
+* Monday to Friday
+
+Experience:
+
+* KDB+: 3 years (Required)
+* Q: 3 years (Required)
+
+Location:
+
+* New York, NY 10017 (Required)
+
+Ability to Commute:
+
+* New York, NY 10017 (Required)
+
+Ability to Relocate:
+
+* New York, NY 10017: Relocate before starting work (Required)
+
+Work Location: Hybrid remote in New York, NY 10017","","https://www.indeed.com/cmp/Emergent365","","","","","","","","","","","",""
+"in-60d26c1938978cfa","indeed","https://www.indeed.com/viewjob?jk=60d26c1938978cfa","https://hdid.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/preview/2798","VP, Platform Reliability Engineer","Jefferies LLC","Jersey City, NJ, US","2025-05-21","fulltime","direct_data","yearly",150000.0,200000.0,"USD",False,"","","","","We are seeking a Vice President, technologist within Platform Reliability Engineering and Management team to leverage SRE principles and practices. This role requires a multi-skilled professional with strong technical leadership, people management skills to deliver critical services ensuring Jefferies operates a highly stable, reliable, and resilient front-to-back plant.
+
+**Key Responsibilities:**
+
+* Provide technical leadership to high performing global team and provide oversight in plant stability across applications supporting post trade processing (Operations).
+* Navigate global technology department and wider organization to better understand problems and to help implement solutions.
+* Represent the stability function on associated program governance committees and working groups.
+* Proactive risk identification, prevention and detection controls and processes, and metrics to enhance plant stability.
+* Collaboration with other regional counterparts on technical and functional initiatives.
+* Automate to drive efficiency. You will identify and create automation to eliminate manual day to day support activities; scope and create automation for deployment, management and visibility of our services.
+* Extensive experience with implementing SRE principles in the organization such as SLOs/SLIs and TOIL measurement
+* Implement best practices for building successful monitoring and alerting systems. Experience with Observability platforms like Datadog and open telemetry is desired.
+* You will work closely with engineering/development teams to design, build, and maintain systems and help them decide on products to use, schema design and query tuning.
+Extensive troubleshooting abilities across the stack  
+
+**Required Skills & Qualifications:**
+
+Technical Skills:
+
+* Bachelor's degree or equivalent, ideally in an area related to technology infrastructure (e.g., engineering, computer science, etc.)
+* 10 plus years of support experience in Post trade processing for Fixed Income and Equities. Familiarity with Broadridge a plus.
+* Hands on experience with troubleshooting Application/Database/Data related issues.
+* Strong organization skills with the ability to multitask and prioritize; ability to work under pressure.
+* Experience in software development: automation-related experience desired.
+* Scripting languages such as PowerShell, python or compiled languages such as C#, JAVA are most relevant, but others are acceptable.
+* Extensive experience with Microsoft SQL server or any other DBMS including performance tuning.
+Deep understanding of operating system level concepts such as processes, memory allocation, and the network stack an understanding of how applications are affected by the above, and ability to debug same.  
+
+**Preferred Qualifications:**
+
+* Hands on experience with a scripting language and strong understanding of databases
+Prior experience as a developer in a large-scale financial firm  
+
+Primary Location Full Time Salary Range of $150,000 - $200,000.","Banks And Financial Services","https://www.indeed.com/cmp/Jefferies-LLC","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/37c6ad1daa9a545ebdbca2cbc600dcf2","http://www.jefferies.com/","New York, NY","10,000+","more than $10B (USD)","","","","","","",""
+"in-e647f7298c9d7db3","indeed","https://www.indeed.com/viewjob?jk=e647f7298c9d7db3","https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=92597001-ac6f-4a45-92ec-13f78d7b2194&ccId=19000101_000001&jobId=546835&source=IN&lang=en_US","Senior Digital Solutions Developer","HAZEN AND SAWYER","New York, NY, US","2025-05-21","fulltime","direct_data","yearly",90000.0,125000.0,"USD",False,"","","","","This is a mid-level to senior position with Hazen and Sawyer. This position will be part of the Cloud Services team, which provides professional level cloud-based software systems and architecture to create digital products to support Hazen’s core business. The team works both internally and with clients to identify digital product needs and coordinates closely with the subject matter experts to develop software systems to implement those needs.
+
+This position will report to the Director of Cloud Services and will be a member of a small mixed-discipline team all working together to bring modern cloud-based applications to the Hazen digital products portal. This position will involve, but is not limited to, working with water modeling experts to improve models, AI/ML experts to expose models via web applications, executing software engineering processes to capture users stories and requirements from customers and internal Hazen teams, designing and implementing full-stack solutions giving users an intuitive user interface, a robust server-side logic tier, and cloud-solutions based on accepted Well Architected Framework guidelines.
+
+The ideal candidate will have 5 to 7 or more years of experience in software development using a variety of technologies such as C#, Blazor, JavaScript and JavaScript based technologies such as ReactJS or Svelte, HTML and CSS; and will hold a Bachelor’s and/or Master’s Degree in relevant computer science or related fields. A robust background in software deployment, adeptly managing branches, and leveraging GitHub for seamless, automated deployment processes is a must. Excellent communication skills and experience working with clients, strong subject knowledge, humility, and tact are required for success. Fundamental knowledge of cloud computing concepts and building cloud-native applications is a must
+
+The ideal candidate will possess the ability to be self-managing and self-directing and be able to complete requisite tasks independently or with a team. The candidate should be comfortable taking a leading role in the team or supporting others to have positive project outcomes. The candidate should have demonstrated knowledge of rapidly acquiring new skills and being able to work in a variety of programming languages and technologies concurrently
+
+Excellent communication, teamwork and problem-solving skills are also required.
+
+**Job Responsibilities include, but are not limited to:**
+
+* Update and enhance existing C# based web and desktop applications to solve complex mathematical and engineering problems.
+* Develop and promote AI/ML solutions to improve software development efficiency and streamline the water resources modeling and engineering processes.
+* Maintain, debug and provide bug fixes, features and enhancements for existing software
+* Create, document and implement strategies for deploying developed software to the cloud
+* Assist in migrating an existing C# and C++ application into a cloud native deployment
+* Create, document and execute test plans to ensure developed software is of the highest quality, meets requirements, and handles errors and exceptions appropriately
+* Participate in Hazen directed software development processes and standards, meetings and use Hazen provided source code repositories and accepted DevOps patterns
+* Provide timely and valuable commentary during design and code reviews with the focus on providing the best products to our customers
+
+**Minimum Qualifications**
+
+* 5 to 7 or more years of software development experience is required
+* A Bachelor’s or Master’s degree in Computer Science, Engineering, or related STEM field
+* Demonstratable interest in environmental science, water quality, water treatment, or water resources management
+* Experience with software
+* Experience with programming languages such as C#, JavaScript, HTML and CSS is required
+
+**Desirable Skills**
+
+* Demonstratable knowledge of cloud computing concepts and building cloud-native/cloud-hosted applications is required
+* Experience with the Azure cloud is ideal
+* Using of AI/ML solutions to enhance software development and deployment
+
+This role is perfectly suited for developers/programmers who are driven by a commitment to protecting water resources and the environment.
+
+Employment Type: Full-time. Hybrid work policy (3 days/week in-office)","","https://www.indeed.com/cmp/Hazen-and-Sawyer","","https://www.hazenandsawyer.com/","498 Seventh Ave, 11th Floor
+New York, NY 10018","","","","","","","","",""
+"in-e330d49314dccde0","indeed","https://www.indeed.com/viewjob?jk=e330d49314dccde0","https://SynchronyFinancial.contacthr.com/147557465","VP, Solution Architect","Synchrony","New York, NY, US","2025-05-21","","direct_data","yearly",135000.0,230000.0,"USD",True,"","","","","Job Description:
+
+**Role Summary/Purpose:**
+
+The VP, Solution Architect is responsible for the technical leadership of multiple Data Engineering projects or programs on-prem and on public cloud environment such as AWS. This experienced architect will possess the depth & breadth of skills to develop an effective solution architecture, take prompt decisions, lead a team of developers, manage deadlines and other technical issues as they may arise.
+
+The VP, Solution Architect will need significant people and process skills, with ability to communicate complex ideas and issues in simple terms to project teams, external clients, and often senior management. They also need to deeply understand the business processes in order to create a cohesive vision of the products and services.
+
+***Our Way of Working***
+
+***We’re proud to offer you choice and flexibility. At Synchrony, our way of working allows you to have the option to work from home, near one of our Hubs or come into one of our offices. Occasionally you may be required to commute to our nearest office for in person engagement activities such as business or team meetings, training and culture events.***
+
+**Essential Responsibilities:**
+
+* Act as the Lead Solution Architect for the critical business initiative to develop an enterprise curated data store for analytic model development in AWS in compliance with regulatory requirements and contractual obligations using specific framework, platform, or tech-stack and effectively communicating the solution & collaborating with stakeholders.
+* Get involved in a project early, when analysts start developing requirements, and then remain involved till the end, provide detailed periodic updates to all stakeholders
+* Examine the current systems architecture, and work with business and technical staff to recommend solutions that result in more effective systems by selection of the most appropriate technology for a problem, and balance architectural concerns of the project with the business considerations of the enterprise.
+* Evaluate which patterns, methods and tools will be most effective and productive, define how the application will look and feel, what the components will be, and how they interact with each other, future scalability, and maintainability of the application
+* Evaluate advantages and risks in third-party frameworks/platforms
+* Oversee the programming, integration, and testing of software systems and associated artifacts.
+* Ensure the execution of the vision by providing appropriate level of direction to the designers and developers on how to build the prescribed solution.
+* Mentor other solution architects organize the development effort and often provide motivation and guidance to the entire development team for continuous improvements during the Agile execution process.
+* Participate in PI Planning and Pre- and Post-PI Planning, System and Solution Demos. Work with Enterprise Architect, to develop, analyze, split, and realize the implementation of enabler epics.
+* Responsible for defining and communicating a shared technical and architectural vision for the Agile Release Train (ART) to help ensure the system or Solution under development is fit for its intended purpose.
+* Participate with cross-functional teams in implementing policies and procedures related to Scaled Agile Framework (SAFe) and be an advocate in adopting Agile and SAFe best practices and processes.
+* Execute special projects as assigned
+* Perform other duties and/or special projects as assigned.
+
+**Qualifications/Requirements:**
+
+* Bachelor’s degree and a minimum 7+ years of experience in multiple IT areas or in lieu of a degree, high school diploma/GED and 10+ years of experience in multiple IT areas
+* Minimum of 7 years of data engineering implementation experience in using PySpark, Ab-Initio, other ETL technologies in conjunction with high volume Hadoop environments on-prem or public cloud such as Redshift in AWS, AWS Glue/Athena
+* Minimum 7 years of experience in Business Intelligence (BI) application architecture and design, data architecture frameworks, data model design in context of Oracle, or AWS Redshift, AWS Glue/Athena, and implementation experience on-prem or AWS of data quality, data profiling, master data management, metadata management and integration with data catalogues such as Collibra or similar technologies with a strong understanding of associated patterns, processes and tools in a complex environment in a large organization
+* Minimum 2 years of experience in managing a solution architecture function in AWS environment and leading a matrixed geographically distributed team
+* Hands-on experience with DevOps and delivery pipeline
+
+**Desired Characteristics:**
+
+* Strong working knowledge of fintech Industry as it relates to consumer financing
+* Experience with data engineering of curated data stores to support analytic model development in AWS requiring high quality, traceable, auditable data assets
+* Experience with validation of technology assumptions, evaluating implementation alternatives, and creating the Continuous Delivery Pipeline.
+* Critical thinking and creativity in building and deploying data engineering applications on cloud platforms and working knowledge of cloud migrations
+* Strong ability to collaborate in a matrixed organization & respectfully communicate with multiple stakeholders with ability to listen as well as direct technical teams and partner with those teams in elaborating the solution.
+
+**Grade/Level: 12**
+
+The salary range for this position is **135,000.00 - 230,000.00** USD Annual and is eligible for an annual bonus based on individual and company performance.
+
+Actual compensation offered within the posted salary range will be based upon work experience, skill level or knowledge.
+
+Salaries are adjusted according to market in CA, NY Metro and Seattle.
+
+**Eligibility Requirements:**
+
+* You must be 18 years or older
+* You must have a high school diploma or equivalent
+* You must be willing to take a drug test, submit to a background investigation and submit fingerprints as part of the onboarding process
+* You must be able to satisfy the requirements of Section 19 of the Federal Deposit Insurance Act.
+* New hires (Level 4-7) must have 9 months of continuous service with the company before they are eligible to post on other roles. Once this new hire time in position requirement is met, the associate will have a minimum 6 months’ time in position before they can post for future non-exempt roles. Employees, level 8 or greater, must have at least 18 months’ time in position before they can post. All internal employees must consistently meet performance expectations and have approval from your manager to post (or the approval of your manager and HR if you don’t meet the time in position or performance expectations).
+
+Legal authorization to work in the U.S. is required. We will not sponsor individuals for employment visas, now or in the future, for this job opening. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, or veteran status.
+
+**Our Commitment:**
+
+When you join us, you’ll be part of a diverse, inclusive culture where your skills, experience, and voice are not only heard—but valued. We celebrate the differences in all of us and believe that our individual, unique perspectives is what makes Synchrony truly a great place to work. Together, we’re building a future where we can all belong, connect and turn ideals into action. Through the power of our 8 Diversity Networks+, with more than 60% of our workforce engaged, you’ll find community to connect with an opportunity to go beyond your passions.
+
+This starts when you choose to apply for a role at Synchrony. We ensure all qualified applicants will receive consideration for employment without regard to age, race, color, religion, gender, sexual orientation, gender identity, national origin, disability, or veteran status.
+
+**Reasonable Accommodation Notice:**
+
+* Federal law requires employers to provide reasonable accommodation to qualified individuals with disabilities. Please tell us if you require a reasonable accommodation to apply for a job or to perform your job. Examples of reasonable accommodation include making a change to the application process or work procedures, providing documents in an alternate format, using a sign language interpreter, or using specialized equipment.
+* If you need special accommodations, please call our Career Support Line so that we can discuss your specific situation. We can be reached at 1-866-301-5627. Representatives are available from 8am – 5pm Monday to Friday, Central Standard Time
+
+**Job Family Group:**
+
+Information Technology","Banks And Financial Services","https://www.indeed.com/cmp/Synchrony","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/d09f1a897f4f8d8b56478c6af2e7ddd3","https://synchronycareers.com/","777 Long Ridge Rd, Stamford, CT 06905, USA","10,000+","more than $10B (USD)","Changing what’s possible through the power in people.","","","","","",""
+"in-284c4eea125bc13f","indeed","https://www.indeed.com/viewjob?jk=284c4eea125bc13f","https://SynchronyFinancial.contacthr.com/147557453","VP, Solution Architect","Synchrony","New York, NY, US","2025-05-21","","direct_data","yearly",135000.0,230000.0,"USD",True,"","","","","Job Description:
+
+**Role Summary/Purpose:**
+
+The VP, Solution Architect is responsible for the technical leadership of multiple Data Engineering projects or programs on-prem and on public cloud environment such as AWS. This experienced architect will possess the depth & breadth of skills to develop an effective solution architecture, take prompt decisions, lead a team of developers, manage deadlines and other technical issues as they may arise.
+
+The VP, Solution Architect will need significant people and process skills, with ability to communicate complex ideas and issues in simple terms to project teams, external clients, and often senior management. They also need to deeply understand the business processes in order to create a cohesive vision of the products and services.
+
+***Our Way of Working***
+
+***We’re proud to offer you choice and flexibility. At Synchrony, our way of working allows you to have the option to work from home, near one of our Hubs or come into one of our offices. Occasionally you may be required to commute to our nearest office for in person engagement activities such as business or team meetings, training and culture events.***
+
+**Essential Responsibilities:**
+
+* Act as the Lead Solution Architect for the critical business initiative to develop an enterprise curated data store for analytic model development in AWS in compliance with regulatory requirements and contractual obligations using specific framework, platform, or tech-stack and effectively communicating the solution & collaborating with stakeholders.
+* Get involved in a project early, when analysts start developing requirements, and then remain involved till the end, provide detailed periodic updates to all stakeholders
+* Examine the current systems architecture, and work with business and technical staff to recommend solutions that result in more effective systems by selection of the most appropriate technology for a problem, and balance architectural concerns of the project with the business considerations of the enterprise.
+* Evaluate which patterns, methods and tools will be most effective and productive, define how the application will look and feel, what the components will be, and how they interact with each other, future scalability, and maintainability of the application
+* Evaluate advantages and risks in third-party frameworks/platforms
+* Oversee the programming, integration, and testing of software systems and associated artifacts.
+* Ensure the execution of the vision by providing appropriate level of direction to the designers and developers on how to build the prescribed solution.
+* Mentor other solution architects organize the development effort and often provide motivation and guidance to the entire development team for continuous improvements during the Agile execution process.
+* Participate in PI Planning and Pre- and Post-PI Planning, System and Solution Demos. Work with Enterprise Architect, to develop, analyze, split, and realize the implementation of enabler epics.
+* Responsible for defining and communicating a shared technical and architectural vision for the Agile Release Train (ART) to help ensure the system or Solution under development is fit for its intended purpose.
+* Participate with cross-functional teams in implementing policies and procedures related to Scaled Agile Framework (SAFe) and be an advocate in adopting Agile and SAFe best practices and processes.
+* Execute special projects as assigned
+* Perform other duties and/or special projects as assigned.
+
+**Qualifications/Requirements:**
+
+* Bachelor’s degree and a minimum 7+ years of experience in multiple IT areas or in lieu of a degree, high school diploma/GED and 10+ years of experience in multiple IT areas
+* Minimum of 7 years of data engineering implementation experience in using PySpark, Ab-Initio, other ETL technologies in conjunction with high volume Hadoop environments on-prem or public cloud such as Redshift in AWS, AWS Glue/Athena
+* Minimum 7 years of experience in Business Intelligence (BI) application architecture and design, data architecture frameworks, data model design in context of Oracle, or AWS Redshift, AWS Glue/Athena, and implementation experience on-prem or AWS of data quality, data profiling, master data management, metadata management and integration with data catalogues such as Collibra or similar technologies with a strong understanding of associated patterns, processes and tools in a complex environment in a large organization
+* Minimum 2 years of experience in managing a solution architecture function in AWS environment and leading a matrixed geographically distributed team
+* Hands-on experience with DevOps and delivery pipeline
+
+**Desired Characteristics:**
+
+* Strong working knowledge of fintech Industry as it relates to consumer financing
+* Experience with data engineering of curated data stores to support analytic model development in AWS requiring high quality, traceable, auditable data assets
+* Experience with validation of technology assumptions, evaluating implementation alternatives, and creating the Continuous Delivery Pipeline.
+* Critical thinking and creativity in building and deploying data engineering applications on cloud platforms and working knowledge of cloud migrations
+* Strong ability to collaborate in a matrixed organization & respectfully communicate with multiple stakeholders with ability to listen as well as direct technical teams and partner with those teams in elaborating the solution.
+
+**Grade/Level: 12**
+
+The salary range for this position is **135,000.00 - 230,000.00** USD Annual and is eligible for an annual bonus based on individual and company performance.
+
+Actual compensation offered within the posted salary range will be based upon work experience, skill level or knowledge.
+
+Salaries are adjusted according to market in CA, NY Metro and Seattle.
+
+**Eligibility Requirements:**
+
+* You must be 18 years or older
+* You must have a high school diploma or equivalent
+* You must be willing to take a drug test, submit to a background investigation and submit fingerprints as part of the onboarding process
+* You must be able to satisfy the requirements of Section 19 of the Federal Deposit Insurance Act.
+* New hires (Level 4-7) must have 9 months of continuous service with the company before they are eligible to post on other roles. Once this new hire time in position requirement is met, the associate will have a minimum 6 months’ time in position before they can post for future non-exempt roles. Employees, level 8 or greater, must have at least 18 months’ time in position before they can post. All internal employees must consistently meet performance expectations and have approval from your manager to post (or the approval of your manager and HR if you don’t meet the time in position or performance expectations).
+
+Legal authorization to work in the U.S. is required. We will not sponsor individuals for employment visas, now or in the future, for this job opening. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, or veteran status.
+
+**Our Commitment:**
+
+When you join us, you’ll be part of a diverse, inclusive culture where your skills, experience, and voice are not only heard—but valued. We celebrate the differences in all of us and believe that our individual, unique perspectives is what makes Synchrony truly a great place to work. Together, we’re building a future where we can all belong, connect and turn ideals into action. Through the power of our 8 Diversity Networks+, with more than 60% of our workforce engaged, you’ll find community to connect with an opportunity to go beyond your passions.
+
+This starts when you choose to apply for a role at Synchrony. We ensure all qualified applicants will receive consideration for employment without regard to age, race, color, religion, gender, sexual orientation, gender identity, national origin, disability, or veteran status.
+
+**Reasonable Accommodation Notice:**
+
+* Federal law requires employers to provide reasonable accommodation to qualified individuals with disabilities. Please tell us if you require a reasonable accommodation to apply for a job or to perform your job. Examples of reasonable accommodation include making a change to the application process or work procedures, providing documents in an alternate format, using a sign language interpreter, or using specialized equipment.
+* If you need special accommodations, please call our Career Support Line so that we can discuss your specific situation. We can be reached at 1-866-301-5627. Representatives are available from 8am – 5pm Monday to Friday, Central Standard Time
+
+**Job Family Group:**
+
+Information Technology","Banks And Financial Services","https://www.indeed.com/cmp/Synchrony","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/d09f1a897f4f8d8b56478c6af2e7ddd3","https://synchronycareers.com/","777 Long Ridge Rd, Stamford, CT 06905, USA","10,000+","more than $10B (USD)","Changing what’s possible through the power in people.","","","","","",""
+"in-f8d8e43fe012545b","indeed","https://www.indeed.com/viewjob?jk=f8d8e43fe012545b","https://SynchronyFinancial.contacthr.com/147557441","VP, Solution Architect","Synchrony","Stamford, CT, US","2025-05-21","","direct_data","yearly",135000.0,230000.0,"USD",True,"","","","","Job Description:
+
+**Role Summary/Purpose:**
+
+The VP, Solution Architect is responsible for the technical leadership of multiple Data Engineering projects or programs on-prem and on public cloud environment such as AWS. This experienced architect will possess the depth & breadth of skills to develop an effective solution architecture, take prompt decisions, lead a team of developers, manage deadlines and other technical issues as they may arise.
+
+The VP, Solution Architect will need significant people and process skills, with ability to communicate complex ideas and issues in simple terms to project teams, external clients, and often senior management. They also need to deeply understand the business processes in order to create a cohesive vision of the products and services.
+
+***Our Way of Working***
+
+***We’re proud to offer you choice and flexibility. At Synchrony, our way of working allows you to have the option to work from home, near one of our Hubs or come into one of our offices. Occasionally you may be required to commute to our nearest office for in person engagement activities such as business or team meetings, training and culture events.***
+
+**Essential Responsibilities:**
+
+* Act as the Lead Solution Architect for the critical business initiative to develop an enterprise curated data store for analytic model development in AWS in compliance with regulatory requirements and contractual obligations using specific framework, platform, or tech-stack and effectively communicating the solution & collaborating with stakeholders.
+* Get involved in a project early, when analysts start developing requirements, and then remain involved till the end, provide detailed periodic updates to all stakeholders
+* Examine the current systems architecture, and work with business and technical staff to recommend solutions that result in more effective systems by selection of the most appropriate technology for a problem, and balance architectural concerns of the project with the business considerations of the enterprise.
+* Evaluate which patterns, methods and tools will be most effective and productive, define how the application will look and feel, what the components will be, and how they interact with each other, future scalability, and maintainability of the application
+* Evaluate advantages and risks in third-party frameworks/platforms
+* Oversee the programming, integration, and testing of software systems and associated artifacts.
+* Ensure the execution of the vision by providing appropriate level of direction to the designers and developers on how to build the prescribed solution.
+* Mentor other solution architects organize the development effort and often provide motivation and guidance to the entire development team for continuous improvements during the Agile execution process.
+* Participate in PI Planning and Pre- and Post-PI Planning, System and Solution Demos. Work with Enterprise Architect, to develop, analyze, split, and realize the implementation of enabler epics.
+* Responsible for defining and communicating a shared technical and architectural vision for the Agile Release Train (ART) to help ensure the system or Solution under development is fit for its intended purpose.
+* Participate with cross-functional teams in implementing policies and procedures related to Scaled Agile Framework (SAFe) and be an advocate in adopting Agile and SAFe best practices and processes.
+* Execute special projects as assigned
+* Perform other duties and/or special projects as assigned.
+
+**Qualifications/Requirements:**
+
+* Bachelor’s degree and a minimum 7+ years of experience in multiple IT areas or in lieu of a degree, high school diploma/GED and 10+ years of experience in multiple IT areas
+* Minimum of 7 years of data engineering implementation experience in using PySpark, Ab-Initio, other ETL technologies in conjunction with high volume Hadoop environments on-prem or public cloud such as Redshift in AWS, AWS Glue/Athena
+* Minimum 7 years of experience in Business Intelligence (BI) application architecture and design, data architecture frameworks, data model design in context of Oracle, or AWS Redshift, AWS Glue/Athena, and implementation experience on-prem or AWS of data quality, data profiling, master data management, metadata management and integration with data catalogues such as Collibra or similar technologies with a strong understanding of associated patterns, processes and tools in a complex environment in a large organization
+* Minimum 2 years of experience in managing a solution architecture function in AWS environment and leading a matrixed geographically distributed team
+* Hands-on experience with DevOps and delivery pipeline
+
+**Desired Characteristics:**
+
+* Strong working knowledge of fintech Industry as it relates to consumer financing
+* Experience with data engineering of curated data stores to support analytic model development in AWS requiring high quality, traceable, auditable data assets
+* Experience with validation of technology assumptions, evaluating implementation alternatives, and creating the Continuous Delivery Pipeline.
+* Critical thinking and creativity in building and deploying data engineering applications on cloud platforms and working knowledge of cloud migrations
+* Strong ability to collaborate in a matrixed organization & respectfully communicate with multiple stakeholders with ability to listen as well as direct technical teams and partner with those teams in elaborating the solution.
+
+**Grade/Level: 12**
+
+The salary range for this position is **135,000.00 - 230,000.00** USD Annual and is eligible for an annual bonus based on individual and company performance.
+
+Actual compensation offered within the posted salary range will be based upon work experience, skill level or knowledge.
+
+Salaries are adjusted according to market in CA, NY Metro and Seattle.
+
+**Eligibility Requirements:**
+
+* You must be 18 years or older
+* You must have a high school diploma or equivalent
+* You must be willing to take a drug test, submit to a background investigation and submit fingerprints as part of the onboarding process
+* You must be able to satisfy the requirements of Section 19 of the Federal Deposit Insurance Act.
+* New hires (Level 4-7) must have 9 months of continuous service with the company before they are eligible to post on other roles. Once this new hire time in position requirement is met, the associate will have a minimum 6 months’ time in position before they can post for future non-exempt roles. Employees, level 8 or greater, must have at least 18 months’ time in position before they can post. All internal employees must consistently meet performance expectations and have approval from your manager to post (or the approval of your manager and HR if you don’t meet the time in position or performance expectations).
+
+Legal authorization to work in the U.S. is required. We will not sponsor individuals for employment visas, now or in the future, for this job opening. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, or veteran status.
+
+**Our Commitment:**
+
+When you join us, you’ll be part of a diverse, inclusive culture where your skills, experience, and voice are not only heard—but valued. We celebrate the differences in all of us and believe that our individual, unique perspectives is what makes Synchrony truly a great place to work. Together, we’re building a future where we can all belong, connect and turn ideals into action. Through the power of our 8 Diversity Networks+, with more than 60% of our workforce engaged, you’ll find community to connect with an opportunity to go beyond your passions.
+
+This starts when you choose to apply for a role at Synchrony. We ensure all qualified applicants will receive consideration for employment without regard to age, race, color, religion, gender, sexual orientation, gender identity, national origin, disability, or veteran status.
+
+**Reasonable Accommodation Notice:**
+
+* Federal law requires employers to provide reasonable accommodation to qualified individuals with disabilities. Please tell us if you require a reasonable accommodation to apply for a job or to perform your job. Examples of reasonable accommodation include making a change to the application process or work procedures, providing documents in an alternate format, using a sign language interpreter, or using specialized equipment.
+* If you need special accommodations, please call our Career Support Line so that we can discuss your specific situation. We can be reached at 1-866-301-5627. Representatives are available from 8am – 5pm Monday to Friday, Central Standard Time
+
+**Job Family Group:**
+
+Information Technology","Banks And Financial Services","https://www.indeed.com/cmp/Synchrony","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/d09f1a897f4f8d8b56478c6af2e7ddd3","https://synchronycareers.com/","777 Long Ridge Rd, Stamford, CT 06905, USA","10,000+","more than $10B (USD)","Changing what’s possible through the power in people.","","","","","",""
+"in-9aeb7a4e396d972c","indeed","https://www.indeed.com/viewjob?jk=9aeb7a4e396d972c","https://SynchronyFinancial.contacthr.com/147557477","VP, Solution Architect","Synchrony","Stamford, CT, US","2025-05-21","","direct_data","yearly",135000.0,230000.0,"USD",True,"","","","","Job Description:
+
+**Role Summary/Purpose:**
+
+The VP, Solution Architect is responsible for the technical leadership of multiple Data Engineering projects or programs on-prem and on public cloud environment such as AWS. This experienced architect will possess the depth & breadth of skills to develop an effective solution architecture, take prompt decisions, lead a team of developers, manage deadlines and other technical issues as they may arise.
+
+The VP, Solution Architect will need significant people and process skills, with ability to communicate complex ideas and issues in simple terms to project teams, external clients, and often senior management. They also need to deeply understand the business processes in order to create a cohesive vision of the products and services.
+
+***Our Way of Working***
+
+***We’re proud to offer you choice and flexibility. At Synchrony, our way of working allows you to have the option to work from home, near one of our Hubs or come into one of our offices. Occasionally you may be required to commute to our nearest office for in person engagement activities such as business or team meetings, training and culture events.***
+
+**Essential Responsibilities:**
+
+* Act as the Lead Solution Architect for the critical business initiative to develop an enterprise curated data store for analytic model development in AWS in compliance with regulatory requirements and contractual obligations using specific framework, platform, or tech-stack and effectively communicating the solution & collaborating with stakeholders.
+* Get involved in a project early, when analysts start developing requirements, and then remain involved till the end, provide detailed periodic updates to all stakeholders
+* Examine the current systems architecture, and work with business and technical staff to recommend solutions that result in more effective systems by selection of the most appropriate technology for a problem, and balance architectural concerns of the project with the business considerations of the enterprise.
+* Evaluate which patterns, methods and tools will be most effective and productive, define how the application will look and feel, what the components will be, and how they interact with each other, future scalability, and maintainability of the application
+* Evaluate advantages and risks in third-party frameworks/platforms
+* Oversee the programming, integration, and testing of software systems and associated artifacts.
+* Ensure the execution of the vision by providing appropriate level of direction to the designers and developers on how to build the prescribed solution.
+* Mentor other solution architects organize the development effort and often provide motivation and guidance to the entire development team for continuous improvements during the Agile execution process.
+* Participate in PI Planning and Pre- and Post-PI Planning, System and Solution Demos. Work with Enterprise Architect, to develop, analyze, split, and realize the implementation of enabler epics.
+* Responsible for defining and communicating a shared technical and architectural vision for the Agile Release Train (ART) to help ensure the system or Solution under development is fit for its intended purpose.
+* Participate with cross-functional teams in implementing policies and procedures related to Scaled Agile Framework (SAFe) and be an advocate in adopting Agile and SAFe best practices and processes.
+* Execute special projects as assigned
+* Perform other duties and/or special projects as assigned.
+
+**Qualifications/Requirements:**
+
+* Bachelor’s degree and a minimum 7+ years of experience in multiple IT areas or in lieu of a degree, high school diploma/GED and 10+ years of experience in multiple IT areas
+* Minimum of 7 years of data engineering implementation experience in using PySpark, Ab-Initio, other ETL technologies in conjunction with high volume Hadoop environments on-prem or public cloud such as Redshift in AWS, AWS Glue/Athena
+* Minimum 7 years of experience in Business Intelligence (BI) application architecture and design, data architecture frameworks, data model design in context of Oracle, or AWS Redshift, AWS Glue/Athena, and implementation experience on-prem or AWS of data quality, data profiling, master data management, metadata management and integration with data catalogues such as Collibra or similar technologies with a strong understanding of associated patterns, processes and tools in a complex environment in a large organization
+* Minimum 2 years of experience in managing a solution architecture function in AWS environment and leading a matrixed geographically distributed team
+* Hands-on experience with DevOps and delivery pipeline
+
+**Desired Characteristics:**
+
+* Strong working knowledge of fintech Industry as it relates to consumer financing
+* Experience with data engineering of curated data stores to support analytic model development in AWS requiring high quality, traceable, auditable data assets
+* Experience with validation of technology assumptions, evaluating implementation alternatives, and creating the Continuous Delivery Pipeline.
+* Critical thinking and creativity in building and deploying data engineering applications on cloud platforms and working knowledge of cloud migrations
+* Strong ability to collaborate in a matrixed organization & respectfully communicate with multiple stakeholders with ability to listen as well as direct technical teams and partner with those teams in elaborating the solution.
+
+**Grade/Level: 12**
+
+The salary range for this position is **135,000.00 - 230,000.00** USD Annual and is eligible for an annual bonus based on individual and company performance.
+
+Actual compensation offered within the posted salary range will be based upon work experience, skill level or knowledge.
+
+Salaries are adjusted according to market in CA, NY Metro and Seattle.
+
+**Eligibility Requirements:**
+
+* You must be 18 years or older
+* You must have a high school diploma or equivalent
+* You must be willing to take a drug test, submit to a background investigation and submit fingerprints as part of the onboarding process
+* You must be able to satisfy the requirements of Section 19 of the Federal Deposit Insurance Act.
+* New hires (Level 4-7) must have 9 months of continuous service with the company before they are eligible to post on other roles. Once this new hire time in position requirement is met, the associate will have a minimum 6 months’ time in position before they can post for future non-exempt roles. Employees, level 8 or greater, must have at least 18 months’ time in position before they can post. All internal employees must consistently meet performance expectations and have approval from your manager to post (or the approval of your manager and HR if you don’t meet the time in position or performance expectations).
+
+Legal authorization to work in the U.S. is required. We will not sponsor individuals for employment visas, now or in the future, for this job opening. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, or veteran status.
+
+**Our Commitment:**
+
+When you join us, you’ll be part of a diverse, inclusive culture where your skills, experience, and voice are not only heard—but valued. We celebrate the differences in all of us and believe that our individual, unique perspectives is what makes Synchrony truly a great place to work. Together, we’re building a future where we can all belong, connect and turn ideals into action. Through the power of our 8 Diversity Networks+, with more than 60% of our workforce engaged, you’ll find community to connect with an opportunity to go beyond your passions.
+
+This starts when you choose to apply for a role at Synchrony. We ensure all qualified applicants will receive consideration for employment without regard to age, race, color, religion, gender, sexual orientation, gender identity, national origin, disability, or veteran status.
+
+**Reasonable Accommodation Notice:**
+
+* Federal law requires employers to provide reasonable accommodation to qualified individuals with disabilities. Please tell us if you require a reasonable accommodation to apply for a job or to perform your job. Examples of reasonable accommodation include making a change to the application process or work procedures, providing documents in an alternate format, using a sign language interpreter, or using specialized equipment.
+* If you need special accommodations, please call our Career Support Line so that we can discuss your specific situation. We can be reached at 1-866-301-5627. Representatives are available from 8am – 5pm Monday to Friday, Central Standard Time
+
+**Job Family Group:**
+
+Information Technology","Banks And Financial Services","https://www.indeed.com/cmp/Synchrony","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/d09f1a897f4f8d8b56478c6af2e7ddd3","https://synchronycareers.com/","777 Long Ridge Rd, Stamford, CT 06905, USA","10,000+","more than $10B (USD)","Changing what’s possible through the power in people.","","","","","",""
+"in-4419fbc3e39105dc","indeed","https://www.indeed.com/viewjob?jk=4419fbc3e39105dc","http://www.indeed.com/job/software-developer-intern-4419fbc3e39105dc","Software Developer Intern","Veckridge Chemical Company","Berkeley Heights, NJ, US","2025-05-21","internship","direct_data","hourly",15.0,20.0,"USD",True,"","","","","Software Developer Intern - NetSuite/AWS/AndroidPosition Overview
+
+We're seeking a motivated Software Developer Intern to join our technology team to gain hands-on experience with NetSuite customization, AWS cloud services, and mobile application development. This internship offers the opportunity to work across multiple technology stacks while contributing to real-world business solutions.
+
+Key Responsibilities
+
+* Assist in developing and maintaining NetSuite customizations using SuiteScript
+* Collaborate on web-based projects utilizing HTML and CSS
+* Support cloud infrastructure projects on AWS
+* Contribute to mobile application development with Android Studio
+* Participate in code reviews and testing procedures
+* Document development processes and technical specifications
+
+RequirementsRequired
+
+* Currently pursuing a degree in Computer Science, Software Engineering, or related technical field
+* Basic understanding of JavaScript programming
+* Familiarity with HTML/CSS fundamentals
+* Eagerness to learn new technologies and programming languages
+* Strong problem-solving skills and attention to detail
+* Excellent communication and teamwork abilities
+
+Preferred
+
+* Previous coursework or projects involving JavaScript
+* Basic understanding of cloud computing concepts
+* Exposure to mobile application development
+* Knowledge of database concepts and SQL
+* Experience with version control systems (Git)
+
+Learning Opportunities
+
+* Gain practical experience with enterprise-level business applications
+* Develop skills in cloud architecture and deployment
+* Learn mobile development best practices
+* Work with experienced developers in a collaborative environment
+
+This paid internship is designed to provide meaningful work experience while accommodating academic schedules. Successful interns may be considered for future full-time opportunities upon graduation.
+
+Job Type: Internship
+
+Pay: $15.00 - $20.00 per hour
+
+Expected hours: 40 per week
+
+Schedule:
+
+* 8 hour shift
+* Monday to Friday
+
+Work Location: Hybrid remote in Berkeley Heights, NJ 07922","","https://www.indeed.com/cmp/Veckridge-Chemical-Company","","","","","","","","","","","",""
+"in-ef45bc097801d1b0","indeed","https://www.indeed.com/viewjob?jk=ef45bc097801d1b0","https://careers.bankofamerica.com/en-us/job-detail/25021773/senior-software-engineering-java-distributed-technologies-new-york-new-york-united-states","Senior Software Engineering (Java & Distributed Technologies)","Bank of America","New York, NY, US","2025-05-21","fulltime","direct_data","yearly",100700.0,180000.0,"USD",False,"","","","","**Job Description:**
+
+At Bank of America, we are guided by a common purpose to help make financial lives better through the power of every connection. Responsible Growth is how we run our company and how we deliver for our clients, teammates, communities and shareholders every day.
+
+One of the keys to driving Responsible Growth is being a great place to work for our teammates around the world. We’re devoted to being a diverse and inclusive workplace for everyone. We hire individuals with a broad range of backgrounds and experiences and invest heavily in our teammates and their families by offering competitive benefits to support their physical, emotional, and financial well-being.
+
+Bank of America believes both in the importance of working together and offering flexibility to our employees. We use a multi-faceted approach for flexibility, depending on the various roles in our organization.
+
+Working at Bank of America will give you a great career with opportunities to learn, grow and make an impact, along with the power to make a difference. Join us!
+
+**Job Description:**  
+This job is responsible for developing and delivering complex requirements to accomplish business goals. Key responsibilities of the job include ensuring that software is developed to meet functional, non-functional and compliance requirements, and solutions are well designed with maintainability/ease of integration and testing built-in from the outset. Job expectations include a strong knowledge of development and testing practices common to the industry and design and architectural patterns.
+
+**LOB Specific Job Description:**
+
+Bank of America is seeking a highly motivated and experienced Software Engineer to join our cutting-edge technology team. In this role, you will leverage your deep expertise in Core Java/Scala . The Core Java Big Data developer will be responsible for designing and delivering next generation event processing, alerting and analytics system. The candidate would be hands on developer working within Bank of America Global Markets Equities Data and Analytics group, building systems that help the Bank leverage the power of data helping a wide variety of users including front office execution services consultants, sales traders, data scientists and compliance. The role involves working with large volumes of data generated at very high velocity, typically billions of messages a day with peaks of several thousands of messages per second. Candidates must have a passion for building efficient, scalable and highly resilient systems working in a collaborative environment with multiple stake holders. Experience working with Machine Learning (ML), Artificial Intelligence (AI) and cloud platforms (AWS/ Azure /GCP ) is highly desirable.
+
+This is an exciting opportunity to shape the future of technology within a global financial institution, where you will work on complex technical challenges and contribute to high-impact initiatives. The successful candidate will possess advanced technical expertise, outstanding communication skills, and a strong ability to lead teams in delivering scalable, high-performance software solutions.
+
+Team members will be playing a critical role in strategic multi-year initiatives to simplify and modernize the technology stack as it relates to regulatory reporting across multiple jurisdictions, including some of the following reports and activities.
+
+* FINRA Consolidated Audit Trail (CAT)
+* FINRA Electronic Blue Sheets (EBS)
+* Trading Activity Fees (TAF)
+* EMIR and MIFID II
+
+**Responsibilities:**
+
+* Codes solutions and unit test to deliver a requirement/story per the defined acceptance criteria and compliance requirements
+* Designs, develops, and modifies architecture components, application interfaces, and solution enablers while ensuring principal architecture integrity is maintained
+* Mentors other software engineers and coach team on Continuous Integration and Continuous Development (CI-CD) practices and automating tool stack
+* Executes story refinement, definition of requirements, and estimating work necessary to realize a story through the delivery lifecycle
+* Performs spike/proof of concept as necessary to mitigate risk or implement new ideas
+* Automates manual release activities
+* Designs, develops, and maintains automated test suites (integration, regression, performance)
+* Lead the design, development, and implementation of scalable, high-performance applications using Java.
+* With large-scale distributed technologies like Apache Kafka, Apache Spark, and Apache Storm to ensure seamless data processing and messaging at scale.
+* Provide expertise in Java multi-threading, concurrency, and other advanced Java concepts to ensure the development of high-performance, thread-safe, and optimized applications.
+* Ensure integration of complex systems and applications across various platforms while adhering to best practices in coding, testing, and deployment.
+* Collaborate closely with stakeholders to understand business requirements and translate them into technical specifications.
+* Manage technical risk and work on performance tuning, scalability, and optimization of systems.
+* Provide leadership to junior team members, offering guidance and mentorship to help develop their technical skills.
+* Foster a culture of innovation, teamwork, and continuous improvement, ensuring that all software engineering processes align with Bank of America’s high standards of quality and compliance.
+* Participate in strategy discussions, offering insights on technology trends and innovations that could improve business outcomes.
+* Develop and deliver clear, concise technical documentation and presentations to various stakeholders, including executives and senior management.
+* Drive the adoption of new technologies and tools to continuously improve our software development lifecycle and operational efficiency.
+* Ensure adherence to security and regulatory standards, particularly in highly regulated industries like finance.
+* Collaborate with cross-functional teams to design, implement, and optimize cloud-based architectures on AWS and Azure.
+
+**Required Qualifications:**
+
+* Strong understanding of domains with expertise on Equities, Fixed Income and OTC Derivatives in relation to regulatory reporting around these asset classes across various jurisdiction.
+* Proven experience (10+ years) in software engineering, including advanced expertise in Java and related technologies.
+* Strong experience in multithreaded programming.
+* String understanding of distributed technologies and frameworks such as Apache Kafka and Apache Spark.
+* Experience in both front-end and back-end development including working with frameworks, webservers and building end to end solutions including exposure to Spring MVC, Spring Security and Data.
+* Proven experience in designing , developing and maintaining microservices based applications including working with RESTful API’s
+* Excellent understanding of relational databases like Oracle and/or Sybase (8+ years)
+* Experience working with NoSQL database such as Cassandra
+* Experience working with Python***.***
+* Utilize python libraries such as Pandas, NumPy, Requests, Flask etc., to implement business logic and data processing.
+* Strong problem-solving skills with the ability to lead complex technical discussions and make critical decisions.
+* Excellent communication skills, both written and verbal, with the ability to present complex technical concepts to non-technical stakeholders.
+* Self-motivated, proactive, and results-driven with the ability to work independently and collaboratively in a team environment.
+* Demonstrated leadership ability, including mentoring and developing talent within a technical team.
+* Experience with cloud technologies, particularly AWS or Azure.
+
+**Desired Qualifications**
+
+* Familiarity with containerization technologies like Docker and orchestration tools like Kubernetes.
+* Familiarity with CI/CD pipelines and DevOps practices.
+* Familiarity with ML and Data science
+* Exposure to scripting – Unix, Perl, etc.
+
+**Skills:**
+
+* Application Development
+* Automation
+* Influence
+* Solution Design
+* Technical Strategy Development
+* Architecture
+* Business Acumen
+* DevOps Practices
+* Result Orientation
+* Solution Delivery Process
+* Analytical Thinking
+* Collaboration
+* Data Management
+* Risk Management
+* Test Engineering
+
+**Minimum Education Requirement:** Bachelor's Degree in Computer Science/Engineering or equivalent work experience.
+
+**Shift:**
+
+1st shift (United States of America)
+
+**Hours Per Week:**
+
+40","","https://www.indeed.com/cmp/Bank-of-America","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/512761ac4c6cc1609dbb493d8c8e10f9","http://careers.bankofamerica.com","Charlotte, NC","Decline to state","Decline to state","Headquartered in Charlotte, North Carolina, Bank of America is the second largest banking corporation in the United States.","","","","","",""
+"in-effd4478ffed4108","indeed","https://www.indeed.com/viewjob?jk=effd4478ffed4108","https://bbh.wd5.myworkdayjobs.com/en-US/BBH/job/Jersey-City/Systems-Technology-Lead_66858","Systems Technology Lead","Brown Brothers Harriman","Jersey City, NJ, US","2025-05-21","fulltime","direct_data","yearly",155000.0,185000.0,"USD",False,"","","","","At BBH, Partnership is more than a form of ownership—it’s our approach to business and relationships. We know that supporting your professional and personal goals is the best way to help our clients and advance our business. We take that responsibility seriously. With a 200-year legacy and a shared passion for what’s next, this is the right place to build a fulfilling career.
+
+BBH is looking for a highly motivated individual to join our Enterprise Data Platform team as a Systems Technology Lead. As part of the IT Shared Services, the Enterprise Data Platform team provide innovative data solutions across several business units. As an Enterprise Data Platform Tech Lead, you will join and lead a full-systems service team inclusive of Java Developers, SQL Developers, Systems Analysts and Quality Assurance Analysts. You must be highly skilled, team oriented, and eager to learn to contribute in a mature and proactive way to all phases of a project lifecycle.
+
+Responsibilities:
+
+* Act as a hands-on Technical Lead to drive the architecture, design decisions for a products development
+* Consistent practice in coding and unit testing
+* Conduct code reviews for the team and have well establish standards and practices for the team
+* Work with distributed teams (infrastructure, network, etc.) and act as subject matter expert
+* Provide technical leadership on best practices for chosen architecture and technology
+* Identify issues and risks and proactively add to the iterative discussion
+* Communicate efficiently within and outside the team
+* Strong organizational, time management
+
+Qualifications & Technical Skills:
+
+* Minimum of 3 years in leading a team of engineers to develop and deliver new services.
+* Minimum of 10 years of professional experience as a software engineer in a full-stack capacity
+* Demonstrate critical thinking and drive application architecture and design decisions
+* Java - must be proficient in the language, core libraries & design patterns (Spring, Spring Boot, Spring Cloud, Spring Security, Spring Data, Spring Integration)
+* Experience working with technical management, product owners, and operations
+* Experience establishing work relationships across multi-disciplinary teams and multiple partners in different time zones.
+* Hands-on with strong organizational skills and great attention to detail
+* Experience with WebServices (REST)
+* Experience with ORM frameworks (JPA, Hibernate, OpenJPA)
+* Experience with test frameworks: JUnit, TestNG, Mockito
+* Experience with version control practices using Git
+* Experience with micro-service architecture
+* Experience with iterative and agile methodology
+* Improve the code quality with effective testing and review process.
+* Design and develop scalable technical implementations.
+* Experience with one or more modern front-end frameworks/libraries such as Angular, React is a plus
+* Excellent problem solving and analytical skills
+* Good communicator, keen to collaborate and share knowledge
+
+Salary Range
+
+$155,000 – $185,000
+
+*BBH’s compensation program includes base salary, discretionary bonuses, and profit-sharing. The anticipated base salary range(s) shown above are only for the indicated location(s) and may differ in other locations due to cost of living and labor considerations. Base salaries may vary based on factors such as skill, experience and qualification for the role. BBH's total rewards package recognizes your contributions with more than just a paycheck—providing you with benefits that enhance your experience at BBH from long-term savings, healthcare, and income protection to professional development opportunities and time off, our programs support your overall well-being.*
+
+We value diverse experiences. We value diverse experiences and transferrable skillsets. If your career hasn’t followed a traditional path, includes alternative experiences, or doesn’t meet every qualification or skill listed in the job description, please do go ahead and apply.
+
+About BBH:
+
+Brown Brothers Harriman (BBH) is a premier global financial services firm, known for premium service, specialist expertise, technology solutions and partnership approach to client management. Across Investor Services and Capital Partners, we work with an enviable roster of sophisticated clients who make BBH their first call when they are tackling their hardest challenges. Delivering for our clients and each other energizes us.
+
+We believe that how we do our work is just as important as what we do. We are relentless problem solvers who know our best ideas come from collective debate and development—so we are never possessive about our ideas. Every day we come together as a diverse community of smart and caring people to deliver exceptional service and expert advice—creating success that lasts. No matter where you sit in the organization, everyone is empowered to contribute their ideas. BBHers can pick up the phone and call any colleague, and they are happy to help. Expanding your impact beyond your daily role is part of how we operate as trusted partners to one another.
+
+We believe stability is a competitive advantage, but being stable means having the knowledge, skill, and discipline to evolve, often—pushing the boundaries of innovation. As a private partnership, every investment we make is in the relationships, technologies, products and development we believe are in the long-term interests of our clients and our people. Our long-tenured leaders are experts in their areas and are actively involved in the day-to day business, taking the time to provide guidance and mentoring to build the next generation of BBHers. Because we know, our success begins with yours.
+
+Go to BBH.com to learn more about our
+
+rewards and benefits
+
+,
+
+philanthropy
+
+, approach to
+
+sustainability
+
+or how we support you to
+
+thrive personally, physically and financially
+
+.
+
+We are an equal opportunity employer and all qualified applicants will receive consideration for employment without regard to race, color, religion, gender, national origin, age, genetic information, creed, marital status, sexual orientation, gender identity, disability status, protected veteran status, or any other protected status under federal, state or local law.","Banks And Financial Services","https://www.indeed.com/cmp/Brown-Brothers-Harriman","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/577350e5481247074e7c64b91acd345e","https://www.bbh.com","140 Broadway
+New York NY, United States 10005","5,001 to 10,000","$100M to $500M (USD)","","","","","","",""
+"in-b00b644ed5d54430","indeed","https://www.indeed.com/viewjob?jk=b00b644ed5d54430","https://fa-euxc-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/preview/7864","Citco Technology Management (IT) Intern","Citco","Jersey City, NJ, US","2025-05-21","fulltime","","hourly","","","USD",False,"","","","","**About Citco**
+
+Citco is a global leader in fund services, corporate governance and related asset services with staff across 80 offices worldwide. With more than $1 trillion in assets under administration, we deliver end-to-end solutions and exceptional service to meet our clients’ needs.
+
+For more information about Citco, please visit www.citco.com
+
+**About the Team & Business Line:**
+
+Proprietary software solutions and innovation are at the core of what differentiates Citco in the alternative investment space. Through our network of global development centres, Citco invests heavily in technology development, security, and infrastructure to ensure our clients continue to receive award-winning products that underpin our commitment to service excellence.
+
+As an intern on the Citco team, you will be working with some of the industry’s most accomplished professionals to deliver award-winning services for complex fund structures that our clients can depend upon.
+
+  
+
+**Your Role:**
+
+CITCO Technology Management Interns are responsible for the development, support and maintenance of software components and/or modules in multiple tier internal applications, as well as vendor purchased software solution/packages; written in various languages.
+
+Under the direction and mentorship of a developer or senior developer, you will:
+
+* Develop enhancements to new and existing applications
+* Support the current application stack
+* Participate in the design of new applications
+
+  
+
+**About You:**
+
+**Education**
+
+* Currently enrolled in a technical or Computer Scienced focused Bachelors’ Degree Program as a Freshman, Sophomore or Junior
+* Taken 1 or more courses in software development; any certifications a plus
+
+**Technical Skills**
+
+* No prior professional experience required
+* Demonstrated skill in one or two programming languages, preferably Python
+* Basic understanding of object-oriented programming, relational databases, software version control and software development lifecycles - Waterfall, Agile
+* Knowledge of operating systems - Microsoft XP, Linux, basic networking and security
+
+**Key Competencies**
+
+* Complete assigned work on time, on scope and with low defect rates
+* Excellent listening and analytic skills
+* Enthusiasm to learn
+
+**Rate of Pay:** $20 USD per hour
+
+**Our Benefits**
+
+Your well-being is of paramount importance to us, and central to our success. We provide a range of benefits, training and education support, and flexible working arrangements to help you achieve success in your career while balancing personal needs. Ask us about specific benefits in your location.
+
+We embrace diversity, prioritizing the hiring of people from diverse backgrounds. Our inclusive culture is a source of pride and strength, fostering innovation and mutual respect.
+
+Citco welcomes and encourages applications from people with disabilities. Accommodations are available upon request for candidates taking part in all aspects of the selection.
+
+Citco is an Equal Opportunity Employer. It is our policy to make all employment and personnel decisions without discriminating on the basis of race, color, creed, religion, sex, physical disability, mental disability, age, marital status, sexual orientation, citizenship status, national or ethnic origin, and any other protected status.
+  
+  
+NOTE: This job description is not intended to be all-inclusive. Employee may perform other related duties to meet the ongoing needs of the organization.","","https://www.indeed.com/cmp/Citco","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/742f85621777cab671ba6b34ec577d90","https://www.citco.com/","George Town","5,001 to 10,000","Decline to state","Citco Group is built on challenging paradigms and delivering exceptional service within the financial and professional services industry.","","","","","",""
+"in-8d195c957081212a","indeed","https://www.indeed.com/viewjob?jk=8d195c957081212a","https://careers.google.com/jobs/results/113382838312542918-senior-staff-software-engineer/","Senior Staff Software Engineer, Google Cloud Storage","Google","New York, NY, US","2025-05-21","fulltime","description","yearly",248000.0,349000.0,"USD",False,"","","","","Note: By applying to this position you will have an opportunity to share your preferred working location from the following: **Seattle, WA, USA; Sunnyvale, CA, USA; Cambridge, MA, USA; New York, NY, USA; Durham, NC, USA; Raleigh, NC, USA**.
+
+### **Minimum qualifications:**
+
+* Bachelor's degree or equivalent practical experience.
+* 8 years of experience in software development.
+* 5 years of experience testing, and launching software products.
+* 5 years of experience programming in Java, C++ or Go.
+* 5 years of experience with distributed systems concepts like data replication, consistency models and fault tolerance.
+* 5 years of experience with file systems or storage management.
+
+  
+
+### **Preferred qualifications:**
+
+* Master’s degree or PhD in Engineering, Computer Science, or a related technical field.
+* 8 years of experience with data structures/algorithms.
+* 5 years of experience in a technical leadership role leading project teams and setting technical direction.
+* 3 years of experience working in a complex, matrixed organization involving cross-functional, or cross-business projects.
+* Experience with linux kernel internals.
+* Experience with distributed Machine Learning and Machine Learning infrastructure.
+
+**About the job**
+-----------------
+
+Google Cloud's software engineers develop the next-generation technologies that change how billions of users connect, explore, and interact with information and one another. We're looking for engineers who bring fresh ideas from all areas, including information retrieval, distributed computing, large-scale system design, networking and data storage, security, artificial intelligence, natural language processing, UI design and mobile; the list goes on and is growing every day. As a software engineer, you will work on a specific project critical to Google Cloud's needs with opportunities to switch teams and projects as you and our fast-paced business grow and evolve. You will anticipate our customer needs and be empowered to act like an owner, take action and innovate. We need our engineers to be versatile, display leadership qualities and be enthusiastic to take on new problems across the full-stack as we continue to push technology forward.
+
+Google Cloud accelerates every organization’s ability to digitally transform its business and industry. We deliver enterprise-grade solutions that leverage Google’s cutting-edge technology, and tools that help developers build more sustainably. Customers in more than 200 countries and territories turn to Google Cloud as their trusted partner to enable growth and solve their most critical business problems.
+
+The US base salary range for this full-time position is $248,000-$349,000 + bonus + equity + benefits. Our salary ranges are determined by role, level, and location. Within the range, individual pay is determined by work location and additional factors, including job-related skills, experience, and relevant education or training. Your recruiter can share more about the specific salary range for your preferred location during the hiring process.
+
+Please note that the compensation details listed in US role postings reflect the base salary only, and do not include bonus, equity, or benefits. Learn more about benefits at Google.
+
+**Responsibilities**
+--------------------
+
+* Help us figure out a roadmap to make GCS the Cloud Storage for AIML workloads.
+* Lead a team of engineers to design, develop, and deploy new GCS features and enhancements. Provide technical guidance, mentorship, and code reviews to ensure quality software development.
+* Architect and design systems that meet the needs of GCS growing AI/ML customer base. Make data-driven decisions to optimize system performance and efficiency.
+* Troubleshoot technical issues, analyze performance bottlenecks, and develop innovative solutions to address customer tests. Collaborate with cross-functional teams to resolve issues.
+* Stay abreast of the latest trends in AI and drive innovation within the GCS team. Propose and implement new features that enhance GCS capabilities and differentiate it from performers.
+
+Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also Google's EEO Policy and EEO is the Law. If you have a disability or special need that requires accommodation, please let us know by completing our Accommodations for Applicants form.","","https://www.indeed.com/cmp/Google","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/fff4be3829cee39e477a518f55475f44","http://goo.gle/3ygdkgv","Mountain View, CA","10,000+","more than $10B (USD)","Our mission is to organize the world’s information and make it universally accessible and useful. ","","","","","",""
+"in-e830034d3cd90d36","indeed","https://www.indeed.com/viewjob?jk=e830034d3cd90d36","https://jobs.itsmfleaders.org/job/p5aavy/manager-software-engineering-back-end/new-york/ny","Manager, Software Engineering, Back End","Information Technology Senior Management Forum","New York, NY, US","2025-05-21","fulltime","direct_data","yearly",175800.0,220700.0,"USD",False,"","","","RecruitingAccommodation@capitalone.com, Careers@capitalone.com, RecruitingAccommodation@capitalone.com, Careers@capitalone.com","Posted Date
+
+5/21/2025
+
+Description
+
+Manager, Software Engineering, Back End
+
+Do you love building and pioneering in the technology space? Do you enjoy solving complex business problems in a fast-paced, collaborative, inclusive, and iterative delivery environment? At Capital One, you'll be part of a big group of makers, breakers, doers and disruptors, who love to solve real problems and meet real customer needs. We are seeking Back End Software Engineers who are passionate about marrying data with emerging technologies. As a Capital One Software Engineer, you’ll have the opportunity to be on the forefront of driving a major transformation within Capital One.
+
+**What You’ll Do:**
+
+* Lead a portfolio of diverse technology projects and a team of developers with deep experience in distributed microservices, and full stack systems to create solutions that help meet regulatory needs for the company
+* Share your passion for staying on top of tech trends, experimenting with and learning new technologies, participating in internal & external technology communities, mentoring other members of the engineering community, and from time to time, be asked to code or evaluate code
+* Collaborate with digital product managers, and deliver robust cloud-based solutions that drive powerful experiences to help millions of Americans achieve financial empowerment
+* Utilize programming languages like Java, Python, SQL, Node, Go, and Scala, Open Source RDBMS and NoSQL databases, Container Orchestration services including Docker and Kubernetes, and a variety of AWS tools and services
+
+**Basic Qualifications:**
+
+* Bachelor’s Degree
+* At least 4 years of professional software engineering experience (Internship experience does not apply)
+* At least 1 year experience with cloud computing (AWS, Microsoft Azure, Google Cloud)
+* At least 2 years of people management experience
+
+**Preferred Qualifications:**
+
+* Master's Degree
+* 7+ years of experience in at least one of the following: Java, Scala, Python, Go, or Node.js
+* 2+ years of experience with AWS, GCP, Azure, or another cloud service
+* 4+ years of experience in open source frameworks
+* 5+ years of people management experience
+* 2+ years of experience in Agile practices
+
+*At this time, Capital One will not sponsor a new applicant for employment authorization, or offer any immigration related support for this position (i.e. H1B, F-1 OPT, F-1 STEM OPT, F-1 CPT, J-1, TN, or another type of work authorization).*
+
+The minimum and maximum full-time annual salaries for this role are listed below, by location. Please note that this salary information is solely for candidates hired to perform work within one of these locations, and refers to the amount Capital One is willing to pay at the time of this posting. Salaries for part-time roles will be prorated based upon the agreed upon number of hours to be regularly worked.
+
+McLean, VA: $193,400 - $220,700 for Manager, Software Engineering  
+New York, NY: $211,000 - $240,800 for Manager, Software Engineering  
+Richmond, VA: $175,800 - $200,700 for Manager, Software Engineering
+
+Candidates hired to work in other locations will be subject to the pay range associated with that location, and the actual annualized salary amount offered to any candidate at the time of hire will be reflected solely in the candidate’s offer letter.
+
+This role is also eligible to earn performance based incentive compensation, which may include cash bonus(es) and/or long term incentives (LTI). Incentives could be discretionary or non discretionary depending on the plan.
+
+Capital One offers a comprehensive, competitive, and inclusive set of health, financial and other benefits that support your total well-being. Learn more at the Capital One Careers website. Eligibility varies based on full or part-time status, exempt or non-exempt status, and management level.
+
+This role is expected to accept applications for a minimum of 5 business days.No agencies please. Capital One is an equal opportunity employer committed to diversity and inclusion in the workplace. All qualified applicants will receive consideration for employment without regard to sex (including pregnancy, childbirth or related medical conditions), race, color, age, national origin, religion, disability, genetic information, marital status, sexual orientation, gender identity, gender reassignment, citizenship, immigration status, protected veteran status, or any other basis prohibited under applicable federal, state or local law. Capital One promotes a drug-free workplace. Capital One will consider for employment qualified applicants with a criminal history in a manner consistent with the requirements of applicable laws regarding criminal background inquiries, including, to the extent applicable, Article 23-A of the New York Correction Law; San Francisco, California Police Code Article 49, Sections 4901-4920; New York City’s Fair Chance Act; Philadelphia’s Fair Criminal Records Screening Act; and other applicable federal, state, and local laws and regulations regarding criminal background inquiries.
+
+If you have visited our website in search of information on employment opportunities or to apply for a position, and you require an accommodation, please contact Capital One Recruiting at 1-800-304-9102 or via email at RecruitingAccommodation@capitalone.com. All information you provide will be kept confidential and will be used only to the extent required to provide needed reasonable accommodations.
+
+For technical support or questions about Capital One's recruiting process, please send an email to Careers@capitalone.com
+
+Capital One does not provide, endorse nor guarantee and is not liable for third-party products, services, educational tools or other information available through this site.
+
+Capital One Financial is made up of several different entities. Please note that any position posted in Canada is for Capital One Canada, any position posted in the United Kingdom is for Capital One Europe and any position posted in the Philippines is for Capital One Philippines Service Corp. (COPSSC).
+
+Manager, Software Engineering, Back End
+
+Do you love building and pioneering in the technology space? Do you enjoy solving complex business problems in a fast-paced, collaborative, inclusive, and iterative delivery environment? At Capital One, you'll be part of a big group of makers, breakers, doers and disruptors, who love to solve real problems and meet real customer needs. We are seeking Back End Software Engineers who are passionate about marrying data with emerging technologies. As a Capital One Software Engineer, you’ll have the opportunity to be on the forefront of driving a major transformation within Capital One.
+
+**What You’ll Do:**
+
+* Lead a portfolio of diverse technology projects and a team of developers with deep experience in distributed microservices, and full stack systems to create solutions that help meet regulatory needs for the company
+* Share your passion for staying on top of tech trends, experimenting with and learning new technologies, participating in internal & external technology communities, mentoring other members of the engineering community, and from time to time, be asked to code or evaluate code
+* Collaborate with digital product managers, and deliver robust cloud-based solutions that drive powerful experiences to help millions of Americans achieve financial empowerment
+* Utilize programming languages like Java, Python, SQL, Node, Go, and Scala, Open Source RDBMS and NoSQL databases, Container Orchestration services including Docker and Kubernetes, and a variety of AWS tools and services
+
+**Basic Qualifications:**
+
+* Bachelor’s Degree
+* At least 4 years of professional software engineering experience (Internship experience does not apply)
+* At least 1 year experience with cloud computing (AWS, Microsoft Azure, Google Cloud)
+* At least 2 years of people management experience
+
+**Preferred Qualifications:**
+
+* Master's Degree
+* 7+ years of experience in at least one of the following: Java, Scala, Python, Go, or Node.js
+* 2+ years of experience with AWS, GCP, Azure, or another cloud service
+* 4+ years of experience in open source frameworks
+* 5+ years of people management experience
+* 2+ years of experience in Agile practices
+
+*At this time, Capital One will not sponsor a new applicant for employment authorization, or offer any immigration related support for this position (i.e. H1B, F-1 OPT, F-1 STEM OPT, F-1 CPT, J-1, TN, or another type of work authorization).*
+
+The minimum and maximum full-time annual salaries for this role are listed below, by location. Please note that this salary information is solely for candidates hired to perform work within one of these locations, and refers to the amount Capital One is willing to pay at the time of this posting. Salaries for part-time roles will be prorated based upon the agreed upon number of hours to be regularly worked.
+
+McLean, VA: $193,400 - $220,700 for Manager, Software Engineering  
+New York, NY: $211,000 - $240,800 for Manager, Software Engineering  
+Richmond, VA: $175,800 - $200,700 for Manager, Software Engineering
+
+Candidates hired to work in other locations will be subject to the pay range associated with that location, and the actual annualized salary amount offered to any candidate at the time of hire will be reflected solely in the candidate’s offer letter.
+
+This role is also eligible to earn performance based incentive compensation, which may include cash bonus(es) and/or long term incentives (LTI). Incentives could be discretionary or non discretionary depending on the plan.
+
+Capital One offers a comprehensive, competitive, and inclusive set of health, financial and other benefits that support your total well-being. Learn more at the Capital One Careers website. Eligibility varies based on full or part-time status, exempt or non-exempt status, and management level.
+
+This role is expected to accept applications for a minimum of 5 business days.No agencies please. Capital One is an equal opportunity employer committed to diversity and inclusion in the workplace. All qualified applicants will receive consideration for employment without regard to sex (including pregnancy, childbirth or related medical conditions), race, color, age, national origin, religion, disability, genetic information, marital status, sexual orientation, gender identity, gender reassignment, citizenship, immigration status, protected veteran status, or any other basis prohibited under applicable federal, state or local law. Capital One promotes a drug-free workplace. Capital One will consider for employment qualified applicants with a criminal history in a manner consistent with the requirements of applicable laws regarding criminal background inquiries, including, to the extent applicable, Article 23-A of the New York Correction Law; San Francisco, California Police Code Article 49, Sections 4901-4920; New York City’s Fair Chance Act; Philadelphia’s Fair Criminal Records Screening Act; and other applicable federal, state, and local laws and regulations regarding criminal background inquiries.
+
+If you have visited our website in search of information on employment opportunities or to apply for a position, and you require an accommodation, please contact Capital One Recruiting at 1-800-304-9102 or via email at RecruitingAccommodation@capitalone.com. All information you provide will be kept confidential and will be used only to the extent required to provide needed reasonable accommodations.
+
+For technical support or questions about Capital One's recruiting process, please send an email to Careers@capitalone.com
+
+Capital One does not provide, endorse nor guarantee and is not liable for third-party products, services, educational tools or other information available through this site.
+
+Capital One Financial is made up of several different entities. Please note that any position posted in Canada is for Capital One Canada, any position posted in the United Kingdom is for Capital One Europe and any position posted in the Philippines is for Capital One Philippines Service Corp. (COPSSC).
+
+Salary
+
+193,400.00 - 220,700.00 Annual
+
+Type
+
+Full-time","","https://www.indeed.com/cmp/Information-Technology-Senior-Management-Forum","","http://www.itsmfonline.org","Atlanta","51 to 200","","","","","","","",""
+"in-1bf2d3cd04ef0daa","indeed","https://www.indeed.com/viewjob?jk=1bf2d3cd04ef0daa","https://www.careers.fiserv.com/job/-/-/1758/81500349184","Full Stack Developer","Fiserv","Berkeley Heights, NJ, US","2025-05-20","fulltime","direct_data","yearly",96400.0,162000.0,"USD",False,"","","","AskHR.US@fiserv.com","**Calling all innovators - find your future at Fiserv.**
+
+We're Fiserv, a global leader in Fintech and payments, and we move money and information in a way that moves the world. We connect financial institutions, corporations, merchants and consumers to one another millions of times a day - quickly, reliably, and securely. Any time you swipe your credit card, pay through a mobile app, or withdraw money from the bank, we're involved. If you want to make an impact on a global scale, come make a difference at Fiserv.
+
+**Job Title**
+
+Full Stack Developer
+
+**About your role:**
+
+Fiserv is a global leader in fintech and payments, enabling secure and innovative financial services experiences. We connect financial institutions, corporations, merchants, and consumers through reliable transactions, shaping the future of digital payments. As a Full stack developer, you will play a critical role in designing, developing, and maintaining high-quality software applications. You will work with cross-functional teams to deliver solutions that align with our business goals and client needs.
+
+**What you'll do:**
+
+* Develop and maintain full-stack applications using Java, Spring Boot, React JS, and Microservices architecture.
+* Design and implement RESTful services and API development for scalable solutions.
+* Work with Sparkling Logic for rules and workflow management.
+* Optimize database performance using Cassandra, PostgreSQL, and cloud-based solutions on Azure.
+* Leverage Databricks for data processing and analytics.
+* Build and maintain CI/CD pipelines for efficient software deployment and utilize Python and Spark for data analysis and processing.
+* Implement SFG and Airflow for workflow automation and apply domain expertise in Fraud detection, Payments, Account Verification, and Card/ID verification techniques to enhance security and compliance.
+* Ensure comprehensive unit testing and maintain automation to maintain the optimal code coverage.
+
+**Experience you'll need to have:**
+
+* Bachelor’s degree in computer science or related field.
+* 5+ years of experience in Full Stack Development with expertise in Java, Spring Boot, React JS, and Microservices.
+* 2+ years’ experience with RESTful services, API development, Cassandra, PostgreSQL, and cloud platforms like Azure.
+* 1+ years’ experience in Sparkling Logic, SFG, Airflow, and workflow automation tools.
+* Excellent problem-solving skills and ability to work in an Agile environment.
+
+**Experience that would be great to have:**
+
+* 1+ years hands-on experience with Databricks, CI/CD pipelines, Python, Spark, and Data Analysis.
+* Deep understanding of Fraud detection, Payments, Account Verification, and Card/ID verification techniques.
+
+**Salary Range**
+
+$96,400.00 - $162,000.00
+
+*These pay ranges apply to employees in New Jersey, New York and California. Pay ranges for employees in other states may differ.*
+
+It is unlawful to discriminate against a prospective employee due to the individual's status as a veteran.
+
+This position is not eligible for an annual incentive opportunity and is also not eligible to earn commissions.
+
+Thank you for considering employment with Fiserv. Please:
+
+* Apply using your legal name
+* Complete the step-by-step profile and attach your resume (either is acceptable, both are preferable).
+
+**Our commitment to Equal Opportunity:**
+
+Fiserv is proud to be an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, national origin, gender, gender identity, sexual orientation, age, disability, protected veteran status, or any other category protected by law.
+
+If you have a disability and require a reasonable accommodation in completing a job application or otherwise participating in the overall hiring process, please contact AskHR.US@fiserv.com. Please note our AskHR representatives do not have visibility to your application status. Current associates who require a workplace accommodation should refer to Fiserv’s Disability Accommodation Policy for additional information.
+
+**Note to agencies:**
+
+Fiserv does not accept resume submissions from agencies outside of existing agreements. Please do not send resumes to Fiserv associates. Fiserv is not responsible for any fees associated with unsolicited resume submissions.
+
+**Warning about fake job posts:**
+
+Please be aware of fraudulent job postings that are not affiliated with Fiserv. Fraudulent job postings may be used by cyber criminals to target your personally identifiable information and/or to steal money or financial information. Any communications from a Fiserv representative will come from a legitimate Fiserv email address.","","https://www.indeed.com/cmp/Fiserv","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/303d8b81a7cb388dc54df3241a800cc1","http://www.fiserv.com","Milwaukee, WI","10,000+","more than $10B (USD)","Fiserv is a global leader in payments and financial technology that helps clients achieve best-in-class results through a commitment to innovation and engineering excellence.","","","","","",""
+"in-50da047b2c7dfd6f","indeed","https://www.indeed.com/viewjob?jk=50da047b2c7dfd6f","https://progyny.wd5.myworkdayjobs.com/en-US/progyny/job/New-York-New-York/Senior-DevOps-Engineer---Machine-Learning-Platform-Focus_JR100749","Senior DevOps Engineer – Machine Learning Platform Focus","Progyny","New York, NY, US","2025-05-20","fulltime","direct_data","yearly",165000.0,175000.0,"USD",True,"","","","apply@progyny.com","Thank you for considering Progyny!
+
+Progyny’s mission puts our technology platform in the enviable position of very evident purpose: directly supporting the family building journey of millions of individuals. The DevOps guild members directly support this through the design and support of the automated, repeatable build and deployment of our solutions to ensure an exceptional experience for our members and lowest-friction developer experience.
+
+This role will join our Insights & Actions team as well as be an active member of our DevOps Guild: a lean, experienced team with direct stakeholders in engineering, data science, machine learning (ML), operations, SREs, security, compliance, etc. Our platform follows the goal of being cloud native with modern patterns, thoughtful selection of technology solutions, and a clear eye on security/privacy control considerations among multiple other sibling non-functional considerations. We aspire to provide efficient and reliable GitOps and automation. We are social beings that emphasize communication and collaboration through mechanisms like practice guilds, peer development, documenting our decisions and plans, and maintaining awareness of industry patterns and practices evolution.
+
+What you'll do...
+
+As a Senior DevOps Engineer supporting an ML-focused team, you will help deliver reliable pipelines and platforms to enable scalable ML model development, training, and deployment. As part of the guild, you are a member of a lean remote team of experienced polyglot engineers adept at software engineering, data engineering, and effective collaboration at a distance. You will be responsible for working directly with the Insights & Actions team that includes data scientists, and platform engineers to support automated, repeatable build and deploy of ML environments, workflows, models, and services. Your work will focus on provisioning compute on cloud using IaC, integrating with larger Progyny-wide patterns, assisting with the python library registry, logging patterns, and supporting CICD patterns. Future growth opportunities may include optimizing model lifecycle management, automating validation and quality assurance for ML outputs, and supporting the effective team sport that is ML solutions engineering at Progyny.
+
+About you...
+
+* 7+ years in DevOps or MLOps roles for a moderate-to-large sized software or ML engineering organization
+* Experience supporting ML teams or working in a data science/ML infrastructure environment is preferred
+* 4+ years working with AWS (ex: VPC, IAM, S3, SageMaker, Bedrock, etc.)
+* Demonstratable AWS knowledge securely connecting multiple accounts for data transfer
+* Solid experience with IaC (Infrastructure as Code) models and Terraform/HCL conventions (control logic, patterns and composition, etc.)
+* 5+ years GitOps automation on common SCM platforms (GitHub, GitLab)
+* Deep experience with Git-flow and code branch management models & considerations (ex: trunk-based vs. feature-based)
+* Experience supporting ML and data workflows in production (e.g., ML pipeline orchestration with Airflow, Dagster, Kubeflow, or similar); Kubernetes + Kubeflow is a plus
+* Familiarity with ML model deployment techniques (e.g., model versioning, A/B testing, canary releases, online vs. batch inference)
+* Proven experience integrating CI/CD with model training and validation workflows
+* Familiarity with model registry solutions and metadata tracking (e.g., MLflow, SageMaker Model Registry)
+* Proven experience with build and package management tools (e.g., Jenkins, GitHub Actions, NPM, Maven, PyPi, Conda)
+* Demonstratable knowledge of authentication and authorization access patterns (ex: OIDC, common flows, etc.)
+* Demonstratable networking knowledge (TCP stack, CIDRs, DNS, troubleshooting, etc.)
+* Demonstratable security knowledge (PKI, restricted data, etc.) and integration to relevant source systems (authorization store, certificate managers, secrets managers, etc.)
+* Demonstratable Linux and shell skills
+* Demonstratable SCM skills
+* Comfortability with Bash and Python
+* Some experience working in a regulated business environment (ex: Healthcare) is a plus
+
+Please note: Progyny is unable to provide visa sponsorship for this position. Candidates must be authorized to work in United States without the need for sponsorship, now or in the future.
+
+About Progyny:
+
+Progyny (Nasdaq: PGNY) is a global leader in women’s health and family building solutions, trusted by the nation’s leading employers, health plans and benefit purchasers. We envision a world where everyone can realize dreams of family and ideal health. Our outcomes prove that comprehensive, inclusive and intentionally designed solutions simultaneously benefit employers, patients and physicians.
+
+Our benefits solution empowers patients with concierge support, coaching, education, and digital tools; provides access to a premier network of fertility and women's health specialists who use the latest science and technologies; drives optimal clinical outcomes; and reduces healthcare costs.
+
+Our mission is to empower healthier, supported journeys through transformative fertility, family building and women’s health benefits.
+
+Headquartered in New York City, Progyny has been recognized for its leadership and growth as a TIME100 Most Influential Company, CNBC Disruptor 50, Modern Healthcare's Best Places to Work in Healthcare, Forbes' Best Employers, Financial Times Fastest Growing Companies, Inc. 5000, Inc. Power Partners, and Crain's Fast 50 for NYC. For more information, visit
+
+www.progyny.com
+
+.
+
+Our perks:
+
+* Family friendly benefits: Paid family and parental leave, preconception, fertility and family building benefits (including egg freezing, IVF, and adoption support), family and pet care fund, and Parents’ Employee Affiliation Group
+* Menopause and midlife care
+
+* Health, dental, vision and life insurance options for employees and family
+
+* Free in-person, virtual and text-based mental health and wellness support
+
+* Paid time off, including vacation, sick leave, personal days and summer flex time
+
+* Company equity
+
+* Bonus program
+
+* 401(k) plan with company match
+
+* Access to on-demand legal and financial advice
+* Learning and development programs to help you grow professionally and a mentorship program
+
+* Company social events to include annual volunteer day and donation matching
+
+* Flex days (3 days a week in the office) and onsite meals and snacks for employees reporting into our NY office
+
+In compliance with New York City's Wage Transparency Law, the annual salary [wage] range for NYC-based applicants is: $165,000 - $175,000. There are a variety of factors that go into determining a salary range, including but not limited to external market benchmark data, geographic location, and years of experience sought/required. Progyny offers a total compensation package comprised of base salary, cash bonus, and equity.
+
+Progyny is proud to be an Equal Opportunity and Affirmative Action employer. We respect and seek to empower each individual and support the diverse cultures, perspectives, skills and experiences within our workforce. All qualified applicants will receive consideration for employment without regard to race, creed, color, religion, sex, sexual orientation, gender identity or expression, national origin, disability, age, genetic information, marital status, pregnancy or related condition, status as a protected veteran, criminal history consistent with legal requirements or any other basis protected by law.
+
+If you are an individual with a disability and need assistance or an accommodation during the recruiting process, please send an e-mail to
+
+apply@progyny.com
+
+.
+
+#LI-BG1","","https://www.indeed.com/cmp/Progyny","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/8c483fcf125623cf261d989450dbe450","https://www.progyny.com","New York","51 to 200","less than $1M (USD)","","","","","","",""
+"in-629f16fd9dd6521a","indeed","https://www.indeed.com/viewjob?jk=629f16fd9dd6521a","https://careers.moodys.com/asst-dir-devops-engineer/job/29103760?utm_source=indeed&jobPipeline=indeed","Asst Dir-DevOps Engineer","Moody's","New York, NY, US","2025-05-20","fulltime","direct_data","yearly",123656.0,184950.0,"USD",True,"","","","hrbox28@moodys.com, accommodations@moodys.com","**Location(s):**
+
+* 7 World Trade Center, 250 Greenwich Street, New York, New York, 10007, US
+
+**Line Of Business:** Digital Insights OU(CAAS OU)
+
+**Job Category:**
+
+* Corporate Services
+
+**Experience Level:** Experienced Hire
+
+#efc-dnp  
+#LI-DNI  
+
+* nocb #ind-dnp
+
+#NoPDN
+
+At Moody's, we unite the brightest minds to turn today’s risks into tomorrow’s opportunities. We do this by striving to create an inclusive environment where everyone feels welcome to be who they are-with the freedom to exchange ideas, think innovatively, and listen to each other and customers in meaningful ways.
+
+If you are excited about this opportunity but do not meet every single requirement, please apply! You still may be a great fit for this role or other open roles. We are seeking candidates who model our values: invest in every relationship, lead with curiosity, champion diverse perspectives, turn inputs into actions, and uphold trust through integrity.
+
+Employer: Moody’s Analytics, Inc.
+
+Title: Asst Dir-DevOps Engineer
+
+Location: 7 World Trade Center, 250 Greenwich Street, New York, NY 10007 (Principal place of business – telecommuting permitted)
+
+Duties: Leverage knowledge of scripting, automation, continuous integration, and deployment to migrate applications from on-prem to cloud, improve development cycles, and ensure scalability and reliability. Perform automation and processes required to deploy, manage, configure, scale, and monitor internal, product and cloud-based applications. Coordinate with Development/Quality Assurance teams to facilitate experimentation along with functional and load-testing of applications. Coordinate with data engineering in using native cloud managed infrastructure across SQL and DynamoDB to perform queries and data mining. Perform creation and management of CI/CD processes related to product development and testing. Manage and support infrastructure and development applications, including architectural design, source code management, and hosted applications. Work collaboratively with team members to ensure successful delivery and implementation of assigned tasks. Identify and remediate cloud security issues. Design and implement security controls for infrastructure, applications, and data. Identify cloud cost saving opportunities and optimize resource allocation. Implement multi-region active-active pattern for moodys.com. Ensure redundancy and failover mechanisms across different geographic locations. Migrate legacy CICD pattern to AWS CodePipeline and Service Catalog pattern to support seamless deployment of code. Build and support network ingress model to meet business needs by using and implementing tools such as Cloudfare and HAProxy. Troubleshoot issues across cloud and on-prem stack (hardware, network, firewall, applications, database, and storage) and assist engineers, developers, and operations teams to resolve advanced system issues. Telecommuting Permitted (100% telecommuting position. Will consider applicants resident in the continental U.S.).
+
+Requirements: Requires a Master’s degree or foreign equivalent in Computer Science, Information Technology, or a closely related technical field plus at least two (2) years of experience as an Engineer, Developer, Technical Analyst/Consultant/Associate, or in a related position analyzing complex technical issues and processes to identify and understand requirements and develop solutions. Must have experience with the following: applying knowledge of cloud engineering, cloud and network security best practices, and software development life cycle (SDLC), including Agile or Kanban Development Methodology; creating and using APIs for testing; using HAProxy for network traffic management and routing; deploying and managing production environments in Amazon AWS, including CloudFormation, RDS, EC2, ECS, S3, Route53, and Lambda; performing scripting and automation using Shell, Groovy, Python, PowerShell; working with database technologies, including DynamoDB and MS SQL; working with source control management, including BitBucket or GitHub, and CI/CD processes using Jenkins, puppet, CodePipeline, CodeBuild and Service Catalog; testing automation using Selenium; and using programming languages, including Java, Javascript, and C/C++/C#. Telecommuting Permitted (100% telecommuting position. Will consider applicants resident in the continental U.S.).
+
+For US-based roles only: the anticipated hiring base salary range for this position is $123,656 to $184,950, depending on factors such as experience, education, level, skills, and location. This range is based on a full-time position. In addition to base salary, this role is eligible for incentive compensation. Moody’s also offers a competitive benefits package, including not but limited to medical, dental, vision, parental leave, paid time off, a 401(k) plan with employee and company contribution opportunities, life, disability, and accident insurance, a discounted employee stock purchase plan, and tuition reimbursement.
+
+To apply, please submit resume through careers.moodys.com or via e-mail at hrbox28@moodys.com. Please refer to Job Ref. 7018
+
+For US-based roles only: the anticipated hiring base salary range for this position is $127,500.00 - $184,950.00, depending on factors such as experience, education, level, skills, and location. This range is based on a full-time position. In addition to base salary, this role is eligible for incentive compensation. Moody’s also offers a competitive benefits package, including not but limited to medical, dental, vision, parental leave, paid time off, a 401(k) plan with employee and company contribution opportunities, life, disability, and accident insurance, a discounted employee stock purchase plan, and tuition reimbursement.
+
+Moody’s is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, sex, gender, age, religion or creed, national origin, ancestry, citizenship, marital or familial status, sexual orientation, gender identity, gender expression, genetic information, physical or mental disability, military or veteran status, or any other characteristic protected by law. Moody’s also provides reasonable accommodation to qualified individuals with disabilities or based on a sincerely held religious belief in accordance with applicable laws. If you need to inquire about a reasonable accommodation, or need assistance with completing the application process, please email accommodations@moodys.com. This contact information is for accommodation requests only, and cannot be used to inquire about the status of applications
+
+For San Francisco positions, qualified applicants with criminal histories will be considered for employment consistent with the requirements of the San Francisco Fair Chance Ordinance.
+
+This position may be considered a promotional opportunity, pursuant to the Colorado Equal Pay for Equal Work Act.
+
+Click here to view our full EEO policy statement. Click here for more information on your EEO rights under the law. Click here to view our Pay Transparency Nondiscrimination statement. Click here to view our Notice to New York City Applicants.  
+Candidates for Moody's Corporation may be asked to disclose securities holdings pursuant to Moody’s Policy for Securities Trading and the requirements of the position. Employment is contingent upon compliance with the Policy, including remediation of positions in those holdings as necessary.","","https://www.indeed.com/cmp/Moody's-9dbf4b88","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/5ce97398be6ddbafb5e7928474a6d395","https://www.moodys.com/","New York, NY","Decline to state","Decline to state","In a world shaped by increasingly interconnected risks, Moody’s helps customers develop a holistic view of these risks to advance their business and act decisively.","","","","","",""
+"li-4219335012","linkedin","https://www.linkedin.com/jobs/view/4219335012","","Software Engineer II","Etsy","Brooklyn, NY","","","","","","","",False,"","","","","","","https://www.linkedin.com/company/etsy","","","","","","","","","","","",""
+"li-4234466425","linkedin","https://www.linkedin.com/jobs/view/4234466425","","Backend Engineer","NOISE","New York, NY","","","","","","","",False,"","","","","","","https://www.linkedin.com/company/wecreatenoise","","","","","","","","","","","",""
+"li-4232803032","linkedin","https://www.linkedin.com/jobs/view/4232803032","","Software Engineer, Flow","Harmonic","New York, NY","","","","","","","",False,"","","","","","","https://www.linkedin.com/company/harmonicai","","","","","","","","","","","",""
+"li-4231982025","linkedin","https://www.linkedin.com/jobs/view/4231982025","","Software Engineer (Frontend)","Coverdash","New York, NY","","","","","","","",False,"","","","","","","https://www.linkedin.com/company/coverdash","","","","","","","","","","","",""
+"li-4204524296","linkedin","https://www.linkedin.com/jobs/view/4204524296","","Software Engineer, Backend, Level 4","Snap Inc.","New York, NY","","","","","","","",False,"","","","","","","https://www.linkedin.com/company/snap-inc-co","","","","","","","","","","","",""
+"li-4213063228","linkedin","https://www.linkedin.com/jobs/view/4213063228","","Software Engineer II, Agent Platform Experience (APX)","Etsy","Brooklyn, NY","","","","","","","",False,"","","","","","","https://www.linkedin.com/company/etsy","","","","","","","","","","","",""
+"li-4234435351","linkedin","https://www.linkedin.com/jobs/view/4234435351","","Software Development Engineer","Audible","Newark, NJ","","","","","","","",False,"","","","","","","https://www.linkedin.com/company/audible","","","","","","","","","","","",""
+"li-4234432422","linkedin","https://www.linkedin.com/jobs/view/4234432422","","Software Engineer - Full Stack","Evolve","New York, NY","","","","","","","",False,"","","","","","","https://www.linkedin.com/company/weareevolvelifesciencesrecruitment","","","","","","","","","","","",""
+"li-4231974321","linkedin","https://www.linkedin.com/jobs/view/4231974321","","Software Engineer II, Frontend Infrastructure","Etsy","Brooklyn, NY","","","","","","","",False,"","","","","","","https://www.linkedin.com/company/etsy","","","","","","","","","","","",""
+"li-4234787206","linkedin","https://www.linkedin.com/jobs/view/4234787206","","AI/ML Engineer","Blueprint","New York, NY","","","","","","","",False,"","","","","","","https://www.linkedin.com/company/blueprinthealth","","","","","","","","","","","",""
+"li-4226516844","linkedin","https://www.linkedin.com/jobs/view/4226516844","","Founding Software Engineer","miso.com","New York, NY","","","","","","","",False,"","","","","","","https://www.linkedin.com/company/miso-com","","","","","","","","","","","",""
+"li-4219608139","linkedin","https://www.linkedin.com/jobs/view/4219608139","","Software Development Engineer","Amazon","New York, NY","","","","","","","",False,"","","","","","","https://www.linkedin.com/company/amazon","","","","","","","","","","","",""
+"li-4234706240","linkedin","https://www.linkedin.com/jobs/view/4234706240","","Software Engineer","Cape","New York, NY","","","","","","","",False,"","","","","","","https://www.linkedin.com/company/capecellular","","","","","","","","","","","",""
+"li-4204413000","linkedin","https://www.linkedin.com/jobs/view/4204413000","","Experienced Software Engineer - Credit","Plaid","New York, NY","","","","","","","",False,"","","","","","","https://www.linkedin.com/company/plaid-","","","","","","","","","","","",""
+"li-4204406929","linkedin","https://www.linkedin.com/jobs/view/4204406929","","Experienced Software Engineer - Fullstack","Plaid","New York, NY","","","","","","","",False,"","","","","","","https://www.linkedin.com/company/plaid-","","","","","","","","","","","",""
+"li-4219610038","linkedin","https://www.linkedin.com/jobs/view/4219610038","","Software Development Engineer","Amazon","New York, NY","","","","","","","",False,"","","","","","","https://www.linkedin.com/company/amazon","","","","","","","","","","","",""
+"li-4218297640","linkedin","https://www.linkedin.com/jobs/view/4218297640","","Software Engineer, Systems ML - Compilers","Meta","New York, NY","","","","","","","",False,"","","","","","","https://www.linkedin.com/company/meta","","","","","","","","","","","",""
+"li-4219338490","linkedin","https://www.linkedin.com/jobs/view/4219338490","","Software Development Engineer I - iOS, Mobile Apps Engineering","Optimum","Bethpage, NY","","","","","","","",False,"","","","","","","https://www.linkedin.com/company/optimum","","","","","","","","","","","",""
+"li-4234425573","linkedin","https://www.linkedin.com/jobs/view/4234425573","","Software Engineer","Goliath Partners","","","","","","","","",False,"","","","","","","https://www.linkedin.com/company/goliath-partners-inc","","","","","","","","","","","",""
+"li-4234744363","linkedin","https://www.linkedin.com/jobs/view/4234744363","","Entry Level Software Engineer","Lensa","Greenlawn, NY","","","","","","","",False,"","","","","","","https://www.linkedin.com/company/lensa","","","","","","","","","","","",""

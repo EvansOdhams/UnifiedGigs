@@ -1,0 +1,26 @@
+# Git related
+.git
+.gitignore
+.github
+
+# Environment variables
+.env
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# CSV files (job search results)
+job_search_results_*.csv
+
+# Virtual environment
+venv/
+env/
+ENV/ 

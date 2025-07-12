@@ -1,0 +1,588 @@
+id,site,job_url,job_url_direct,title,company,location,date_posted,job_type,salary_source,interval,min_amount,max_amount,currency,is_remote,job_level,job_function,listing_type,emails,description,company_industry,company_url,company_logo,company_url_direct,company_addresses,company_num_employees,company_revenue,company_description,skills,experience_range,company_rating,company_reviews_count,vacancy_count,work_from_home_type
+in-266610667adeda7e,indeed,https://www.indeed.com/viewjob?jk=266610667adeda7e,http://www.indeed.com/job/senior-dot-net-developerlead-266610667adeda7e,Senior Dot Net Developer/Lead,Expreo,"Parsippany-Troy Hills, NJ, US",2025-05-21,contract,direct_data,yearly,111239.0,133908.0,USD,False,,,,,"**Role: Senior Dot Net Developer/Lead**
+
+**Location: Parsippany, NJ**
+
+**Work Authorization: GC, USC Only**
+
+**Interview: Video \+ In\-Person**
+
+**Duration: Long Term**
+
+**\*\*\* Locals will be given first preference \*\*\*. Need Previous Health care domain experience**
+
+**Job Overview:**
+
+The candidate will be responsible for the end\-to\-end development cycle, from design, implementation, and testing to documentation, delivery, and maintenance. This is a “hands\-on” position requiring solid technical skills, as well as excellent interpersonal and communication skills. Must be capable of working with the team and committed to delivering quality code.
+
+**Responsibilities:**
+
+•Using Microsoft .Net technologies, design and develop conceptual, logical, and physical data models for the PAHub product.  
+•Understand and develop business processes and requirements pertaining to development within the customer business center.  
+•Responsible for system analysis, designing the architecture for applications and developing modules, integrating clients (consumers for PAHub applications at Agadia).  
+•Interface with business users and product managers to ensure that implemented solutions satisfy business requirements and are delivered on time.  
+•Review and implement application security (OWASP) concepts for internal/external threats;  
+•Develop and design RESTful web API service components and define service contracts to expose and reuse.  
+•Design, develop, and automate various jobs to minimize the manual efforts
+
+**Skills and Qualifications**  
+•9\+ years of Full stack experience in ASP.NET Core, Angular 12 or later and MS T\-SQL.  
+•Previous/current experience with ASP.NET, Web\-service, WCF, multi\-threading, asynchronous development, MSMQ, and XML are a plus.  
+•Must have project experience development of web applications and web services/API.  
+•Excellent written and verbal communication.  
+•Flexible, team player, “get\-it\-done” personality.  
+•Ability to organize and plan work independently.  
+•Ability to work in a fast\-paced, rapidly changing environment.  
+•Ability to multi\-task and context\-switch effectively between different activities and teams  
+•Able to train peers, software engineers, and support team members.
+
+Job Type: Contract
+
+Schedule:
+
+* Day shift
+
+Work Location: On the road",,https://www.indeed.com/cmp/Expreo,,,,,,,,,,,,
+in-00eca01fd5630933,indeed,https://www.indeed.com/viewjob?jk=00eca01fd5630933,https://grnh.se/f7464bdc1us,Staff Software Engineer - AAA Governance,Datadog,"New York, NY, US",2025-05-21,,direct_data,yearly,234000.0,300000.0,USD,False,,,,,"Datadog is seeking an experienced Staff Engineer to join our Governance group. In this role, you'll drive the technical direction that directly addresses our largest customers' pain points. This will involve driving a unified approach to governing access, usage and compliance across the Datadog platform.
+
+
+
+You'll lead high\-impact initiatives including:
+
+
+* Creating consistent and scalable tag management across Datadog telemetry.
+* Developing a flexible policy engine allowing customers to set guardrails related to compliance, usage, and cost management.
+* Multi\-org governance allowing admins to easily manage hundreds of orgs
+
+
+You'll collaborate closely with product, design and engineering teams across Datadog to define, prototype and scale these initiatives.
+
+
+*At Datadog, we place value in our office culture \- the relationships and collaboration it builds and the creativity it brings to the table. We operate as a hybrid workplace to ensure our Datadogs can create a work\-life harmony that best fits them.*
+
+  
+
+
+**What You'll Do:**
+
+
+* Collaborate with cross\-functional teams to design and develop a flexible platform that lets customers define policies, detect misconfigurations, and take action.
+* Drive high\-priority, high\-visibility projects that enhance the overall Datadog experience for our largest customers.
+* Contribute strategically to short\- and long\-term roadmap development.
+
+  
+
+
+**Who You Are:**
+
+
+* You have a BS/MS/PhD in a scientific field or equivalent experience
+* 10\+ years of relevant engineering experience
+* Experienced at aligning multiple engineering teams around shared technical strategies
+* Strong background architecting large\-scale backend systems
+* Product\-minded with deep empathy for customer experience and operational excellence.
+* Effective communicator, comfortable presenting your ideas to both technical and non\-technical audiences
+* Passionate about growing and mentoring engineers
+
+
+*Datadog values people from all walks of life. We understand not everyone will meet all the above qualifications on day one. That's okay. If you're passionate about technology and want to grow your skills, we encourage you to apply.*
+
+  
+
+
+**Benefits and Growth:**
+
+
+* Get to build tools for software engineers, just like yourself. And use the tools we build to accelerate our development.
+* Have a lot of influence on product direction and impact on the business .
+* Work with skilled, knowledgeable, and kind teammates who are happy to teach and learn
+* Competitive global benefits
+* Continuous professional development
+
+  
+
+
+*Benefits and Growth listed above may vary based on the country of your employment and the nature of your employment with Datadog.*
+
+  
+
+**About Datadog:**
+
+
+
+Datadog (NASDAQ: DDOG) is a global SaaS business, delivering a rare combination of growth and profitability. We are on a mission to break down silos and solve complexity in the cloud age by enabling digital transformation, cloud migration, and infrastructure monitoring of our customers' entire technology stacks. Built by engineers, for engineers, Datadog is used by organizations of all sizes across a wide range of industries. Together, we champion professional development, diversity of thought, innovation, and work excellence to empower continuous growth. Join the pack and become part of a collaborative, pragmatic, and thoughtful people\-first community where we solve tough problems, take smart risks, and celebrate one another. Learn more about \#DatadogLife on Instagram, LinkedIn, and Datadog Learning Center.
+
+
+**Equal Opportunity at Datadog:**
+
+
+
+Datadog is an Affirmative Action and Equal Opportunity Employer and is proud to offer equal employment opportunity to everyone regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity, veteran status, and more. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. Here are our Candidate Legal Notices for your reference.
+
+
+**Your Privacy:**
+
+
+
+Any information you submit to Datadog as part of your application will be processed in accordance with Datadog's Applicant and Candidate Privacy Notice.",Internet And Software,https://www.indeed.com/cmp/Datadog,https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/170cb0b90b8da39a5e1327d7151aec53,https://careers.datadoghq.com/,"New York, Boston, Denver, San Francisco, Atlanta
+Dublin, Paris, Amsterdam, Madrid, Lisbon, London
+Singapore, Tokyo, Sydney, Seoul","5,001 to 10,000",$1B to $5B (USD),"We help organizations enable digital transformation and drive collaboration across their teams. Datadogs are solving tough problems, taking smart risks, and celebrating each other's wins.",,,,,,
+in-50f8fecedc086f60,indeed,https://www.indeed.com/viewjob?jk=50f8fecedc086f60,https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/New-York-United-States/Lead-Software-Engineer_R0105264-1,Lead Software Engineer,LSEG (London Stock Exchange Group),"New York, NY, US",2025-05-21,fulltime,direct_data,yearly,110600.0,184400.0,USD,False,,,,,"LSEG (London Stock Exchange Group) is more than a diversified global financial markets infrastructure and data business. We are dedicated, open\-access partners with a dedication to excellence in delivering the services our customers expect from us. With extensive experience, deep knowledge and worldwide presence across financial markets, we enable businesses and economies around the world to fund innovation, manage risk and create jobs. It’s how we’ve contributed to supporting the financial stability and growth of communities and economies globally for more than 300 years.
+You'll be joining our FX Trade Advanced Analytics team as a Lead Software Engineer. We're responsible for building and delivering complex analytic applications across our regulated FX trading venues.
+Our Advanced Analytics team provides traders with the ability to assess historical trading data with comparisons of liquidity providers and data visualization technology. Our existing analytic capability processes millions of FX trade messages every day on AWS cloud through our big data stack including Python, Lambda, Snowpark, Snowflake, Oracle, HBase and Hive.
+Responsibilities
+You will be responsible for the design and implementation of new analytic application capabilities inside our overall Big Data analytics ecosystem. As such, you will need strong technical abilities, be able to quickly grasp and contribute to existing codebases and express design concepts with a good understanding of functional programming paradigms.
+As a senior developer you will be responsible for engineering solutions, upholding rigorous quality standards, contributing to Agile Scrum processes and at times interacting directly with our product stakeholders.
+Required Skills* Solid grasp of Python with cloud, data warehouse experience, preferably Snowflake.
+* 5\-7\+ years of relevant software engineering experience in the industry
+* 3\+ years' experience in delivering application solutions, ideally using big data technologies
+* Proficient with SQL
+* Able to contribute independently and effectively and work well with the team to deliver high\-profile projects
+
+
+Additional Skills and Experience
+Some knowledge of, or willingness to learn, technologies such as Snowpark, Lambda, Terraform, Oracle, HBase and Hive
+Unit and Integration testing your code (including mocking)
+Proficient with version\-control solutions using Git
+Continuous integration (Gitlab, Bamboo, Jenkins) and/or deployment (Terraform)
+Experience working in Agile Scrum methodologies
+Linux and bash/ruby scripting
+Understanding of FX financial markets
+Compensation/Benefits Information:
+LSEG is committed to offering competitive Compensation and Benefits. The anticipated base salary for this position is $110,600 \- $184,400\.
+Please be aware base salary ranges may vary by geographic location, city and state. In addition to our offered base salary, this role is eligible for our Annual Incentive Plan (AIP/”bonus plan”). Target AIP rates will be commensurate with role level and posted career stage. Individual salary will be reflective of job related knowledge, skills and equivalent experience. LSEG roles (excluding internships and part\-time roles of less than 20 hours per week) are typically eligible for inclusion in our LSEG Benefits program, which includes offerings of: Annual Wellness Allowance, Paid time\-off, Medical, Dental, Vision, Flex Spending \& Health Savings Options, Prescription Drug plan, 401(K) Savings Plan and Company match. LSEG’s Benefits plan also includes basic life insurance, disability benefits, emergency backup dependent care, adoption assistance commuter assistance etc.
+LSEG is a leading global financial markets infrastructure and data provider. Our purpose is driving financial stability, empowering economies and enabling customers to create sustainable growth.
+Our purpose is the foundation on which our culture is built. Our values of Integrity, Partnership, Excellence and Change underpin our purpose and set the standard for everything we do, every day. They go to the heart of who we are and guide our decision making and everyday actions.
+Working with us means that you will be part of a dynamic organisation of 25,000 people across 65 countries. However, we will value your individuality and enable you to bring your true self to work so you can help enrich our diverse workforce. You will be part of a collaborative and creative culture where we encourage new ideas and are committed to sustainability across our global business. You will experience the critical role we have in helping to re\-engineer the financial ecosystem to support and drive sustainable economic growth. Together, we are aiming to achieve this growth by accelerating the just transition to net zero, enabling growth of the green economy and creating inclusive economic opportunity.
+LSEG offers a range of tailored benefits and support, including healthcare, retirement planning, paid volunteering days and wellbeing initiatives.
+We are proud to be an equal opportunities employer. This means that we do not discriminate on the basis of anyone’s race, religion, colour, national origin, gender, sexual orientation, gender identity, gender expression, age, marital status, veteran status, pregnancy or disability, or any other basis protected under applicable law. Conforming with applicable law, we can reasonably accommodate applicants' and employees' religious practices and beliefs, as well as mental health or physical disability needs.
+Please take a moment to read this privacy notice carefully, as it describes what personal information London Stock Exchange Group (LSEG) (we) may hold about you, what it’s used for, and how it’s obtained, your rights and how to contact us as a data subject.
+If you are submitting as a Recruitment Agency Partner, it is essential and your responsibility to ensure that candidates applying to LSEG are aware of this privacy notice.",,https://www.indeed.com/cmp/Lseg-(london-Stock-Exchange-Group)-1,https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/7580b57e6938a23f3c42fc7902211969,http://www.lseg.com,"London, England","10,000+",$1B to $5B (USD),"LSEG is a leading global financial markets infrastructure and data provider. Our purpose is driving financial stability, empowering economies and enabling customers to create sustainable growth. ",,,,,,
+in-18591654a104a740,indeed,https://www.indeed.com/viewjob?jk=18591654a104a740,http://www.indeed.com/job/trading-product-developer-18591654a104a740,Trading Product Developer,"CIS, Inc.","New York, NY, US",2025-05-21,contract,,hourly,,,USD,False,,,,,"**Qualifications**
+
+* 3\+ years’ experience working in a sell side brokerage firm
+* 3\+ years’ experience in working on an order / execution management system (OMS/EMS)
+* Strong organizational and communication skills
+* Strong documentation skill
+* Ability to work under pressure and to tight deadlines
+* Demonstrate ability to work on multiple projects at the same time
+* Strong analytical and problem\-solving skills
+* Attention to detail and a strong commitment to quality
+* Ability to work independently as well as in a team\-oriented, collaborative / matrix environment
+
+**Technical Skills**
+
+* C\#
+* .Net Core
+* ASP.net
+* Javascript
+* Microsoft SQL Server
+* Azure
+* Rest API
+* SVN / GIT
+* Microsoft Project, Visio \& PowerPoint
+
+Job Type: Contract
+
+Pay: $75\.00 per hour
+
+Expected hours: 40 per week
+
+Schedule:
+
+* 8 hour shift
+
+Experience:
+
+* Order / Execution Management system (OMS/EMS) : 5 years (Required)
+* Sell Side Brokerage Firm: 5 years (Required)
+* C\#: 8 years (Required)
+* ASP.NET: 8 years (Required)
+* JavaScript: 8 years (Required)
+
+Location:
+
+* New York, NY 10001 (Required)
+
+Work Location: In person",,"https://www.indeed.com/cmp/Cis,-Inc.-3",,,,,,,,,,,,
+in-8d195c957081212a,indeed,https://www.indeed.com/viewjob?jk=8d195c957081212a,https://careers.google.com/jobs/results/113382838312542918-senior-staff-software-engineer/,"Senior Staff Software Engineer, Google Cloud Storage",Google,"New York, NY, US",2025-05-21,fulltime,,,,,,False,,,,,"Note: By applying to this position you will have an opportunity to share your preferred working location from the following: **Seattle, WA, USA; Sunnyvale, CA, USA; Cambridge, MA, USA; New York, NY, USA; Durham, NC, USA; Raleigh, NC, USA**.### **Minimum qualifications:**
+
+* Bachelor's degree or equivalent practical experience.
+* 8 years of experience in software development.
+* 5 years of experience testing, and launching software products.
+* 5 years of experience programming in Java, C\+\+ or Go.
+* 5 years of experience with distributed systems concepts like data replication, consistency models and fault tolerance.
+* 5 years of experience with file systems or storage management.
+
+  
+
+### **Preferred qualifications:**
+
+* Master’s degree or PhD in Engineering, Computer Science, or a related technical field.
+* 8 years of experience with data structures/algorithms.
+* 5 years of experience in a technical leadership role leading project teams and setting technical direction.
+* 3 years of experience working in a complex, matrixed organization involving cross\-functional, or cross\-business projects.
+* Experience with linux kernel internals.
+* Experience with distributed Machine Learning and Machine Learning infrastructure.
+
+**About the job**
+-----------------
+
+
+Google Cloud's software engineers develop the next\-generation technologies that change how billions of users connect, explore, and interact with information and one another. We're looking for engineers who bring fresh ideas from all areas, including information retrieval, distributed computing, large\-scale system design, networking and data storage, security, artificial intelligence, natural language processing, UI design and mobile; the list goes on and is growing every day. As a software engineer, you will work on a specific project critical to Google Cloud's needs with opportunities to switch teams and projects as you and our fast\-paced business grow and evolve. You will anticipate our customer needs and be empowered to act like an owner, take action and innovate. We need our engineers to be versatile, display leadership qualities and be enthusiastic to take on new problems across the full\-stack as we continue to push technology forward.
+
+
+
+Google Cloud accelerates every organization’s ability to digitally transform its business and industry. We deliver enterprise\-grade solutions that leverage Google’s cutting\-edge technology, and tools that help developers build more sustainably. Customers in more than 200 countries and territories turn to Google Cloud as their trusted partner to enable growth and solve their most critical business problems.
+
+
+The US base salary range for this full\-time position is $248,000\-$349,000 \+ bonus \+ equity \+ benefits. Our salary ranges are determined by role, level, and location. Within the range, individual pay is determined by work location and additional factors, including job\-related skills, experience, and relevant education or training. Your recruiter can share more about the specific salary range for your preferred location during the hiring process.
+
+
+Please note that the compensation details listed in US role postings reflect the base salary only, and do not include bonus, equity, or benefits. Learn more about benefits at Google.**Responsibilities**
+--------------------
+
+* Help us figure out a roadmap to make GCS the Cloud Storage for AIML workloads.
+* Lead a team of engineers to design, develop, and deploy new GCS features and enhancements. Provide technical guidance, mentorship, and code reviews to ensure quality software development.
+* Architect and design systems that meet the needs of GCS growing AI/ML customer base. Make data\-driven decisions to optimize system performance and efficiency.
+* Troubleshoot technical issues, analyze performance bottlenecks, and develop innovative solutions to address customer tests. Collaborate with cross\-functional teams to resolve issues.
+* Stay abreast of the latest trends in AI and drive innovation within the GCS team. Propose and implement new features that enhance GCS capabilities and differentiate it from performers.
+Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also Google's EEO Policy and EEO is the Law. If you have a disability or special need that requires accommodation, please let us know by completing our Accommodations for Applicants form.",,https://www.indeed.com/cmp/Google,https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/fff4be3829cee39e477a518f55475f44,http://goo.gle/3ygdkgv,"Mountain View, CA","10,000+",more than $10B (USD),Our mission is to organize the world’s information and make it universally accessible and useful. ,,,,,,
+in-6534cf6ac1312eae,indeed,https://www.indeed.com/viewjob?jk=6534cf6ac1312eae,https://dsp.prng.co/UWlUzNb,"Manager 3, Software Engineering (Product)",Intuit,"New York, NY, US",2025-05-21,,direct_data,yearly,235500.0,318500.0,USD,False,,,,,"**Overview**
+------------
+
+
+Come join the Intuit Enterprise Builders team as a Manager 3, Software Engineering. As Intuit expands its footprint in the Mid\-Market and Enterprise segment, you will be part of the group enabling the product to be able to expand into various industries by leveraging AI and relevant technology frameworks.
+
+**What you'll bring**
+---------------------
+
+* 8\+ years experience as an established technical leader of software engineering teams that have successfully delivered customer\-driven software products.
+* Demonstrated experience leading positive change, empowering people, cultivating product technology visions and innovative solutions, and fostering effective engineering teams.Adept at articulating the product vision and drive the future roadmap with strong business acumen
+* Ability to think and act strategically for all stakeholders
+* Passion for being at the leading edge of technology with a minimum of 12\-14 years of hands on software development experience (list specific tech exp)
+* Experience with Agile development and methodologies and SaaS and technologies.
+* Possesses strong verbal and written communication skills.
+* BS in Computer Science / MIS or equivalent work\-related experience
+* Experience in building tools with both Frontend and Backend capabilities
+* Experience in building real time platform and services which supports multi tante
+* Experience in AI and GenAI \- an advantage
+* Experience in Fintech and/or financial Risk \& Fraud, payment etc \- an advantage
+* Proven track of execution, engineering excellence and customer obsession
+* Proven record of working in a cross organization environment
+**How you will lead**
+---------------------
+
+* Technology leaders at Intuit think strategically and drive for results. They build high performing teams by putting the right people in the right job at the right time. Leaders help to innovate by thinking differently. They lead their teams to embrace new ideas that produce outstanding results for our customers. Leaders at Intuit inspire others through action by creating a spirit of collaboration.
+* In this role you will help to bring out the best ideas from the best engineers by empowering them and leading by example.
+* Your team will create and bring customer driven software products to market that simplify and solve for current customer needs while building for the future.
+* To accomplish this you will create a shared vision and build and maintain strong cross\-functional relationships / alignment with partners across the business (e.g. Program Mgmt, Product Management, Design).
+* Experience in building tools with both Frontend and Backend capabilities
+* You will foster a culture of technical excellence, innovation, and continuous improvement within your team.
+* You will mentor and develop engineers, helping them grow their technical skills and advance their careers.
+* You will stay abreast of the latest advancements in AI, automation, and related technologies to identify opportunities for enhancing our Agentic Experiences.
+
+  
+
+Intuit provides a competitive compensation package with a strong pay for performance rewards approach. The expected base pay range for this position is:  
+
+New York, NY \- $235,500 \- 318,500  
+
+This position will be eligible for a cash bonus, equity rewards and benefits, in accordance with our applicable plans and programs (see more about our compensation and benefits at Intuit®: Careers \| Benefits).  
+
+Pay offered is based on factors such as job\-related knowledge, skills, experience, and work location. To drive ongoing pay equity for employees, Intuit conducts regular comparisons across categories of ethnicity and gender.",,https://www.indeed.com/cmp/Intuit,https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/8baee6407ec864598934184b8b80b4bf,http://www.intuit.com/careers/glassdoor,"Mountain View, CA","10,000+",more than $10B (USD),"Intuit is the global financial technology platform that powers prosperity for the people and communities we serve with TurboTax, Credit Karma, QuickBooks, and Mailchimp.",,,,,,
+in-ec0249f99650932b,indeed,https://www.indeed.com/viewjob?jk=ec0249f99650932b,https://jobs.smartrecruiters.com/APlaceForMom1/744000060767099-staff-machine-learning-engineer,Staff Machine Learning Engineer,A Place for Mom,"New York, NY, US",2025-05-21,fulltime,direct_data,yearly,150000.0,170000.0,USD,True,,,,,"**Company Description** **About A Place for Mom:**
+
+
+A Place for Mom is the leading online resource connecting families searching for senior care with a team of expert advisors providing insight\-driven, personalized solutions. As the nation’s largest senior care advisory service, A Place for Mom helps hundreds of thousands of families every year navigate the complexities of finding the right senior care solution for their loved ones across home care, independent living, memory care, assisted living, and more. Established in 2000 as a family business, A Place for Mom employees are deeply committed to the company mission to enable caregivers to make the best senior care decisions. A Place for Mom fosters, cultivates, and preserves a culture of diversity, equity, and inclusion.
+
+
+Our employees live the company values every day:
+
+* **Mission Over Me**: We find purpose in helping caregivers and their senior loved ones while approaching our work with empathy.
+* **Do Hard Things**: We are energized by solving challenging problems and see it as an opportunity to grow.
+* **Drive Outcomes as a Team**: We each own the outcome but can only achieve it as a team.
+* **Win The Right Way**: We see organizational integrity as the foundation for how we operate.
+* **Embrace Change**: We innovate and constantly evolve.
+
+  
+
+**Job Description**  
+
+A Place for Mom is looking for a Staff Machine Learning Engineer to help build practical, data\-driven machine learning applications focused in the Engineering space. In this role, you will develop and deploy scalable ML models that solve business problems within our core product areas.
+
+
+This position reports to the VP of Engineering and works directly in the Engineering organization while also working closely with the Data Science team which includes data scientists and machine learning engineers.
+
+**Who you are:**
+
+
+The ideal candidate is self\-motivated, goal\-oriented, and capable of taking ownership of entire projects. You proactively identify and recommend areas where your work can make the biggest impact and work across various teams to make that work come to life. You are experienced in identifying the business value of your work and communicating that value in non\-technical terms when needed. You are comfortable digging into large datasets, using your background in statistics and programming to find patterns and build models that are ready for production while also improving existing algorithms to make them faster, more accurate, and more reliable.
+
+**What you will do:**
+
+* **Technical Leadership and Mentoring**:
+	+ Own and drive initiatives from idea to production, managing cross\-functional stakeholders.
+	+ Drive architecture decisions and influence long\-term strategy
+	+ Provide ML\-specific technical guidance and mentorship to the Engineering Org
+* **Machine Learning Model Development and Maintenance**:
+	+ Own the full ML lifecycle: from data exploration to model development, deployment, and continuous optimization.
+	+ Deep understanding of real\-time inference systems, streaming data pipelines, model serving services, feature store monitoring and latency optimization for ML \& LLM applications
+	+ Solve complex problems with multilayered data sets and optimize existing machine learning libraries and frameworks.
+	+ Run machine learning tests and experiments, and document findings and results.
+* **Model Maintenance and Monitoring**:
+	+ Implement and monitor model and data quality checks to ensure accuracy and consistency of our models and pipelines in production.
+	+ Train, retrain, and monitor machine learning systems and models as needed.
+* **Collaboration and Support**:
+	+ Collaborate with cross\-functional teams, including date engineers, data scientists, machine learning engineers and product managers, to build machine learning applications that align with business objectives and best practices.
+	+ Provide support on model and data\-related issues and queries from other teams including providing clear and actionable reporting for stakeholders.
+	+ Be comfortable working within the Engineering Organization while also using and influencing the ML Platforms and best practices established by the Data Organization.
+* **Best Practices and Documentation**
+	+ Define and promote best practices for model implementation, training, evaluation, deployment, monitoring and continuous improvement.
+
+  
+
+**Qualifications**  
+
+* Experience: 8\+ years of experience in machine learning, with at least 2 years in a senior or staff\-level ML engineering role, with a proven track record of delivering ML models to production with measurable impact.
+* **Technical Skills**: Expertise in SQL, Databricks, AWS services, Python, Spark and machine learning frameworks such as XGBoost, Scikit, TensorFlow, Keras or PyTorch. Experienced in developing, deploying, and serving scalable LLM applications in production environments.
+* **Analytical Skills**: Excellent analytical and problem\-solving skills with a strong ability to derive insights from complex data sets.
+* **Communication**: Excellent communication skills with the ability to convey technical information and business impact to non\-technical stakeholders.
+* **Education**: Master’s degree in Computer Science, Mathematics, or a related field, or equivalent working experience.
+
+
+**Compensation**
+
+* Base Salary: $150,000 to $170,000 \+ 20% Bonus
+* Benefits:
+	+ 401(k) plus match
+	+ Dental insurance
+	+ Health insurance
+	+ Vision Insurance
+	+ Paid Time Off
+
+**\#LI\-AR1**
+
+**\#Remote**
+
+ **Additional Information** *A Place for Mom has recently become aware of the fraudulent use of our name on job postings and via recruiting emails that are illegitimate and not in any way associated with us. APFM will never ask you to provide sensitive personal information as part of the recruiting process, such as your social security number; send you any unsolicited job offers or employment contracts; require any fees, payments, or access to financial accounts; and/or extend an offer without conducting an interview.*
+
+*If you suspect you are being scammed or have been scammed online, you may report the crime to the Federal Bureau of Investigation and obtain more information regarding online scams at the Federal Trade Commission.*
+
+
+All your information will be kept confidential according to EEO guidelines.
+
+
+A Place for Mom **uses E\-Verify** to confirm the employment eligibility of all newly hired employees. To learn more about E\-Verify, including your rights and responsibilities, please visit **www.dhs.gov/E\-Verify****.**",,https://www.indeed.com/cmp/A-Place-For-Mom,https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/0e92d0fc2a19ec513b90ace5fa316493,http://www.aplaceformom.com,"New York, NY","501 to 1,000",Decline to state,"A Place for Mom is an online platform connecting families searching for senior care with a team of experienced local advisors providing insight-driven, personalized solutions.",,,,,,
+in-3dcf616f5e14aa55,indeed,https://www.indeed.com/viewjob?jk=3dcf616f5e14aa55,https://careers.harris.com/job/-/-/4832/81496559472,"Scientist, Software Engineer TS/SCI",L3Harris,"Clifton, NJ, US",2025-05-21,,direct_data,yearly,138000.0,294500.0,USD,False,,,,,"L3Harris is dedicated to recruiting and developing high\-performing talent who are passionate about what they do. Our employees are unified in a shared dedication to our customers’ mission and quest for professional growth. L3Harris provides an inclusive, engaging environment designed to empower employees and promote work\-life success. Fundamental to our culture is an unwavering focus on values, dedication to our communities, and commitment to excellence in everything we do.
+
+
+L3Harris Technologies is the Trusted Disruptor in the defense industry. With customers’ mission\-critical needs always in mind, our employees deliver end\-to\-end technology solutions connecting the space, air, land, sea and cyber domains in the interest of national security.
+
+**Job Title: Scientist, Software Engineering**
+
+**Job Code: 24090**
+
+**Job Location:** **ANY of the following: Van Nuys, CA or Colorado Springs, CO or Plano, TX or Fort Wayne, IN or Rochester, NY or Amityville, NY or Clifton, NJ or Wilmington, MA or Herndon, VA or Dulles, VA or Ashburn, VA, or Chantilly, VA or Alpharetta, GA or Palm Bay, FL**
+
+**Job Schedule: 9/80**
+
+**Job Description:**
+
+
+L3Harris is seeking a highly skilled and dynamic Chief Software Engineer for a multifaceted role. The ideal candidate is a hybrid leader who excels at software architecture, product management, and business development. They will bridge customer needs in the ISR, Electromagnetic Battle Management, and Collaborative Targeting domains with innovative product solutions, driving internally funded and customer\-funded development to deliver market\-ready products. This role demands a balance of architectural design, project management, effective communication with both technical and non\-technical stakeholders, and hands\-on coding as needed. The Chief Software Engineer will work with engineering, business development, and program management teams to build, market, and deliver cutting\-edge defense software.
+
+* **Software Product Development and Management**: Proven track record of leading end\-to\-end software product development, from ideation to deployment, with a focus on delivering user\-centric solutions.
+* **Full Stack Development**: Extensive experience in full stack development, including deploying scalable applications to AWS and/or Azure cloud environments as well as Size Weight and Power disadvantaged embedded platforms.
+* **Customer Engagement**: Ability to work directly with customers to understand their needs, articulate product value, and proactively anticipate requirements and features ahead of formal RFPs.
+* **Team Management**: Demonstrated success in managing diverse teams of engineers with varying experience levels, fostering collaboration, and assigning development and testing tasks to engineering staff. Proven experience in cost account management.
+* **Communication and Documentation**: Exceptional ability to convey complex technical concepts to diverse audiences (technical and non\-technical, internal and external) through clear verbal and written communication, including comprehensive documentation including RFI and RFP responses.
+* **Mission\-System Expertise**: Experience with ISR missions and capabilities, enabling rapid alignment with customer mission needs.
+
+**Essential Functions:**
+
+* Interpretation of customers’ mission needs with a focus on identifying mission gaps and addressable market
+* Advocates the customer’s critical needs to internal stakeholders
+* Generation of the initial Concept of Operations (CONOPS) or Operational Descriptions Document (ODD)
+* Generation of initial system architecture views; decomposing opportunity to addressable configuration items in a compressive value chain framework
+* Leads teams of engineers in the development of appropriate solutions to customer needs, via internal R\&D and customer\-funded development projects.
+* Demonstrates broad and deep technical knowledge and leverages Subject Matter Experts (SMEs) as needed
+* Leads and coordinate pursuit activities such as: technical baseline reviews, request for input (RFI) responses, request for proposal (RFP) responses, and white papers.
+
+**Qualifications:**
+
+* Bachelor’s Degree and a minimum of 12 years of prior relevant experience. Graduate Degree and a minimum of 10 years of prior related experience. In lieu of a degree, minimum of 16 years of prior related experience.
+* Must have ability to obtain and retain clearance.
+
+**Preferred Additional Skills:**
+
+* Defense Industry Experience: Prior work in software development within the defense sector, with familiarity in navigating DoD processes and requirements.
+* Mission\-Specific Expertise: Experience with Electronic Warfare, offensive RF channel cyber effects, and/or Electrometric Battle Management
+* Strategic Business Development: Background in aligning technical solutions with strategic business goals, such as contributing to organizational software strategies, supporting proposal teams, or driving innovation in emerging technology sectors like AI/ML.
+* API Development and Messaging Systems: Experience designing and implementing robust APIs for system integration, coupled with proficiency in messaging libraries like ZeroMQ for high\-performance, distributed communication.
+* Familiarity with real\-time data processing and cross\-system interoperability in defense applications
+
+  
+
+In compliance with pay transparency requirements, the salary range for this role in Colorado State, Hawaii, Illinois, Maryland, Minnesota, Vermont and New York State is $138,000\.00 \- $256,000\.00\. For California, Seattle, Washington D.C., Maryland Greater Washington D.C. area, the city of Denver, Washington State and New York City, the salary range for this role is $158,500\.00 \- $294,500\.00\. This is not a guarantee of compensation or salary, as final offer amount may vary based on factors including but not limited to experience and geographic location. L3Harris also offers a variety of benefits, including health and disability insurance, 401(k) match, flexible spending accounts, EAP, education assistance, parental leave, paid time off, and company\-paid holidays. The specific programs and options available to an employee may vary depending on date of hire, schedule type, and the applicability of collective bargaining agreements.
+
+  
+
+The application window for this requisition is anticipated to close on 8/25/2025\.
+
+  
+
+Qualified applications with arrest or conviction records will be considered for employment in accordance with Los Angeles County Fair Chance Ordinance for Employers and the California Fair Chance Act.
+
+
+L3Harris Technologies is proud to be an Equal Opportunity Employer. L3Harris is committed to treating all employees and applicants for employment with respect and dignity and maintaining a workplace that is free from unlawful discrimination. All applicants will be considered for employment without regard to race, color, religion, age, national origin, ancestry, ethnicity, gender (including pregnancy, childbirth, breastfeeding or other related medical conditions), gender identity, gender expression, sexual orientation, marital status, veteran status, disability, genetic information, citizenship status, characteristic or membership in any other group protected by federal, state or local laws. L3Harris maintains a drug\-free workplace and performs pre\-employment substance abuse testing and background checks, where permitted by law.
+
+
+Please be aware many of our positions require the ability to obtain a security clearance. Security clearances may only be granted to U.S. citizens. In addition, applicants who accept a conditional offer of employment may be subject to government security investigation(s) and must meet eligibility requirements for access to classified information.
+
+
+By submitting your resume for this position, you understand and agree that L3Harris Technologies may share your resume, as well as any other related personal information or documentation you provide, with its subsidiaries and affiliated companies for the purpose of considering you for other available positions.
+
+
+L3Harris Technologies is an E\-Verify Employer. Please click here for the E\-Verify Poster in English or Spanish. For information regarding your Right To Work, please click here for English or Spanish.",,https://www.indeed.com/cmp/L3harris,https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/6a6c9f075b48a5898354e5f275c43a33,https://www.l3harris.com,"Melbourne, FL","10,000+",more than $10B (USD),"At L3Harris, we are proud to employ innovators and problem solvers dedicated to delivering mission critical solutions our customers on the front lines depend on. Learn more at.L3Harris.com/careers.",,,,,,
+in-6b757fcf0cb935b7,indeed,https://www.indeed.com/viewjob?jk=6b757fcf0cb935b7,https://JPMorganChase.contacthr.com/147548323,Software Engineer III - Python,JPMorganChase,"Jersey City, NJ, US",2025-05-21,fulltime,direct_data,yearly,133000.0,185000.0,USD,False,,,,,"**JOB DESCRIPTION**  
+
+Bring your Software Engineering skills to the next level and join the AIML Data Platforms Fusion Data Management Team. In this role as a Lead Analytics Data Engineer, you will bring your experience with Python / Java / Spark knowledge to help the Securities Services business identify opportunities to improve efficiency, increase revenue, optimize the operating model and risk framework and create value added data driven Products for our Clients.
+
+
+As a Software Engineer III at JPMorgan Chase within Corporate AIML Data Platforms Fusion Data Management Team, you serve as a seasoned member of an agile team to design and deliver trusted market\-leading technology products in a secure, stable, and scalable way. In this role, you are responsible for carrying out critical technology solutions across multiple technical areas within various business functions in support of the firm’s business objectives. In this role you will work closely with multiple teams including Product Development and Product Business users to develop applications within our AWS Analytics platform. In this role you will be hands\-on performing the design and development of applications. You will also help formulate the analytics strategy and ensure cross\-application data \& logic consistency and optimization.
+
+**Job responsibilities**
+
+* Executes software solutions, design, development, and technical troubleshooting with ability to think beyond routine or conventional approaches to build solutions or break down technical problems.
+* Creates secure and high\-quality production code and maintains algorithms that run synchronously with appropriate systems.
+* Produces architecture and design artifacts for complex applications while being accountable for ensuring design constraints are met by software code development.
+* Gathers, analyzes, synthesizes, and develops visualizations and reporting from large, diverse data sets in service of continuous improvement of software applications and systems.
+* Proactively identifies hidden problems and patterns in data and uses these insights to drive improvements to coding hygiene and system architecture.
+* Contributes to software engineering communities of practice and events that explore new and emerging technologies.
+* Adds to team culture of diversity, equity, inclusion, and respect.
+
+**Required qualifications, capabilities, and skills**
+
+* Formal training or certification on Software Engineering and 3\+ years applied experience.
+* Excellent Python knowledge with experience with Web application frameworks such as Fast API
+* Experience in building data pipelines using Python / Java / Pyspark
+* Solid understanding in Object oriented programming concepts and Design patterns.
+* Working knowledge in Python base rest API builds including Fast API
+* Experience pipeline orchestration tools i.e Argo, Airflow etc.
+* Strong database skills with a thorough understanding of databases and data modelling concepts.
+* Experience in developing, debugging, and maintaining code in a large corporate environment with one or more modern programming languages and database querying languages.
+* Overall knowledge of the Software Development Life Cycle
+* Solid understanding of agile methodologies such as CI/CD, Application Resiliency, and Security; particularly around Docker image builds.
+* Demonstrated knowledge of software applications and technical processes within a technical discipline (e.g., cloud, artificial intelligence, machine learning, mobile, etc.)
+
+**Preferred qualifications, capabilities, and skills**
+
+* Knowledge of table formats i.e Iceberg.
+* Knowledge of libraries i.e Polars, PyIceberg .
+* Knowledge of languages like Rust is a plus.
+* Working knowledge in AWS and relevant cloud tools like Glue, Lambda
+
+
+**ABOUT US**  
+
+
+JPMorganChase, one of the oldest financial institutions, offers innovative financial solutions to millions of consumers, small businesses and many of the world’s most prominent corporate, institutional and government clients under the J.P. Morgan and Chase brands. Our history spans over 200 years and today we are a leader in investment banking, consumer and small business banking, commercial banking, financial transaction processing and asset management.
+We offer a competitive total rewards package including base salary determined based on the role, experience, skill set and location. Those in eligible roles may receive commission\-based pay and/or discretionary incentive compensation, paid in the form of cash and/or forfeitable equity, awarded in recognition of individual achievements and contributions. We also offer a range of benefits and programs to meet employee needs, based on eligibility. These benefits include comprehensive health care coverage, on\-site health and wellness centers, a retirement savings plan, backup childcare, tuition reimbursement, mental health support, financial coaching and more. Additional details about total compensation and benefits will be provided during the hiring process.
+
+
+We recognize that our people are our strength and the diverse talents they bring to our global workforce are directly linked to our success. We are an equal opportunity employer and place a high value on diversity and inclusion at our company. We do not discriminate on the basis of any protected attribute, including race, religion, color, national origin, gender, sexual orientation, gender identity, gender expression, age, marital or veteran status, pregnancy or disability, or any other basis protected under applicable law. We also make reasonable accommodations for applicants’ and employees’ religious practices and beliefs, as well as mental health or physical disability needs. Visit our FAQs for more information about requesting an accommodation.
+
+
+JPMorgan Chase \& Co. is an Equal Opportunity Employer, including Disability/Veterans
+
+  
+
+  
+
+  
+
+**ABOUT THE TEAM**  
+
+  
+
+J.P. Morgan’s Commercial \& Investment Bank is a global leader across banking, markets, securities services and payments. Corporations, governments and institutions throughout the world entrust us with their business in more than 100 countries. The Commercial \& Investment Bank provides strategic advice, raises capital, manages risk and extends liquidity in markets around the world.",,https://www.indeed.com/cmp/Jpmorganchase-2,https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/62e186e96c7550325814ef6880fae379,https://www.jpmorganchase.com/,"New York, NY","10,000+",more than $10B (USD),"Headquartered in New York City, JPMorgan Chase is the largest bank in the United States.",,,,,,
+in-1bf2d3cd04ef0daa,indeed,https://www.indeed.com/viewjob?jk=1bf2d3cd04ef0daa,https://www.careers.fiserv.com/job/-/-/1758/81500349184,Full Stack Developer,Fiserv,"Berkeley Heights, NJ, US",2025-05-20,fulltime,direct_data,yearly,96400.0,162000.0,USD,False,,,,AskHR.US@fiserv.com,"**Calling all innovators \- find your future at Fiserv.**
+
+
+We're Fiserv, a global leader in Fintech and payments, and we move money and information in a way that moves the world. We connect financial institutions, corporations, merchants and consumers to one another millions of times a day \- quickly, reliably, and securely. Any time you swipe your credit card, pay through a mobile app, or withdraw money from the bank, we're involved. If you want to make an impact on a global scale, come make a difference at Fiserv.
+
+**Job Title**
+
+
+Full Stack Developer**About your role:**
+
+
+Fiserv is a global leader in fintech and payments, enabling secure and innovative financial services experiences. We connect financial institutions, corporations, merchants, and consumers through reliable transactions, shaping the future of digital payments. As a Full stack developer, you will play a critical role in designing, developing, and maintaining high\-quality software applications. You will work with cross\-functional teams to deliver solutions that align with our business goals and client needs.
+
+**What you'll do:**
+
+* Develop and maintain full\-stack applications using Java, Spring Boot, React JS, and Microservices architecture.
+* Design and implement RESTful services and API development for scalable solutions.
+* Work with Sparkling Logic for rules and workflow management.
+* Optimize database performance using Cassandra, PostgreSQL, and cloud\-based solutions on Azure.
+* Leverage Databricks for data processing and analytics.
+* Build and maintain CI/CD pipelines for efficient software deployment and utilize Python and Spark for data analysis and processing.
+* Implement SFG and Airflow for workflow automation and apply domain expertise in Fraud detection, Payments, Account Verification, and Card/ID verification techniques to enhance security and compliance.
+* Ensure comprehensive unit testing and maintain automation to maintain the optimal code coverage.
+
+**Experience you'll need to have:**
+
+* Bachelor’s degree in computer science or related field.
+* 5\+ years of experience in Full Stack Development with expertise in Java, Spring Boot, React JS, and Microservices.
+* 2\+ years’ experience with RESTful services, API development, Cassandra, PostgreSQL, and cloud platforms like Azure.
+* 1\+ years’ experience in Sparkling Logic, SFG, Airflow, and workflow automation tools.
+* Excellent problem\-solving skills and ability to work in an Agile environment.
+
+**Experience that would be great to have:**
+
+* 1\+ years hands\-on experience with Databricks, CI/CD pipelines, Python, Spark, and Data Analysis.
+* Deep understanding of Fraud detection, Payments, Account Verification, and Card/ID verification techniques.
+
+**Salary Range**
+
+
+$96,400\.00 \- $162,000\.00*These pay ranges apply to employees in New Jersey, New York and California. Pay ranges for employees in other states may differ.*
+
+
+It is unlawful to discriminate against a prospective employee due to the individual's status as a veteran.
+
+
+This position is not eligible for an annual incentive opportunity and is also not eligible to earn commissions.
+Thank you for considering employment with Fiserv. Please:
+
+* Apply using your legal name
+* Complete the step\-by\-step profile and attach your resume (either is acceptable, both are preferable).
+
+**Our commitment to Equal Opportunity:**
+
+
+Fiserv is proud to be an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, national origin, gender, gender identity, sexual orientation, age, disability, protected veteran status, or any other category protected by law.
+
+
+If you have a disability and require a reasonable accommodation in completing a job application or otherwise participating in the overall hiring process, please contact AskHR.US@fiserv.com. Please note our AskHR representatives do not have visibility to your application status. Current associates who require a workplace accommodation should refer to Fiserv’s Disability Accommodation Policy for additional information.
+
+**Note to agencies:**
+
+
+Fiserv does not accept resume submissions from agencies outside of existing agreements. Please do not send resumes to Fiserv associates. Fiserv is not responsible for any fees associated with unsolicited resume submissions.
+
+**Warning about fake job posts:**
+
+
+Please be aware of fraudulent job postings that are not affiliated with Fiserv. Fraudulent job postings may be used by cyber criminals to target your personally identifiable information and/or to steal money or financial information. Any communications from a Fiserv representative will come from a legitimate Fiserv email address.",,https://www.indeed.com/cmp/Fiserv,https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/303d8b81a7cb388dc54df3241a800cc1,http://www.fiserv.com,"Milwaukee, WI","10,000+",more than $10B (USD),Fiserv is a global leader in payments and financial technology that helps clients achieve best-in-class results through a commitment to innovation and engineering excellence.,,,,,,
+li-4192202080,linkedin,https://www.linkedin.com/jobs/view/4192202080,,Software Engineer (New Grad Program),Sigma,"New York, NY",2025-05-19,,,,,,,False,,,,,,,https://www.linkedin.com/company/sigmacomputing,,,,,,,,,,,,
+li-4194463239,linkedin,https://www.linkedin.com/jobs/view/4194463239,,"Software Engineer, Integrations",Notion,"New York, NY",2025-05-13,,,,,,,False,,,,,,,https://www.linkedin.com/company/notionhq,,,,,,,,,,,,
+li-4133120208,linkedin,https://www.linkedin.com/jobs/view/4133120208,,"Software Engineer, Machine Learning",Notion,"New York, NY",2025-05-12,,,,,,,False,,,,,,,https://www.linkedin.com/company/notionhq,,,,,,,,,,,,
+li-4209525758,linkedin,https://www.linkedin.com/jobs/view/4209525758,,"Software Engineer, Front End",Meta,"New York, NY",2025-05-09,,,,,,,False,,,,,,,https://www.linkedin.com/company/meta,,,,,,,,,,,,
+li-4215590756,linkedin,https://www.linkedin.com/jobs/view/4215590756,,Software Engineer (Backend),Paces,"Brooklyn, NY",2025-04-28,,,,,,,False,,,,,,,https://www.linkedin.com/company/pacesai,,,,,,,,,,,,
+li-4207128757,linkedin,https://www.linkedin.com/jobs/view/4207128757,,Back End Engineer,Barstool Sports,"New York, NY",2025-04-11,,,,,,,False,,,,,,,https://www.linkedin.com/company/barstool-sports,,,,,,,,,,,,
+li-4173403615,linkedin,https://www.linkedin.com/jobs/view/4173403615,,"Want to work with us, but don't see the right job listed?",Canary Technologies,"New York, NY",2025-03-03,,,,,,,False,,,,,,,https://www.linkedin.com/company/canarytech,,,,,,,,,,,,
+li-4068264342,linkedin,https://www.linkedin.com/jobs/view/4068264342,,Don't see what you're looking for?,Ceros,"New York, NY",2024-11-04,,,,,,,False,,,,,,,https://www.linkedin.com/company/cerosdotcom,,,,,,,,,,,,
+li-3953361017,linkedin,https://www.linkedin.com/jobs/view/3953361017,,Software Engineer,Fizz,"New York, NY",2024-05-31,,,,,,,False,,,,,,,https://www.linkedin.com/company/joinfizz,,,,,,,,,,,,
+li-3625991287,linkedin,https://www.linkedin.com/jobs/view/3625991287,,Full Stack Engineer,Porter,"New York, NY",2023-06-05,,,,,,,False,,,,,,,https://www.linkedin.com/company/porterrun,,,,,,,,,,,,

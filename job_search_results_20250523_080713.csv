@@ -1,0 +1,1522 @@
+"id","site","job_url","job_url_direct","title","company","location","date_posted","job_type","salary_source","interval","min_amount","max_amount","currency","is_remote","job_level","job_function","listing_type","emails","description","company_industry","company_url","company_logo","company_url_direct","company_addresses","company_num_employees","company_revenue","company_description","skills","experience_range","company_rating","company_reviews_count","vacancy_count","work_from_home_type"
+"in-4a1247558dd91825","indeed","https://www.indeed.com/viewjob?jk=4a1247558dd91825","http://www.indeed.com/job/fulltime-remote-java-developer-kubernetes-4a1247558dd91825","Fulltime & Remote _ Java developer with Kubernetes","Expreo","New York, NY, US","2025-05-23","fulltime, contract","direct_data","yearly",122161.0,134065.0,"USD",True,"","","","","**Role: Java - Senior Software Engineer**
+
+**Location: Remote – EST – NJ/NY (candidate must be NY/NJ/OH/PA/CT/MA**
+
+**Please share your resume only if you interested to work on W2 and fulltime**
+
+We are seeking a highly skilled and motivated Senior Software Engineer to join our dynamic engineering team. In this role, you will be responsible for designing, developing, and deploying scalable and efficient software solutions using Scala or Java stacks, and TypeScript. You will work with cutting-edge technologies in cloud computing, containerization, distributed systems, and observability. The ideal candidate should have a strong background in full-stack development, modern DevOps practices, and experience working with cloud-native technologies such as AWS and Kubernetes.
+
+**RESPONSIBILITIES:**
+
+**Full-Stack Development:** Design, develop, and maintain scalable, secure, and efficient software applications using **Scala** or **Java stacks** and TypeScript.
+
+Cloud Infrastructure: Utilize **AWS** services (CFN, EC2, Lambda, S3, Dynamo, etc.) to deploy and manage applications in the cloud.
+
+Containerization & Orchestration: Implement containerized solutions using Docker, deploy and manage services on **Kubernetes**.
+
+Distributed Systems: Design and build distributed systems that are fault-tolerant, highly available, and scalable. Understand concepts such as event-driven architecture, **microservices**, and data consistency.
+
+Observability & Monitoring: Implement and maintain observability best practices, including tagging, **metrics**, and **logging** to provide comprehensive visibility into system performance. Use tools like **Datadog** to monitor the health and performance of applications in real-time.
+
+Collaboration: Work closely with cross-functional teams including product managers, UI/UX designers, and DevOps engineers to define requirements, design systems, and deliver features.
+
+Code Quality & Best Practices: Write clean, maintainable, and testable code while following best practices for software development. Perform code reviews and provide mentorship to junior engineers on and offshore.
+
+Problem-Solving & Innovation: Tackle complex technical challenges and continuously seek opportunities to improve system performance, scalability, and reliability.
+
+**Basic Qualifications**
+
+**BASIC QUALIFICATIONS:**
+
+7+ years of experience in software development, with a focus on Scala or Java development stacks
+
+Strong experience with TypeScript and building full-stack applications.
+
+Hands-on experience with AWS cloud services and Kubernetes for container orchestration.
+
+Solid understanding of distributed systems and how to design and scale them.
+
+Experience in building observability solutions using tools like Datadog, including tagging, metrics, and logging.
+
+Proficiency with CI/CD pipelines and modern development tools.
+
+Strong understanding of RESTful APIs, Microservices Architecture, and Event-Driven Architecture.
+
+Strong problem-solving skills, attention to detail, and the ability to work in a collaborative, fast-paced environment.
+
+**Preferred Qualifications**
+
+**NICE TO HAVE**
+
+Prior experience in managing or giving technical direction to teams/other engineers.
+
+Experience in Agile software development practices and version control systems (e.g., Git, Jira).
+
+Experience in Istio and Spinnaker
+
+Job Types: Full-time, Contract
+
+Pay: $122,161.00 - $134,065.00 per year
+
+Benefits:
+
+* 401(k)
+* Health insurance
+
+Compensation Package:
+
+* Yearly pay
+
+Schedule:
+
+* 8 hour shift
+
+Ability to Commute:
+
+* New York, NY 10001 (Preferred)
+
+Ability to Relocate:
+
+* New York, NY 10001: Relocate before starting work (Preferred)
+
+Work Location: Hybrid remote in New York, NY 10001","","https://www.indeed.com/cmp/Expreo","","","","","","","","","","","",""
+"in-842457d603308d9f","indeed","https://www.indeed.com/viewjob?jk=842457d603308d9f","http://www.indeed.com/job/android-developer-842457d603308d9f","Android Developer","MARVEL INFOTECH Inc","Jersey City, NJ, US","2025-05-23","fulltime","direct_data","hourly",50.0,55.0,"USD",False,"","","","","**Role: Mobile developer/ Android**
+
+**Location: Jersey City, NJ/ Onsite**
+
+**Jetpack Compose, Java, Kotlin, Android Studio**
+
+**Note-** one hour coding round where candidate is expected to implement a small project on the call
+
+**Notes for Client Interview:** Small project that needs to be implemented on the call. Please note that you will be required to share your full screen, have Android Studio or Xcode installed, and a ""Hello World"" single screen project already created and working in the Simulator to share the screen.IDE to be installed and the initial project should be ready, so please be sure to prepare this before the scheduled time.
+
+* Senior Mobile developer with 10+ years of experience
+* Regularly leads and mentor a team of mobile application and full-stack developers, fostering collaboration and growth.
+* Develops secure and high-quality production code, and reviews and debugs code written by others
+* Drives decisions that influence the product design, application functionality, and technical operations and processes
+* Serves as a function-wide subject matter expert in one or more areas of focus
+
+**Required qualifications, capabilities, and skills**
+
+* Formal training or certification on software engineering concepts and 5+ years applied experience
+* Experience leading mobile technologists to manage and solve complex technical items within your domain of expertise
+* Hands-on practical experience in one or more mobile application development environments, Android
+* Advanced in Jetpack Compose, Java, Kotlin, Android Studio
+* Advanced knowledge of software applications and technical processes with in-depth knowledge in one or more technical disciplines (eg cloud, AI, ML, mobile etc,)
+* Experience with UX and end user experience
+* Practical cloud native experience and mobile application deployment
+
+Job Type: Full-time
+
+Pay: $50.00 - $55.00 per hour
+
+Schedule:
+
+* 8 hour shift
+
+Ability to Commute:
+
+* Jersey City, NJ 07307 (Required)
+
+Work Location: In person","","https://www.indeed.com/cmp/Marvel-Infotech-Inc-6f3b01e4","","","","","","","","","","","",""
+"in-96ba966e716b6f47","indeed","https://www.indeed.com/viewjob?jk=96ba966e716b6f47","https://jobs.citi.com/job/-/-/287/81576545104","Algo Trading Java Developer - VP - New York (Hybrid)","Citi","New York, NY, US","2025-05-22","fulltime","direct_data","yearly",142320.0,213480.0,"USD",False,"","","","","**About Citi**
+
+Citi, the leading global bank, has approximately 200 million customer accounts and does business in more than 160 countries and jurisdictions. Citi provides consumers, corporations, governments and institutions with a broad range of financial products and services, including consumer banking and credit, corporate and investment banking, securities brokerage, transaction services, and wealth management. Our core activities are safeguarding assets, lending money, making payments and accessing the capital markets on behalf of our clients.
+
+Citi’s Mission and Value Proposition explain what we do and Citi Leadership Standards explain how we do it. Our mission is to serve as a trusted partner to our clients by responsibly providing financial services that enable growth and economic progress. We strive to earn and maintain our clients’ and the public’s trust by constantly adhering to the highest ethical standards and making a positive impact on the communities we serve. Our Leadership Standards is a common set of skills and expected behaviors that illustrate how our employees should work every day to be successful and strengthens our ability to execute against our strategic priorities.
+
+Diversity is a key business imperative and a source of strength at Citi. We serve clients from every walk of life, every background and every origin. Our goal is to have our workforce reflect this same diversity at all levels. Citi has made it a priority to foster a culture where the best people want to work, where individuals are promoted based on merit, where we value and demand respect for others and where opportunities to develop are widely available to all.
+
+**Job Purpose**:
+
+Fixed Income Algo Technology team in North America supports Citi’s Internal Market Making, Algorithmic Trading, and internal matching for the Spread Product algo trading business. We’re seeking to hire an experienced software engineer to advance the suite of algo trading platform creating a best in class, next generation product for our clients’ franchise.
+
+This is a challenging and exciting opportunity to contribute to one of the largest and most sophisticated algo platforms. It will involve working directly with trading and quants to solve both business and technology problems with a direct measurable impact on the business.
+
+**Key Responsibilities / Role:**
+
+* Develop reusable algo trading engines with focus on low latency execution strategies
+
+* Ensure strong reliability, scalability and performance of the core algo components
+
+* Work with other etrading teams to support live trading
+
+* Learn and maintain large code base, improve design and quality of the algo trading strategies code
+
+* Partner with business to drive technology stack beyond near term objectives
+
+* Adhere to engineering standards and strive for best in class solutions
+
+**Job Opportunities:**
+
+* Work on high profile algo trading projects that deliver next-generation performance and functionality
+
+* Apply best software architecture and design practices for algo trading strategies development
+
+* Use scientific approach to improve performance of trading applications
+
+* Play partnership role defining the direction of Rates algorithmic trading at Citi
+
+* Harness capabilities of modern technologies and be accountable for the positive impact of delivery
+
+* Significant profile exposure through business impacting projects
+
+**Knowledge/Experience:**
+
+* Strong software development fundamentals, data structures, design patterns, object-oriented programming, algorithms complexity analysis
+
+* At least 2 years of extensive hands on coding experience in Core Java within low latency, high throughput distributed applications
+
+* Experience with messaging technologies like Solace, Kafka etc.
+* Experience with Chronicle and/or Aeron
+
+* Experience implementing and supporting market data processing applications and algorithmic trading strategies
+
+* Experience building backtesting frameworks and historical data storages
+
+* Basic Linux system performance tuning and monitoring, ability to troubleshoot performance issues within Java/Linux stack
+
+* Working knowledge of no GC Java techniques and lock free thread safe algorithms
+
+* Experience with Python, Spring, TDD, KDB or any other tick data storages
+
+* Build tools, gradle, git, teamcity, jenkins, artifactory
+
+* Strong academic record, ideally with a Bachelor’s degree in Computer Science, Information Science, engineering or related technical or quantitative discipline
+
+**Competencies:**
+
+* Strong verbal and written communication skills; ability to communicate with business users
+
+* Self-motivated individual with determination to achieve goals
+
+* Willingness to learn, both technically and professionally
+
+* Strong analytical and problem solving skills
+
+* Good team working skills and ability to work in a distributed global team environment
+
+* Ability to work on a fast-pace environment
+
+* Flexible and able to deliver quality results in the required timeframe
+
+-
+
+**Job Family Group:**
+
+Technology
+
+-
+
+**Job Family:**
+
+Applications Development
+
+-
+
+**Time Type:**
+
+Full time
+
+-
+
+**Primary Location:**
+
+New York New York United States
+
+-
+
+**Primary Location Full Time Salary Range:**
+
+$142,320.00 - $213,480.00
+
+In addition to salary, Citi’s offerings may also include, for eligible employees, discretionary and formulaic incentive and retention awards. Citi offers competitive employee benefits, including: medical, dental & vision coverage; 401(k); life, accident, and disability insurance; and wellness programs. Citi also offers paid time off packages, including planned time off (vacation), unplanned time off (sick leave), and paid holidays. For additional information regarding Citi employee benefits, please visit citibenefits.com. Available offerings may vary by jurisdiction, job level, and date of hire.
+
+-
+
+**Anticipated Posting Close Date:**
+
+Aug 01, 2025
+
+-
+
+*Citi is an equal opportunity employer, and qualified candidates will receive consideration without regard to their race, color, religion, sex, sexual orientation, gender identity, national origin, disability, status as a protected veteran, or any other characteristic protected by law.*
+
+*If you are a person with a disability and need a reasonable accommodation to use our search tools and/or apply for a career opportunity review* *Accessibility at Citi**.*  
+  
+*View Citi’s* *EEO Policy Statement* *and the* *Know Your Rights* *poster.*","","https://www.indeed.com/cmp/Citi","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/3a65f2fd9d93f6c880484c373f0b34da","http://www.citigroup.com","New York, NY","10,000+","more than $10B (USD)","Citi is more than a global financial services company. It’s an engine for progress. Apply today to to get involved.","","","","","",""
+"in-544729c696be8a32","indeed","https://www.indeed.com/viewjob?jk=544729c696be8a32","https://recruiterflow.com/radhires/jobs/282?source=indeed&utm_channel=recruiterflow-posting&location=130","Software Engineer, SDK - NYC","Rad Hires","Livingston, NJ, US","2025-05-22","fulltime","direct_data","yearly",170000.0,230000.0,"USD",False,"","","","","**Software Engineer, SDK**  
+
+**Location:** Williamsburg, Brooklyn, NY (On-site, Full-time)  
+  
+**Salary:** $170K – $230K + Equity + $18K Living Proximity Bonus  
+  
+**Visa Sponsorship:** Not currently offered (may consider exceptional candidates)
+
+### **About the Role**
+
+This role is ideal for ambitious engineers with entrepreneurial goals. Many team members are former or future founders, and this opportunity offers a chance to scale a company from $1M to $10M ARR while building tools used by top tech teams shaping the future of software. The team values in-person collaboration and works out of an office in the Williamsburg neighborhood of Brooklyn.
+
+We’re hiring for two types of roles:
+
+* **SDK Generalists** – work across multiple languages and contribute to the core compiler and generator infrastructure.
+* **SDK Language Specialists** – lead the development of best-in-class SDKs in **Java, PHP, Python, TypeScript, or Ruby** .
+
+### **What You Will Do**
+
+For SDK Generalists:
+
+* Drive feature parity across SDKs — support advanced features like auto-pagination and server-sent events.
+* Expand SDK support into new languages (e.g. Swift, Rust, Terraform) by building new generators.
+* Contribute across multiple codebases using TypeScript, Go, and Python.
+* Collaborate with leadership to help grow the team through recruiting and mentorship.
+
+For SDK Language Specialists (Java, PHP, Python, TypeScript, Ruby):
+
+* Define what a high-quality SDK looks like in your language: idiomatic, easy to use, and reliable.
+* Own core components of the open-source compiler to add key features and improve developer experience.
+* Stay up to date with language-specific tools and libraries, and engage directly with developers via GitHub and community forums.
+* Play a key role in hiring and mentoring as the team scales.
+
+Requirements
+
+* 4–10 years of professional software engineering experience.
+* Deep expertise in one of the following languages: Java, PHP, Python, TypeScript, or Ruby (for specialists).
+* Broad technical fluency and the ability to contribute across different languages (for generalists).
+* Experience in fast-paced startup environments; prior founder experience is a plus.
+* Strong product thinking and empathy for developer experience.
+* Eagerness to work in a polyglot environment.
+
+Compensation and Benefits
+
+* **Salary:** $170K–$200K for Generalists, $200K–$230K for Language Specialists
+* **Equity:** 0.1%–0.3%
+* **Living Bonus:** $18K annually for those living near the office
+* **Visa Sponsorship:** Not currently offered; may consider exceptional candidates
+* **Meals:** Breakfast, lunch, and dinner provided at the office
+* **Insurance:** Health, dental, and vision
+* **Time Off:** Unlimited vacation
+
+Tech Stack
+
+Next.js + Vercel (Frontend), Claude + Bedrock (LLM), Fern (API), Microservices: Express (Node.js), FastAPI (Python), Algolia + turbopuffer (Search), Postgres DB + Prisma ORM (Database), AWS (Cloud)","","https://www.indeed.com/cmp/Rad-Hires","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/48b6be22b781c49c3122de8422c30c8a","https://radhires.com","New York, NY
+USA","2 to 10","","We help the world's fastest growing startups hire top tech talent.","","","","","",""
+"in-a1e06ea6edbbda99","indeed","https://www.indeed.com/viewjob?jk=a1e06ea6edbbda99","https://recruiterflow.com/radhires/jobs/282?source=indeed&utm_channel=recruiterflow-posting&location=82","Software Engineer, SDK - NYC","Rad Hires","New Brunswick, NJ, US","2025-05-22","fulltime","direct_data","yearly",170000.0,230000.0,"USD",False,"","","","","**Software Engineer, SDK**  
+
+**Location:** Williamsburg, Brooklyn, NY (On-site, Full-time)  
+  
+**Salary:** $170K – $230K + Equity + $18K Living Proximity Bonus  
+  
+**Visa Sponsorship:** Not currently offered (may consider exceptional candidates)
+
+### **About the Role**
+
+This role is ideal for ambitious engineers with entrepreneurial goals. Many team members are former or future founders, and this opportunity offers a chance to scale a company from $1M to $10M ARR while building tools used by top tech teams shaping the future of software. The team values in-person collaboration and works out of an office in the Williamsburg neighborhood of Brooklyn.
+
+We’re hiring for two types of roles:
+
+* **SDK Generalists** – work across multiple languages and contribute to the core compiler and generator infrastructure.
+* **SDK Language Specialists** – lead the development of best-in-class SDKs in **Java, PHP, Python, TypeScript, or Ruby** .
+
+### **What You Will Do**
+
+For SDK Generalists:
+
+* Drive feature parity across SDKs — support advanced features like auto-pagination and server-sent events.
+* Expand SDK support into new languages (e.g. Swift, Rust, Terraform) by building new generators.
+* Contribute across multiple codebases using TypeScript, Go, and Python.
+* Collaborate with leadership to help grow the team through recruiting and mentorship.
+
+For SDK Language Specialists (Java, PHP, Python, TypeScript, Ruby):
+
+* Define what a high-quality SDK looks like in your language: idiomatic, easy to use, and reliable.
+* Own core components of the open-source compiler to add key features and improve developer experience.
+* Stay up to date with language-specific tools and libraries, and engage directly with developers via GitHub and community forums.
+* Play a key role in hiring and mentoring as the team scales.
+
+Requirements
+
+* 4–10 years of professional software engineering experience.
+* Deep expertise in one of the following languages: Java, PHP, Python, TypeScript, or Ruby (for specialists).
+* Broad technical fluency and the ability to contribute across different languages (for generalists).
+* Experience in fast-paced startup environments; prior founder experience is a plus.
+* Strong product thinking and empathy for developer experience.
+* Eagerness to work in a polyglot environment.
+
+Compensation and Benefits
+
+* **Salary:** $170K–$200K for Generalists, $200K–$230K for Language Specialists
+* **Equity:** 0.1%–0.3%
+* **Living Bonus:** $18K annually for those living near the office
+* **Visa Sponsorship:** Not currently offered; may consider exceptional candidates
+* **Meals:** Breakfast, lunch, and dinner provided at the office
+* **Insurance:** Health, dental, and vision
+* **Time Off:** Unlimited vacation
+
+Tech Stack
+
+Next.js + Vercel (Frontend), Claude + Bedrock (LLM), Fern (API), Microservices: Express (Node.js), FastAPI (Python), Algolia + turbopuffer (Search), Postgres DB + Prisma ORM (Database), AWS (Cloud)","","https://www.indeed.com/cmp/Rad-Hires","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/48b6be22b781c49c3122de8422c30c8a","https://radhires.com","New York, NY
+USA","2 to 10","","We help the world's fastest growing startups hire top tech talent.","","","","","",""
+"in-3531a9ff82e1e813","indeed","https://www.indeed.com/viewjob?jk=3531a9ff82e1e813","https://recruiterflow.com/radhires/jobs/282?source=indeed&utm_channel=recruiterflow-posting&location=84","Software Engineer, SDK - NYC","Rad Hires","Metuchen, NJ, US","2025-05-22","fulltime","direct_data","yearly",170000.0,230000.0,"USD",False,"","","","","**Software Engineer, SDK**  
+
+**Location:** Williamsburg, Brooklyn, NY (On-site, Full-time)  
+  
+**Salary:** $170K – $230K + Equity + $18K Living Proximity Bonus  
+  
+**Visa Sponsorship:** Not currently offered (may consider exceptional candidates)
+
+### **About the Role**
+
+This role is ideal for ambitious engineers with entrepreneurial goals. Many team members are former or future founders, and this opportunity offers a chance to scale a company from $1M to $10M ARR while building tools used by top tech teams shaping the future of software. The team values in-person collaboration and works out of an office in the Williamsburg neighborhood of Brooklyn.
+
+We’re hiring for two types of roles:
+
+* **SDK Generalists** – work across multiple languages and contribute to the core compiler and generator infrastructure.
+* **SDK Language Specialists** – lead the development of best-in-class SDKs in **Java, PHP, Python, TypeScript, or Ruby** .
+
+### **What You Will Do**
+
+For SDK Generalists:
+
+* Drive feature parity across SDKs — support advanced features like auto-pagination and server-sent events.
+* Expand SDK support into new languages (e.g. Swift, Rust, Terraform) by building new generators.
+* Contribute across multiple codebases using TypeScript, Go, and Python.
+* Collaborate with leadership to help grow the team through recruiting and mentorship.
+
+For SDK Language Specialists (Java, PHP, Python, TypeScript, Ruby):
+
+* Define what a high-quality SDK looks like in your language: idiomatic, easy to use, and reliable.
+* Own core components of the open-source compiler to add key features and improve developer experience.
+* Stay up to date with language-specific tools and libraries, and engage directly with developers via GitHub and community forums.
+* Play a key role in hiring and mentoring as the team scales.
+
+Requirements
+
+* 4–10 years of professional software engineering experience.
+* Deep expertise in one of the following languages: Java, PHP, Python, TypeScript, or Ruby (for specialists).
+* Broad technical fluency and the ability to contribute across different languages (for generalists).
+* Experience in fast-paced startup environments; prior founder experience is a plus.
+* Strong product thinking and empathy for developer experience.
+* Eagerness to work in a polyglot environment.
+
+Compensation and Benefits
+
+* **Salary:** $170K–$200K for Generalists, $200K–$230K for Language Specialists
+* **Equity:** 0.1%–0.3%
+* **Living Bonus:** $18K annually for those living near the office
+* **Visa Sponsorship:** Not currently offered; may consider exceptional candidates
+* **Meals:** Breakfast, lunch, and dinner provided at the office
+* **Insurance:** Health, dental, and vision
+* **Time Off:** Unlimited vacation
+
+Tech Stack
+
+Next.js + Vercel (Frontend), Claude + Bedrock (LLM), Fern (API), Microservices: Express (Node.js), FastAPI (Python), Algolia + turbopuffer (Search), Postgres DB + Prisma ORM (Database), AWS (Cloud)","","https://www.indeed.com/cmp/Rad-Hires","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/48b6be22b781c49c3122de8422c30c8a","https://radhires.com","New York, NY
+USA","2 to 10","","We help the world's fastest growing startups hire top tech talent.","","","","","",""
+"in-27a2c20f44ab368e","indeed","https://www.indeed.com/viewjob?jk=27a2c20f44ab368e","https://recruiterflow.com/radhires/jobs/282?source=indeed&utm_channel=recruiterflow-posting&location=1","Software Engineer, SDK - NYC","Rad Hires","New York, NY, US","2025-05-22","fulltime","direct_data","yearly",170000.0,230000.0,"USD",False,"","","","","**Software Engineer, SDK**  
+
+**Location:** Williamsburg, Brooklyn, NY (On-site, Full-time)  
+  
+**Salary:** $170K – $230K + Equity + $18K Living Proximity Bonus  
+  
+**Visa Sponsorship:** Not currently offered (may consider exceptional candidates)
+
+### **About the Role**
+
+This role is ideal for ambitious engineers with entrepreneurial goals. Many team members are former or future founders, and this opportunity offers a chance to scale a company from $1M to $10M ARR while building tools used by top tech teams shaping the future of software. The team values in-person collaboration and works out of an office in the Williamsburg neighborhood of Brooklyn.
+
+We’re hiring for two types of roles:
+
+* **SDK Generalists** – work across multiple languages and contribute to the core compiler and generator infrastructure.
+* **SDK Language Specialists** – lead the development of best-in-class SDKs in **Java, PHP, Python, TypeScript, or Ruby** .
+
+### **What You Will Do**
+
+For SDK Generalists:
+
+* Drive feature parity across SDKs — support advanced features like auto-pagination and server-sent events.
+* Expand SDK support into new languages (e.g. Swift, Rust, Terraform) by building new generators.
+* Contribute across multiple codebases using TypeScript, Go, and Python.
+* Collaborate with leadership to help grow the team through recruiting and mentorship.
+
+For SDK Language Specialists (Java, PHP, Python, TypeScript, Ruby):
+
+* Define what a high-quality SDK looks like in your language: idiomatic, easy to use, and reliable.
+* Own core components of the open-source compiler to add key features and improve developer experience.
+* Stay up to date with language-specific tools and libraries, and engage directly with developers via GitHub and community forums.
+* Play a key role in hiring and mentoring as the team scales.
+
+Requirements
+
+* 4–10 years of professional software engineering experience.
+* Deep expertise in one of the following languages: Java, PHP, Python, TypeScript, or Ruby (for specialists).
+* Broad technical fluency and the ability to contribute across different languages (for generalists).
+* Experience in fast-paced startup environments; prior founder experience is a plus.
+* Strong product thinking and empathy for developer experience.
+* Eagerness to work in a polyglot environment.
+
+Compensation and Benefits
+
+* **Salary:** $170K–$200K for Generalists, $200K–$230K for Language Specialists
+* **Equity:** 0.1%–0.3%
+* **Living Bonus:** $18K annually for those living near the office
+* **Visa Sponsorship:** Not currently offered; may consider exceptional candidates
+* **Meals:** Breakfast, lunch, and dinner provided at the office
+* **Insurance:** Health, dental, and vision
+* **Time Off:** Unlimited vacation
+
+Tech Stack
+
+Next.js + Vercel (Frontend), Claude + Bedrock (LLM), Fern (API), Microservices: Express (Node.js), FastAPI (Python), Algolia + turbopuffer (Search), Postgres DB + Prisma ORM (Database), AWS (Cloud)","","https://www.indeed.com/cmp/Rad-Hires","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/48b6be22b781c49c3122de8422c30c8a","https://radhires.com","New York, NY
+USA","2 to 10","","We help the world's fastest growing startups hire top tech talent.","","","","","",""
+"in-df9da645f42166e2","indeed","https://www.indeed.com/viewjob?jk=df9da645f42166e2","https://recruiterflow.com/radhires/jobs/282?source=indeed&utm_channel=recruiterflow-posting&location=87","Software Engineer, SDK - NYC","Rad Hires","South Amboy, NJ, US","2025-05-22","fulltime","direct_data","yearly",170000.0,230000.0,"USD",False,"","","","","**Software Engineer, SDK**  
+
+**Location:** Williamsburg, Brooklyn, NY (On-site, Full-time)  
+  
+**Salary:** $170K – $230K + Equity + $18K Living Proximity Bonus  
+  
+**Visa Sponsorship:** Not currently offered (may consider exceptional candidates)
+
+### **About the Role**
+
+This role is ideal for ambitious engineers with entrepreneurial goals. Many team members are former or future founders, and this opportunity offers a chance to scale a company from $1M to $10M ARR while building tools used by top tech teams shaping the future of software. The team values in-person collaboration and works out of an office in the Williamsburg neighborhood of Brooklyn.
+
+We’re hiring for two types of roles:
+
+* **SDK Generalists** – work across multiple languages and contribute to the core compiler and generator infrastructure.
+* **SDK Language Specialists** – lead the development of best-in-class SDKs in **Java, PHP, Python, TypeScript, or Ruby** .
+
+### **What You Will Do**
+
+For SDK Generalists:
+
+* Drive feature parity across SDKs — support advanced features like auto-pagination and server-sent events.
+* Expand SDK support into new languages (e.g. Swift, Rust, Terraform) by building new generators.
+* Contribute across multiple codebases using TypeScript, Go, and Python.
+* Collaborate with leadership to help grow the team through recruiting and mentorship.
+
+For SDK Language Specialists (Java, PHP, Python, TypeScript, Ruby):
+
+* Define what a high-quality SDK looks like in your language: idiomatic, easy to use, and reliable.
+* Own core components of the open-source compiler to add key features and improve developer experience.
+* Stay up to date with language-specific tools and libraries, and engage directly with developers via GitHub and community forums.
+* Play a key role in hiring and mentoring as the team scales.
+
+Requirements
+
+* 4–10 years of professional software engineering experience.
+* Deep expertise in one of the following languages: Java, PHP, Python, TypeScript, or Ruby (for specialists).
+* Broad technical fluency and the ability to contribute across different languages (for generalists).
+* Experience in fast-paced startup environments; prior founder experience is a plus.
+* Strong product thinking and empathy for developer experience.
+* Eagerness to work in a polyglot environment.
+
+Compensation and Benefits
+
+* **Salary:** $170K–$200K for Generalists, $200K–$230K for Language Specialists
+* **Equity:** 0.1%–0.3%
+* **Living Bonus:** $18K annually for those living near the office
+* **Visa Sponsorship:** Not currently offered; may consider exceptional candidates
+* **Meals:** Breakfast, lunch, and dinner provided at the office
+* **Insurance:** Health, dental, and vision
+* **Time Off:** Unlimited vacation
+
+Tech Stack
+
+Next.js + Vercel (Frontend), Claude + Bedrock (LLM), Fern (API), Microservices: Express (Node.js), FastAPI (Python), Algolia + turbopuffer (Search), Postgres DB + Prisma ORM (Database), AWS (Cloud)","","https://www.indeed.com/cmp/Rad-Hires","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/48b6be22b781c49c3122de8422c30c8a","https://radhires.com","New York, NY
+USA","2 to 10","","We help the world's fastest growing startups hire top tech talent.","","","","","",""
+"in-e9953c4b751f8872","indeed","https://www.indeed.com/viewjob?jk=e9953c4b751f8872","https://recruiterflow.com/radhires/jobs/282?source=indeed&utm_channel=recruiterflow-posting&location=61","Software Engineer, SDK - NYC","Rad Hires","Manhasset, NY, US","2025-05-22","fulltime","direct_data","yearly",170000.0,230000.0,"USD",False,"","","","","**Software Engineer, SDK**  
+
+**Location:** Williamsburg, Brooklyn, NY (On-site, Full-time)  
+  
+**Salary:** $170K – $230K + Equity + $18K Living Proximity Bonus  
+  
+**Visa Sponsorship:** Not currently offered (may consider exceptional candidates)
+
+### **About the Role**
+
+This role is ideal for ambitious engineers with entrepreneurial goals. Many team members are former or future founders, and this opportunity offers a chance to scale a company from $1M to $10M ARR while building tools used by top tech teams shaping the future of software. The team values in-person collaboration and works out of an office in the Williamsburg neighborhood of Brooklyn.
+
+We’re hiring for two types of roles:
+
+* **SDK Generalists** – work across multiple languages and contribute to the core compiler and generator infrastructure.
+* **SDK Language Specialists** – lead the development of best-in-class SDKs in **Java, PHP, Python, TypeScript, or Ruby** .
+
+### **What You Will Do**
+
+For SDK Generalists:
+
+* Drive feature parity across SDKs — support advanced features like auto-pagination and server-sent events.
+* Expand SDK support into new languages (e.g. Swift, Rust, Terraform) by building new generators.
+* Contribute across multiple codebases using TypeScript, Go, and Python.
+* Collaborate with leadership to help grow the team through recruiting and mentorship.
+
+For SDK Language Specialists (Java, PHP, Python, TypeScript, Ruby):
+
+* Define what a high-quality SDK looks like in your language: idiomatic, easy to use, and reliable.
+* Own core components of the open-source compiler to add key features and improve developer experience.
+* Stay up to date with language-specific tools and libraries, and engage directly with developers via GitHub and community forums.
+* Play a key role in hiring and mentoring as the team scales.
+
+Requirements
+
+* 4–10 years of professional software engineering experience.
+* Deep expertise in one of the following languages: Java, PHP, Python, TypeScript, or Ruby (for specialists).
+* Broad technical fluency and the ability to contribute across different languages (for generalists).
+* Experience in fast-paced startup environments; prior founder experience is a plus.
+* Strong product thinking and empathy for developer experience.
+* Eagerness to work in a polyglot environment.
+
+Compensation and Benefits
+
+* **Salary:** $170K–$200K for Generalists, $200K–$230K for Language Specialists
+* **Equity:** 0.1%–0.3%
+* **Living Bonus:** $18K annually for those living near the office
+* **Visa Sponsorship:** Not currently offered; may consider exceptional candidates
+* **Meals:** Breakfast, lunch, and dinner provided at the office
+* **Insurance:** Health, dental, and vision
+* **Time Off:** Unlimited vacation
+
+Tech Stack
+
+Next.js + Vercel (Frontend), Claude + Bedrock (LLM), Fern (API), Microservices: Express (Node.js), FastAPI (Python), Algolia + turbopuffer (Search), Postgres DB + Prisma ORM (Database), AWS (Cloud)","","https://www.indeed.com/cmp/Rad-Hires","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/48b6be22b781c49c3122de8422c30c8a","https://radhires.com","New York, NY
+USA","2 to 10","","We help the world's fastest growing startups hire top tech talent.","","","","","",""
+"in-956367b05b5cf7d3","indeed","https://www.indeed.com/viewjob?jk=956367b05b5cf7d3","https://recruiterflow.com/radhires/jobs/282?source=indeed&utm_channel=recruiterflow-posting&location=63","Software Engineer, SDK - NYC","Rad Hires","Staten Island, NY, US","2025-05-22","fulltime","direct_data","yearly",170000.0,230000.0,"USD",False,"","","","","**Software Engineer, SDK**  
+
+**Location:** Williamsburg, Brooklyn, NY (On-site, Full-time)  
+  
+**Salary:** $170K – $230K + Equity + $18K Living Proximity Bonus  
+  
+**Visa Sponsorship:** Not currently offered (may consider exceptional candidates)
+
+### **About the Role**
+
+This role is ideal for ambitious engineers with entrepreneurial goals. Many team members are former or future founders, and this opportunity offers a chance to scale a company from $1M to $10M ARR while building tools used by top tech teams shaping the future of software. The team values in-person collaboration and works out of an office in the Williamsburg neighborhood of Brooklyn.
+
+We’re hiring for two types of roles:
+
+* **SDK Generalists** – work across multiple languages and contribute to the core compiler and generator infrastructure.
+* **SDK Language Specialists** – lead the development of best-in-class SDKs in **Java, PHP, Python, TypeScript, or Ruby** .
+
+### **What You Will Do**
+
+For SDK Generalists:
+
+* Drive feature parity across SDKs — support advanced features like auto-pagination and server-sent events.
+* Expand SDK support into new languages (e.g. Swift, Rust, Terraform) by building new generators.
+* Contribute across multiple codebases using TypeScript, Go, and Python.
+* Collaborate with leadership to help grow the team through recruiting and mentorship.
+
+For SDK Language Specialists (Java, PHP, Python, TypeScript, Ruby):
+
+* Define what a high-quality SDK looks like in your language: idiomatic, easy to use, and reliable.
+* Own core components of the open-source compiler to add key features and improve developer experience.
+* Stay up to date with language-specific tools and libraries, and engage directly with developers via GitHub and community forums.
+* Play a key role in hiring and mentoring as the team scales.
+
+Requirements
+
+* 4–10 years of professional software engineering experience.
+* Deep expertise in one of the following languages: Java, PHP, Python, TypeScript, or Ruby (for specialists).
+* Broad technical fluency and the ability to contribute across different languages (for generalists).
+* Experience in fast-paced startup environments; prior founder experience is a plus.
+* Strong product thinking and empathy for developer experience.
+* Eagerness to work in a polyglot environment.
+
+Compensation and Benefits
+
+* **Salary:** $170K–$200K for Generalists, $200K–$230K for Language Specialists
+* **Equity:** 0.1%–0.3%
+* **Living Bonus:** $18K annually for those living near the office
+* **Visa Sponsorship:** Not currently offered; may consider exceptional candidates
+* **Meals:** Breakfast, lunch, and dinner provided at the office
+* **Insurance:** Health, dental, and vision
+* **Time Off:** Unlimited vacation
+
+Tech Stack
+
+Next.js + Vercel (Frontend), Claude + Bedrock (LLM), Fern (API), Microservices: Express (Node.js), FastAPI (Python), Algolia + turbopuffer (Search), Postgres DB + Prisma ORM (Database), AWS (Cloud)","","https://www.indeed.com/cmp/Rad-Hires","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/48b6be22b781c49c3122de8422c30c8a","https://radhires.com","New York, NY
+USA","2 to 10","","We help the world's fastest growing startups hire top tech talent.","","","","","",""
+"in-0657dce4bb4b59d4","indeed","https://www.indeed.com/viewjob?jk=0657dce4bb4b59d4","https://recruiterflow.com/radhires/jobs/282?source=indeed&utm_channel=recruiterflow-posting&location=131","Software Engineer, SDK - NYC","Rad Hires","Newark, NJ, US","2025-05-22","fulltime","direct_data","yearly",170000.0,230000.0,"USD",False,"","","","","**Software Engineer, SDK**  
+
+**Location:** Williamsburg, Brooklyn, NY (On-site, Full-time)  
+  
+**Salary:** $170K – $230K + Equity + $18K Living Proximity Bonus  
+  
+**Visa Sponsorship:** Not currently offered (may consider exceptional candidates)
+
+### **About the Role**
+
+This role is ideal for ambitious engineers with entrepreneurial goals. Many team members are former or future founders, and this opportunity offers a chance to scale a company from $1M to $10M ARR while building tools used by top tech teams shaping the future of software. The team values in-person collaboration and works out of an office in the Williamsburg neighborhood of Brooklyn.
+
+We’re hiring for two types of roles:
+
+* **SDK Generalists** – work across multiple languages and contribute to the core compiler and generator infrastructure.
+* **SDK Language Specialists** – lead the development of best-in-class SDKs in **Java, PHP, Python, TypeScript, or Ruby** .
+
+### **What You Will Do**
+
+For SDK Generalists:
+
+* Drive feature parity across SDKs — support advanced features like auto-pagination and server-sent events.
+* Expand SDK support into new languages (e.g. Swift, Rust, Terraform) by building new generators.
+* Contribute across multiple codebases using TypeScript, Go, and Python.
+* Collaborate with leadership to help grow the team through recruiting and mentorship.
+
+For SDK Language Specialists (Java, PHP, Python, TypeScript, Ruby):
+
+* Define what a high-quality SDK looks like in your language: idiomatic, easy to use, and reliable.
+* Own core components of the open-source compiler to add key features and improve developer experience.
+* Stay up to date with language-specific tools and libraries, and engage directly with developers via GitHub and community forums.
+* Play a key role in hiring and mentoring as the team scales.
+
+Requirements
+
+* 4–10 years of professional software engineering experience.
+* Deep expertise in one of the following languages: Java, PHP, Python, TypeScript, or Ruby (for specialists).
+* Broad technical fluency and the ability to contribute across different languages (for generalists).
+* Experience in fast-paced startup environments; prior founder experience is a plus.
+* Strong product thinking and empathy for developer experience.
+* Eagerness to work in a polyglot environment.
+
+Compensation and Benefits
+
+* **Salary:** $170K–$200K for Generalists, $200K–$230K for Language Specialists
+* **Equity:** 0.1%–0.3%
+* **Living Bonus:** $18K annually for those living near the office
+* **Visa Sponsorship:** Not currently offered; may consider exceptional candidates
+* **Meals:** Breakfast, lunch, and dinner provided at the office
+* **Insurance:** Health, dental, and vision
+* **Time Off:** Unlimited vacation
+
+Tech Stack
+
+Next.js + Vercel (Frontend), Claude + Bedrock (LLM), Fern (API), Microservices: Express (Node.js), FastAPI (Python), Algolia + turbopuffer (Search), Postgres DB + Prisma ORM (Database), AWS (Cloud)","","https://www.indeed.com/cmp/Rad-Hires","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/48b6be22b781c49c3122de8422c30c8a","https://radhires.com","New York, NY
+USA","2 to 10","","We help the world's fastest growing startups hire top tech talent.","","","","","",""
+"in-6af2c98d88da7a08","indeed","https://www.indeed.com/viewjob?jk=6af2c98d88da7a08","https://recruiterflow.com/radhires/jobs/282?source=indeed&utm_channel=recruiterflow-posting&location=65","Software Engineer, SDK - NYC","Rad Hires","Jersey City, NJ, US","2025-05-22","fulltime","direct_data","yearly",170000.0,230000.0,"USD",False,"","","","","**Software Engineer, SDK**  
+
+**Location:** Williamsburg, Brooklyn, NY (On-site, Full-time)  
+  
+**Salary:** $170K – $230K + Equity + $18K Living Proximity Bonus  
+  
+**Visa Sponsorship:** Not currently offered (may consider exceptional candidates)
+
+### **About the Role**
+
+This role is ideal for ambitious engineers with entrepreneurial goals. Many team members are former or future founders, and this opportunity offers a chance to scale a company from $1M to $10M ARR while building tools used by top tech teams shaping the future of software. The team values in-person collaboration and works out of an office in the Williamsburg neighborhood of Brooklyn.
+
+We’re hiring for two types of roles:
+
+* **SDK Generalists** – work across multiple languages and contribute to the core compiler and generator infrastructure.
+* **SDK Language Specialists** – lead the development of best-in-class SDKs in **Java, PHP, Python, TypeScript, or Ruby** .
+
+### **What You Will Do**
+
+For SDK Generalists:
+
+* Drive feature parity across SDKs — support advanced features like auto-pagination and server-sent events.
+* Expand SDK support into new languages (e.g. Swift, Rust, Terraform) by building new generators.
+* Contribute across multiple codebases using TypeScript, Go, and Python.
+* Collaborate with leadership to help grow the team through recruiting and mentorship.
+
+For SDK Language Specialists (Java, PHP, Python, TypeScript, Ruby):
+
+* Define what a high-quality SDK looks like in your language: idiomatic, easy to use, and reliable.
+* Own core components of the open-source compiler to add key features and improve developer experience.
+* Stay up to date with language-specific tools and libraries, and engage directly with developers via GitHub and community forums.
+* Play a key role in hiring and mentoring as the team scales.
+
+Requirements
+
+* 4–10 years of professional software engineering experience.
+* Deep expertise in one of the following languages: Java, PHP, Python, TypeScript, or Ruby (for specialists).
+* Broad technical fluency and the ability to contribute across different languages (for generalists).
+* Experience in fast-paced startup environments; prior founder experience is a plus.
+* Strong product thinking and empathy for developer experience.
+* Eagerness to work in a polyglot environment.
+
+Compensation and Benefits
+
+* **Salary:** $170K–$200K for Generalists, $200K–$230K for Language Specialists
+* **Equity:** 0.1%–0.3%
+* **Living Bonus:** $18K annually for those living near the office
+* **Visa Sponsorship:** Not currently offered; may consider exceptional candidates
+* **Meals:** Breakfast, lunch, and dinner provided at the office
+* **Insurance:** Health, dental, and vision
+* **Time Off:** Unlimited vacation
+
+Tech Stack
+
+Next.js + Vercel (Frontend), Claude + Bedrock (LLM), Fern (API), Microservices: Express (Node.js), FastAPI (Python), Algolia + turbopuffer (Search), Postgres DB + Prisma ORM (Database), AWS (Cloud)","","https://www.indeed.com/cmp/Rad-Hires","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/48b6be22b781c49c3122de8422c30c8a","https://radhires.com","New York, NY
+USA","2 to 10","","We help the world's fastest growing startups hire top tech talent.","","","","","",""
+"in-47921b3cd42392d6","indeed","https://www.indeed.com/viewjob?jk=47921b3cd42392d6","https://recruiterflow.com/radhires/jobs/282?source=indeed&utm_channel=recruiterflow-posting&location=129","Software Engineer, SDK - NYC","Rad Hires","Morristown, NJ, US","2025-05-22","fulltime","direct_data","yearly",170000.0,230000.0,"USD",False,"","","","","**Software Engineer, SDK**  
+
+**Location:** Williamsburg, Brooklyn, NY (On-site, Full-time)  
+  
+**Salary:** $170K – $230K + Equity + $18K Living Proximity Bonus  
+  
+**Visa Sponsorship:** Not currently offered (may consider exceptional candidates)
+
+### **About the Role**
+
+This role is ideal for ambitious engineers with entrepreneurial goals. Many team members are former or future founders, and this opportunity offers a chance to scale a company from $1M to $10M ARR while building tools used by top tech teams shaping the future of software. The team values in-person collaboration and works out of an office in the Williamsburg neighborhood of Brooklyn.
+
+We’re hiring for two types of roles:
+
+* **SDK Generalists** – work across multiple languages and contribute to the core compiler and generator infrastructure.
+* **SDK Language Specialists** – lead the development of best-in-class SDKs in **Java, PHP, Python, TypeScript, or Ruby** .
+
+### **What You Will Do**
+
+For SDK Generalists:
+
+* Drive feature parity across SDKs — support advanced features like auto-pagination and server-sent events.
+* Expand SDK support into new languages (e.g. Swift, Rust, Terraform) by building new generators.
+* Contribute across multiple codebases using TypeScript, Go, and Python.
+* Collaborate with leadership to help grow the team through recruiting and mentorship.
+
+For SDK Language Specialists (Java, PHP, Python, TypeScript, Ruby):
+
+* Define what a high-quality SDK looks like in your language: idiomatic, easy to use, and reliable.
+* Own core components of the open-source compiler to add key features and improve developer experience.
+* Stay up to date with language-specific tools and libraries, and engage directly with developers via GitHub and community forums.
+* Play a key role in hiring and mentoring as the team scales.
+
+Requirements
+
+* 4–10 years of professional software engineering experience.
+* Deep expertise in one of the following languages: Java, PHP, Python, TypeScript, or Ruby (for specialists).
+* Broad technical fluency and the ability to contribute across different languages (for generalists).
+* Experience in fast-paced startup environments; prior founder experience is a plus.
+* Strong product thinking and empathy for developer experience.
+* Eagerness to work in a polyglot environment.
+
+Compensation and Benefits
+
+* **Salary:** $170K–$200K for Generalists, $200K–$230K for Language Specialists
+* **Equity:** 0.1%–0.3%
+* **Living Bonus:** $18K annually for those living near the office
+* **Visa Sponsorship:** Not currently offered; may consider exceptional candidates
+* **Meals:** Breakfast, lunch, and dinner provided at the office
+* **Insurance:** Health, dental, and vision
+* **Time Off:** Unlimited vacation
+
+Tech Stack
+
+Next.js + Vercel (Frontend), Claude + Bedrock (LLM), Fern (API), Microservices: Express (Node.js), FastAPI (Python), Algolia + turbopuffer (Search), Postgres DB + Prisma ORM (Database), AWS (Cloud)","","https://www.indeed.com/cmp/Rad-Hires","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/48b6be22b781c49c3122de8422c30c8a","https://radhires.com","New York, NY
+USA","2 to 10","","We help the world's fastest growing startups hire top tech talent.","","","","","",""
+"in-a070aab1450cb916","indeed","https://www.indeed.com/viewjob?jk=a070aab1450cb916","https://recruiterflow.com/radhires/jobs/282?source=indeed&utm_channel=recruiterflow-posting&location=66","Software Engineer, SDK - NYC","Rad Hires","Hoboken, NJ, US","2025-05-22","fulltime","direct_data","yearly",170000.0,230000.0,"USD",False,"","","","","**Software Engineer, SDK**  
+
+**Location:** Williamsburg, Brooklyn, NY (On-site, Full-time)  
+  
+**Salary:** $170K – $230K + Equity + $18K Living Proximity Bonus  
+  
+**Visa Sponsorship:** Not currently offered (may consider exceptional candidates)
+
+### **About the Role**
+
+This role is ideal for ambitious engineers with entrepreneurial goals. Many team members are former or future founders, and this opportunity offers a chance to scale a company from $1M to $10M ARR while building tools used by top tech teams shaping the future of software. The team values in-person collaboration and works out of an office in the Williamsburg neighborhood of Brooklyn.
+
+We’re hiring for two types of roles:
+
+* **SDK Generalists** – work across multiple languages and contribute to the core compiler and generator infrastructure.
+* **SDK Language Specialists** – lead the development of best-in-class SDKs in **Java, PHP, Python, TypeScript, or Ruby** .
+
+### **What You Will Do**
+
+For SDK Generalists:
+
+* Drive feature parity across SDKs — support advanced features like auto-pagination and server-sent events.
+* Expand SDK support into new languages (e.g. Swift, Rust, Terraform) by building new generators.
+* Contribute across multiple codebases using TypeScript, Go, and Python.
+* Collaborate with leadership to help grow the team through recruiting and mentorship.
+
+For SDK Language Specialists (Java, PHP, Python, TypeScript, Ruby):
+
+* Define what a high-quality SDK looks like in your language: idiomatic, easy to use, and reliable.
+* Own core components of the open-source compiler to add key features and improve developer experience.
+* Stay up to date with language-specific tools and libraries, and engage directly with developers via GitHub and community forums.
+* Play a key role in hiring and mentoring as the team scales.
+
+Requirements
+
+* 4–10 years of professional software engineering experience.
+* Deep expertise in one of the following languages: Java, PHP, Python, TypeScript, or Ruby (for specialists).
+* Broad technical fluency and the ability to contribute across different languages (for generalists).
+* Experience in fast-paced startup environments; prior founder experience is a plus.
+* Strong product thinking and empathy for developer experience.
+* Eagerness to work in a polyglot environment.
+
+Compensation and Benefits
+
+* **Salary:** $170K–$200K for Generalists, $200K–$230K for Language Specialists
+* **Equity:** 0.1%–0.3%
+* **Living Bonus:** $18K annually for those living near the office
+* **Visa Sponsorship:** Not currently offered; may consider exceptional candidates
+* **Meals:** Breakfast, lunch, and dinner provided at the office
+* **Insurance:** Health, dental, and vision
+* **Time Off:** Unlimited vacation
+
+Tech Stack
+
+Next.js + Vercel (Frontend), Claude + Bedrock (LLM), Fern (API), Microservices: Express (Node.js), FastAPI (Python), Algolia + turbopuffer (Search), Postgres DB + Prisma ORM (Database), AWS (Cloud)","","https://www.indeed.com/cmp/Rad-Hires","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/48b6be22b781c49c3122de8422c30c8a","https://radhires.com","New York, NY
+USA","2 to 10","","We help the world's fastest growing startups hire top tech talent.","","","","","",""
+"in-9471390bdce55f1c","indeed","https://www.indeed.com/viewjob?jk=9471390bdce55f1c","https://recruiterflow.com/radhires/jobs/282?source=indeed&utm_channel=recruiterflow-posting&location=67","Software Engineer, SDK - NYC","Rad Hires","Bronx, NY, US","2025-05-22","fulltime","direct_data","yearly",170000.0,230000.0,"USD",False,"","","","","**Software Engineer, SDK**  
+
+**Location:** Williamsburg, Brooklyn, NY (On-site, Full-time)  
+  
+**Salary:** $170K – $230K + Equity + $18K Living Proximity Bonus  
+  
+**Visa Sponsorship:** Not currently offered (may consider exceptional candidates)
+
+### **About the Role**
+
+This role is ideal for ambitious engineers with entrepreneurial goals. Many team members are former or future founders, and this opportunity offers a chance to scale a company from $1M to $10M ARR while building tools used by top tech teams shaping the future of software. The team values in-person collaboration and works out of an office in the Williamsburg neighborhood of Brooklyn.
+
+We’re hiring for two types of roles:
+
+* **SDK Generalists** – work across multiple languages and contribute to the core compiler and generator infrastructure.
+* **SDK Language Specialists** – lead the development of best-in-class SDKs in **Java, PHP, Python, TypeScript, or Ruby** .
+
+### **What You Will Do**
+
+For SDK Generalists:
+
+* Drive feature parity across SDKs — support advanced features like auto-pagination and server-sent events.
+* Expand SDK support into new languages (e.g. Swift, Rust, Terraform) by building new generators.
+* Contribute across multiple codebases using TypeScript, Go, and Python.
+* Collaborate with leadership to help grow the team through recruiting and mentorship.
+
+For SDK Language Specialists (Java, PHP, Python, TypeScript, Ruby):
+
+* Define what a high-quality SDK looks like in your language: idiomatic, easy to use, and reliable.
+* Own core components of the open-source compiler to add key features and improve developer experience.
+* Stay up to date with language-specific tools and libraries, and engage directly with developers via GitHub and community forums.
+* Play a key role in hiring and mentoring as the team scales.
+
+Requirements
+
+* 4–10 years of professional software engineering experience.
+* Deep expertise in one of the following languages: Java, PHP, Python, TypeScript, or Ruby (for specialists).
+* Broad technical fluency and the ability to contribute across different languages (for generalists).
+* Experience in fast-paced startup environments; prior founder experience is a plus.
+* Strong product thinking and empathy for developer experience.
+* Eagerness to work in a polyglot environment.
+
+Compensation and Benefits
+
+* **Salary:** $170K–$200K for Generalists, $200K–$230K for Language Specialists
+* **Equity:** 0.1%–0.3%
+* **Living Bonus:** $18K annually for those living near the office
+* **Visa Sponsorship:** Not currently offered; may consider exceptional candidates
+* **Meals:** Breakfast, lunch, and dinner provided at the office
+* **Insurance:** Health, dental, and vision
+* **Time Off:** Unlimited vacation
+
+Tech Stack
+
+Next.js + Vercel (Frontend), Claude + Bedrock (LLM), Fern (API), Microservices: Express (Node.js), FastAPI (Python), Algolia + turbopuffer (Search), Postgres DB + Prisma ORM (Database), AWS (Cloud)","","https://www.indeed.com/cmp/Rad-Hires","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/48b6be22b781c49c3122de8422c30c8a","https://radhires.com","New York, NY
+USA","2 to 10","","We help the world's fastest growing startups hire top tech talent.","","","","","",""
+"in-7ebd49ada074d7fe","indeed","https://www.indeed.com/viewjob?jk=7ebd49ada074d7fe","https://recruiterflow.com/radhires/jobs/282?source=indeed&utm_channel=recruiterflow-posting&location=83","Software Engineer, SDK - NYC","Rad Hires","North Brunswick, NJ, US","2025-05-22","fulltime","direct_data","yearly",170000.0,230000.0,"USD",False,"","","","","**Software Engineer, SDK**  
+
+**Location:** Williamsburg, Brooklyn, NY (On-site, Full-time)  
+  
+**Salary:** $170K – $230K + Equity + $18K Living Proximity Bonus  
+  
+**Visa Sponsorship:** Not currently offered (may consider exceptional candidates)
+
+### **About the Role**
+
+This role is ideal for ambitious engineers with entrepreneurial goals. Many team members are former or future founders, and this opportunity offers a chance to scale a company from $1M to $10M ARR while building tools used by top tech teams shaping the future of software. The team values in-person collaboration and works out of an office in the Williamsburg neighborhood of Brooklyn.
+
+We’re hiring for two types of roles:
+
+* **SDK Generalists** – work across multiple languages and contribute to the core compiler and generator infrastructure.
+* **SDK Language Specialists** – lead the development of best-in-class SDKs in **Java, PHP, Python, TypeScript, or Ruby** .
+
+### **What You Will Do**
+
+For SDK Generalists:
+
+* Drive feature parity across SDKs — support advanced features like auto-pagination and server-sent events.
+* Expand SDK support into new languages (e.g. Swift, Rust, Terraform) by building new generators.
+* Contribute across multiple codebases using TypeScript, Go, and Python.
+* Collaborate with leadership to help grow the team through recruiting and mentorship.
+
+For SDK Language Specialists (Java, PHP, Python, TypeScript, Ruby):
+
+* Define what a high-quality SDK looks like in your language: idiomatic, easy to use, and reliable.
+* Own core components of the open-source compiler to add key features and improve developer experience.
+* Stay up to date with language-specific tools and libraries, and engage directly with developers via GitHub and community forums.
+* Play a key role in hiring and mentoring as the team scales.
+
+Requirements
+
+* 4–10 years of professional software engineering experience.
+* Deep expertise in one of the following languages: Java, PHP, Python, TypeScript, or Ruby (for specialists).
+* Broad technical fluency and the ability to contribute across different languages (for generalists).
+* Experience in fast-paced startup environments; prior founder experience is a plus.
+* Strong product thinking and empathy for developer experience.
+* Eagerness to work in a polyglot environment.
+
+Compensation and Benefits
+
+* **Salary:** $170K–$200K for Generalists, $200K–$230K for Language Specialists
+* **Equity:** 0.1%–0.3%
+* **Living Bonus:** $18K annually for those living near the office
+* **Visa Sponsorship:** Not currently offered; may consider exceptional candidates
+* **Meals:** Breakfast, lunch, and dinner provided at the office
+* **Insurance:** Health, dental, and vision
+* **Time Off:** Unlimited vacation
+
+Tech Stack
+
+Next.js + Vercel (Frontend), Claude + Bedrock (LLM), Fern (API), Microservices: Express (Node.js), FastAPI (Python), Algolia + turbopuffer (Search), Postgres DB + Prisma ORM (Database), AWS (Cloud)","","https://www.indeed.com/cmp/Rad-Hires","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/48b6be22b781c49c3122de8422c30c8a","https://radhires.com","New York, NY
+USA","2 to 10","","We help the world's fastest growing startups hire top tech talent.","","","","","",""
+"in-b3fa16ab18741033","indeed","https://www.indeed.com/viewjob?jk=b3fa16ab18741033","https://recruiterflow.com/radhires/jobs/282?source=indeed&utm_channel=recruiterflow-posting&location=86","Software Engineer, SDK - NYC","Rad Hires","Sayreville, NJ, US","2025-05-22","fulltime","direct_data","yearly",170000.0,230000.0,"USD",False,"","","","","**Software Engineer, SDK**  
+
+**Location:** Williamsburg, Brooklyn, NY (On-site, Full-time)  
+  
+**Salary:** $170K – $230K + Equity + $18K Living Proximity Bonus  
+  
+**Visa Sponsorship:** Not currently offered (may consider exceptional candidates)
+
+### **About the Role**
+
+This role is ideal for ambitious engineers with entrepreneurial goals. Many team members are former or future founders, and this opportunity offers a chance to scale a company from $1M to $10M ARR while building tools used by top tech teams shaping the future of software. The team values in-person collaboration and works out of an office in the Williamsburg neighborhood of Brooklyn.
+
+We’re hiring for two types of roles:
+
+* **SDK Generalists** – work across multiple languages and contribute to the core compiler and generator infrastructure.
+* **SDK Language Specialists** – lead the development of best-in-class SDKs in **Java, PHP, Python, TypeScript, or Ruby** .
+
+### **What You Will Do**
+
+For SDK Generalists:
+
+* Drive feature parity across SDKs — support advanced features like auto-pagination and server-sent events.
+* Expand SDK support into new languages (e.g. Swift, Rust, Terraform) by building new generators.
+* Contribute across multiple codebases using TypeScript, Go, and Python.
+* Collaborate with leadership to help grow the team through recruiting and mentorship.
+
+For SDK Language Specialists (Java, PHP, Python, TypeScript, Ruby):
+
+* Define what a high-quality SDK looks like in your language: idiomatic, easy to use, and reliable.
+* Own core components of the open-source compiler to add key features and improve developer experience.
+* Stay up to date with language-specific tools and libraries, and engage directly with developers via GitHub and community forums.
+* Play a key role in hiring and mentoring as the team scales.
+
+Requirements
+
+* 4–10 years of professional software engineering experience.
+* Deep expertise in one of the following languages: Java, PHP, Python, TypeScript, or Ruby (for specialists).
+* Broad technical fluency and the ability to contribute across different languages (for generalists).
+* Experience in fast-paced startup environments; prior founder experience is a plus.
+* Strong product thinking and empathy for developer experience.
+* Eagerness to work in a polyglot environment.
+
+Compensation and Benefits
+
+* **Salary:** $170K–$200K for Generalists, $200K–$230K for Language Specialists
+* **Equity:** 0.1%–0.3%
+* **Living Bonus:** $18K annually for those living near the office
+* **Visa Sponsorship:** Not currently offered; may consider exceptional candidates
+* **Meals:** Breakfast, lunch, and dinner provided at the office
+* **Insurance:** Health, dental, and vision
+* **Time Off:** Unlimited vacation
+
+Tech Stack
+
+Next.js + Vercel (Frontend), Claude + Bedrock (LLM), Fern (API), Microservices: Express (Node.js), FastAPI (Python), Algolia + turbopuffer (Search), Postgres DB + Prisma ORM (Database), AWS (Cloud)","","https://www.indeed.com/cmp/Rad-Hires","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/48b6be22b781c49c3122de8422c30c8a","https://radhires.com","New York, NY
+USA","2 to 10","","We help the world's fastest growing startups hire top tech talent.","","","","","",""
+"in-6412943d41e41a80","indeed","https://www.indeed.com/viewjob?jk=6412943d41e41a80","https://jobs.itsmfleaders.org/job/rx4r6e/algo-trading-java-developer-vp-new-york-(hybrid)/new-york/ny","Algo Trading Java Developer - VP - New York (Hybrid)","Information Technology Senior Management Forum","New York, NY, US","2025-05-22","fulltime","direct_data","yearly",142320.0,213480.0,"USD",False,"","","","","Posted Date
+
+5/22/2025
+
+Description
+
+**About Citi**
+
+Citi, the leading global bank, has approximately 200 million customer accounts and does business in more than 160 countries and jurisdictions. Citi provides consumers, corporations, governments and institutions with a broad range of financial products and services, including consumer banking and credit, corporate and investment banking, securities brokerage, transaction services, and wealth management. Our core activities are safeguarding assets, lending money, making payments and accessing the capital markets on behalf of our clients.
+
+Citi’s Mission and Value Proposition explain what we do and Citi Leadership Standards explain how we do it. Our mission is to serve as a trusted partner to our clients by responsibly providing financial services that enable growth and economic progress. We strive to earn and maintain our clients’ and the public’s trust by constantly adhering to the highest ethical standards and making a positive impact on the communities we serve. Our Leadership Standards is a common set of skills and expected behaviors that illustrate how our employees should work every day to be successful and strengthens our ability to execute against our strategic priorities.
+
+Diversity is a key business imperative and a source of strength at Citi. We serve clients from every walk of life, every background and every origin. Our goal is to have our workforce reflect this same diversity at all levels. Citi has made it a priority to foster a culture where the best people want to work, where individuals are promoted based on merit, where we value and demand respect for others and where opportunities to develop are widely available to all.
+
+**Job Purpose**:
+
+Fixed Income Algo Technology team in North America supports Citi’s Internal Market Making, Algorithmic Trading, and internal matching for the Spread Product algo trading business. We’re seeking to hire an experienced software engineer to advance the suite of algo trading platform creating a best in class, next generation product for our clients’ franchise.
+
+This is a challenging and exciting opportunity to contribute to one of the largest and most sophisticated algo platforms. It will involve working directly with trading and quants to solve both business and technology problems with a direct measurable impact on the business.
+
+**Key Responsibilities / Role:**
+
+* Develop reusable algo trading engines with focus on low latency execution strategies
+* Ensure strong reliability, scalability and performance of the core algo components
+* Work with other etrading teams to support live trading
+* Learn and maintain large code base, improve design and quality of the algo trading strategies code
+* Partner with business to drive technology stack beyond near term objectives
+* Adhere to engineering standards and strive for best in class solutions
+
+**Job Opportunities:**
+
+* Work on high profile algo trading projects that deliver next-generation performance and functionality
+* Apply best software architecture and design practices for algo trading strategies development
+* Use scientific approach to improve performance of trading applications
+* Play partnership role defining the direction of Rates algorithmic trading at Citi
+* Harness capabilities of modern technologies and be accountable for the positive impact of delivery
+* Significant profile exposure through business impacting projects
+
+**Knowledge/Experience:**
+
+* Strong software development fundamentals, data structures, design patterns, object-oriented programming, algorithms complexity analysis
+* At least 2 years of extensive hands on coding experience in Core Java within low latency, high throughput distributed applications
+* Experience with messaging technologies like Solace, Kafka etc.
+* Experience with Chronicle and/or Aeron
+* Experience implementing and supporting market data processing applications and algorithmic trading strategies
+* Experience building backtesting frameworks and historical data storages
+* Basic Linux system performance tuning and monitoring, ability to troubleshoot performance issues within Java/Linux stack
+* Working knowledge of no GC Java techniques and lock free thread safe algorithms
+* Experience with Python, Spring, TDD, KDB or any other tick data storages
+* Build tools, gradle, git, teamcity, jenkins, artifactory
+* Strong academic record, ideally with a Bachelor’s degree in Computer Science, Information Science, engineering or related technical or quantitative discipline
+
+**Competencies:**
+
+* Strong verbal and written communication skills; ability to communicate with business users
+* Self-motivated individual with determination to achieve goals
+* Willingness to learn, both technically and professionally
+* Strong analytical and problem solving skills
+* Good team working skills and ability to work in a distributed global team environment
+* Ability to work on a fast-pace environment
+* Flexible and able to deliver quality results in the required timeframe
+
+-
+
+**Job Family Group:**
+
+Technology
+
+-
+
+**Job Family:**
+
+Applications Development
+
+-
+
+**Time Type:**
+
+Full time
+
+-
+
+**Primary Location:**
+
+New York New York United States
+
+-
+
+**Primary Location Full Time Salary Range:**
+
+$142,320.00 - $213,480.00
+
+In addition to salary, Citi’s offerings may also include, for eligible employees, discretionary and formulaic incentive and retention awards. Citi offers competitive employee benefits, including: medical, dental & vision coverage; 401(k); life, accident, and disability insurance; and wellness programs. Citi also offers paid time off packages, including planned time off (vacation), unplanned time off (sick leave), and paid holidays. For additional information regarding Citi employee benefits, please visit citibenefits.com. Available offerings may vary by jurisdiction, job level, and date of hire.
+
+-
+
+**Anticipated Posting Close Date:**
+
+Aug 01, 2025
+
+-
+
+*Citi is an equal opportunity employer, and qualified candidates will receive consideration without regard to their race, color, religion, sex, sexual orientation, gender identity, national origin, disability, status as a protected veteran, or any other characteristic protected by law.*
+
+*If you are a person with a disability and need a reasonable accommodation to use our search tools and/or apply for a career opportunity review* *Accessibility at Citi**.*  
+  
+*View Citi’s* *EEO Policy Statement* *and the* *Know Your Rights* *poster.*
+
+Salary
+
+142,320.00 - 213,480.00 Annual
+
+Type
+
+Full-time","","https://www.indeed.com/cmp/Information-Technology-Senior-Management-Forum","","http://www.itsmfonline.org","Atlanta","51 to 200","","","","","","","",""
+"in-eba71c4ce975f4d7","indeed","https://www.indeed.com/viewjob?jk=eba71c4ce975f4d7","https://jobs.ashbyhq.com/replicated/1ac69d40-a4e9-4a0d-b7f0-5755b5e6f5f0?utm_source=n3eeY9qmZ4","Senior Software Engineer, Vendor Experience (remote)","Replicated","New York, NY, US","2025-05-22","fulltime","direct_data","yearly",153500.0,206500.0,"USD",True,"","","","","Replicated is a Commercial Software Distribution Platform. Replicated helps software vendors distribute their applications into self-hosted environments like VPC, on-prem, air gap, and more. With a suite of tools ranging from installation, to testing, to licensing and support, Replicated is the best way to operationalize and scale the distribution of Kubernetes applications into any enterprise environment.
+
+Our customers include KNIME, Puppet, Smartbear, BigID, Swimlane, and many other fast-growing enterprise software vendors.
+
+Replicated is committed to cultivating an efficient, respectful workplace. We know that innovation thrives on teams where diverse points of view come together to solve hard problems in ways that are just now possible. As such, we explicitly seek people that bring diverse life experiences, diverse educational backgrounds, diverse cultures, and diverse work experiences.
+
+We are fully remote and plan to stay that way! We're open to any state in the US. In addition, for some roles, we're open to candidates in Canada, the UK, Australia, and New Zealand.
+
+We are looking for a Senior Software Engineer to join our team! Our Engineers contribute to every stage of building the Replicated delivery and management platform. They implement, test, and deploy new enhancements and updates to our products.
+
+As a member of the development team you will get to use cutting-edge technologies and emerging open source tools and standards. Working with exciting tools like Kubernetes and Helm, you’ll help us continue to build the next generation of multi-premise features for ISVs and Enterprise customers.
+
+Check out our YouTube channel to get an idea of what we are building next!
+
+Our stack includes Go, Kubernetes, Typescript and more. You’ll get an opportunity to work across the stack and develop software for our highly technical user-base of software developers. Our engineers learn something new every day and are encouraged to contribute and work closely with their Product Manager to iterate through ideas and implementations.
+
+What Replicated offers:
+
+* A learning culture that is anchored with a growth mindset and curiosity
+* Remote work - build a comfortable setting that works for you
+* Enthusiastic teams who love what they do
+
+**What you’ll be doing:**
+
+* Work with product managers, designers, engineers, and customers to iterate features from the prototype stage to GA.
+* Work across the lifecycle of our products: design, develop, document, test, integrate, deploy, support, and collaborate.
+* Mentor and be mentored, growing and investing in each other's growth is a key part of our culture.
+* Be curious about everything we deliver and the problems we are solving for our customers.
+* Our product and engineering culture is ‘Inspired’ oriented. We embrace opportunities to share with and learn from our customers, so we better understand how the products are being used and discover opportunities to innovate. Engineers are a key part of this conversation, joining calls to watch the product in use, receive direct customer feedback, and ideate on possible solutions.
+* Collaborate with your teammates to deliver solutions for our customers.
+* Meet regularly with your manager to review the Career Development Framework, identifying areas for growth and planning for projects to demonstrate new skills and techniques.
+* Participate in weekly support and on-call rotations.
+* Contribute and champion a culture of quality and testing. Help guide others who may have less experience in this area.
+
+**What you bring to the role:**
+
+* Senior level professional development experience with Go and associated tooling.
+* Excellent technical communication and collaboration skills with the proven ability to:
+
+  + Clearly and concisely communicate about complex technical and product topics.
+  + Communicate with leadership and other stakeholders across the company.
+  + Engage with customers to better understand the problems they are trying to solve.
+* Experience designing, building, and maintaining API services and their respective datastores.
+* Experience developing and shipping software in a cloud-native, customer-facing infrastructure.
+* Proven ability to create and deliver impactful contributions, both independently and collaborating with others.
+* Experience taking on complex challenges and breaking them down into iterative deliverables.
+* Experience delivering software within the constraints of a modern CI/CD pipeline
+* A high degree of curiosity for innovative software, balanced with an appreciation for sustainable solutions.
+
+**In your first 30 Days**
+
+* Learn as much as you can about the company, team and product
+* Complete hands-on training with the product, complete an onboarding checklist and meet with team members from across the company
+* Improve the onboarding process as you notice rough edges, bringing your fresh perspectives to identify areas where we can do better
+* Spend time with the team understanding our work and current initiatives
+* Pair with members of the team to grow your knowledge of our infrastructure and ask questions to understand how we got to where we are
+* You will receive a copy of ‘The First 90 Days’ as a resource to help you outline your 90 days plan
+
+**In your first 60 days**
+
+* Pair with your engineering buddy and contribute individual work to existing initiatives to deepen your understanding of Replicated’s product
+* Shadow engineers in the on-call and support rotation, learning the process and making suggestions for improvements (both technical and procedural)
+* Examine the systems you are learning, seeking to understand the “why” and challenge the answers as appropriate
+* Continue to grow your understanding of Replicated - how our products are developed, building relationships with individuals, how our services connect and interact
+
+**In your first 90 days**
+
+* Take a leadership role for one of the team’s priorities, coordinating within and beyond the development group to accomplish the goal as you see fit
+* Use your expertise to improve the reliability and quality of what we are shipping.
+* Join the on-call and support rotation as a fully fledged member; you are never on your own as we deeply value supporting each other. We have found that participating in support is a great way to learn and engage with our customers. It helps us shorten the feedback cycle dramatically and deliver a product with the most value.
+* Continue to learn and grow. Replicated is committed to ongoing individual growth and there will always be opportunities that require it. We have a yearly curiosity budget to support your learning and growth.
+
+At Replicated, we value our teammates as individuals who are stronger together. We offer a robust pay and benefits package that rewards employees for their contributions to our success, supports their well-being, and helps all of us create a great remote work environment.
+
+In the US, the salary range for this role is as follows:  
+Sr. Software Engineer I: $153,500 - $178,500
+
+Sr. Software Engineer II: $168,500 - $206,500
+
+This is dependent on several factors, including level, qualifications, and experience. We also offer stock options, a strong health insurance package, as well as a unique home office allowance & a professional development budget. An overview is on our careers page here: https://www.replicated.com/careers/
+
+We invest in our team and love candidates who are eager to learn and grow. We have a fantastic team of highly collaborative individuals who enjoy learning, growing, and mentoring others.
+
+**OUR CORE VALUES**
+
+**Care Deeply**: Care deeply about the work that you do. Because of that you are constantly learning and willing to go out on a limb, challenge assumptions, go back to first principles, etc.
+
+**Longterm**: Treat every interaction as part of a 30 year relationship, you’ll see everyone down the road again as customers, partners, coworkers, etc.
+
+**Curious**: We're always learning and we approach everyone and every problem with curiosity. When needed we challenge assumptions, and go back to first principles.
+
+**BENEFITS**
+
+We offer strong benefits to help you stay healthy and productive. For the US, our benefits are listed below:
+
+* Health/Dental/Vision
+* Life/AD&D
+* LTD/STD
+* FSA
+* 401K
+* Stock options
+* Partner perk programs
+* Generous time off, we expect you to take a minimum of 3 weeks of per year
+* Laptop+accessories you need to get set up
+* Generous home office set up allowance or co-working space allowance - up to $10,000 per year!
+* Curiosity Budget to help you keep learning and growing!
+
+Replicated is an Equal Opportunity Employer. We celebrate diversity and are committed to creating an inclusive environment for all employees. We encourage applicants of all backgrounds and we work to make sure that all team members have an equal opportunity to succeed.
+
+Please note at this time we are unable to provide sponsorship to individuals in the United States.
+
+*We do not accept unsolicited assistance from any headhunters, recruitment firms or any other third party for any of our job openings. Any unsolicited resumes sent from anyone other than the candidate, in any format, to any person at Replicated, will be considered Replicated property. Replicated will NOT pay a fee for any placement resulting from the receipt of an unsolicited resume.*
+
+*#LI-Remote*","","https://www.indeed.com/cmp/Replicated","","https://www.replicated.com","Los Angeles","2 to 10","","","","","","","",""
+"in-13396f70b0d3a221","indeed","https://www.indeed.com/viewjob?jk=13396f70b0d3a221","https://jobs.rutgers.edu/postings/251595","Application Developer","Rutgers University","New Brunswick, NJ, US","2025-05-22","parttime, fulltime","direct_data","yearly",79013.0,120890.0,"USD",False,"","","","","**Position Details**
+--------------------
+
+Position Information
+
+**Recruitment/Posting Title**
+
+Application Developer
+
+  
+
+**Job Category**
+
+Staff & Executive - Information Technology
+
+  
+
+**Department**
+
+BSPPP-Ctr Urban Policy Rsrch
+
+  
+
+**Overview**
+
+The Center for Urban Policy Research (CUPR) works to make human settlements more equitable, sustainable, resilient, and healthy through research, public engagement, education and other forms of capacity-building. CUPR is an umbrella center that combines the former Bloustein stand-alone Center for Urban Policy Research with the former Rutgers Center for Green Building (RCGB), Environmental Analysis and Communication Group (EAC), Center for Energy Environmental and Economic Policy (CEEEP), and Bloustein Center for Local Government Research. This merger creates
+
+strong capabilities for addressing today’s challenges in a collaborative and multidisciplinary fashion. These challenges include climate change adaptation and mitigation, coastal hazards, environmental justice, a healthier built environment, sustainable energy transition, and technological transformations affecting daily life and local governance.
+
+  
+
+**Posting Summary**
+
+Rutgers, The State University of New Jersey is seeking an Application Developer for the Center for Urban Policy research (CUPR) within the Bloustein School of Planning and Public Policy. Reporting to the Associate Director of the Bloustein Center for Urban Policy Research (CUPR), the Application Developer will be responsible for supporting the development of data-driven web applications for the Data Informatics Group within the Center.  
+  
+Among the key duties of the position are the following:
+
+* Works both independently and as part of a team of application developers, supporting the development of data informatics platforms that utilize data, visualizations, and built-in analytics to support science communication and decision support around a variety of research disciplines and areas of stakeholder need. Areas of application development include, but are not limited to, climate change, hazard mitigation planning, environmental and natural resource management/protection, urban and regional planning, marine and coastal sciences, and social science/risk communication.
+* Requires experience in full-stack development, having the ability to design and develop custom front-end application interfaces utilizing JavaScript based packages for interactive data communication through tables, charts, and geographic information systems (GIS) online maps; server-side scripting to support the development of APIs and data data pipelines; and SQL database design and development to support data storage and queries.
+* Interfaces with project leadership to determine requirements and to obtain feedback to ensure that the designed systems meet the needs of users.
+* Works with application developers, information technology staff, designers, and project managers and be responsible for integrating features or requirements from these individuals and providing technical advice as necessary.
+* Stays informed of advances in web technology and adapts to new development tools and techniques.
+* Prepares documentation for users and other developers in accordance with internal and external standards.
+  
+
+This position is grant-funded and contingent upon available funding. An overview of the benefits available to Rutgers employees can be found here: https://uhr.rutgers.edu/benefits/home
+
+  
+
+**Position Status**
+
+Full Time
+
+  
+
+**Hours Per Week**
+
+  
+
+**Daily Work Shift**
+
+  
+
+**Work Arrangement**
+
+Consistent with the current application of Rutgers Policy 60.3.22 or the applicable provisions of relevant collective negotiations agreements, this position may be eligible for a hybrid work arrangement. Flexible work arrangements are not permanent, are subject to change or discontinuation, and contingent on the employee receiving approval in the FlexWork@RU Application System.
+
+  
+
+**FLSA**
+
+Exempt
+
+  
+
+**Grade**
+
+05
+
+  
+
+**Position Salary**
+
+  
+
+**Annual Minimum Salary**
+
+79013.00
+
+  
+
+**Annual Mid Range Salary**
+
+99952.00
+
+  
+
+**Annual Maximum Salary**
+
+120890.00
+
+  
+
+**Offer Information**
+
+The final salary offer will be determined by several factors, including the candidate’s qualifications, experience, and expertise, and availability of department or grant funds to support the position. We also take into consideration market benchmarks, if and when appropriate, and internal equity to ensure fair compensation relative to the university’s broader compensation structure. We are committed to offering competitive and flexible compensation packages to attract and retain top talent.
+
+  
+
+**Standard Hours**
+
+37.50
+
+  
+
+**Union Description**
+
+Admin Assembly (MPSC)
+
+  
+
+**Payroll Designation**
+
+PeopleSoft
+
+  
+
+**Benefits**
+
+Rutgers offers a comprehensive benefit program to eligible employees. For details, please go to **http://uhr.rutgers.edu/benefits/benefits-overview**.
+
+  
+
+**Seniority Unit**
+
+  
+
+**Terms of Appointment**
+
+Staff - 12 month
+
+  
+
+**Position Pension Eligibility**
+
+ABP
+
+Qualifications
+
+**Minimum Education and Experience**
+
+* A bachelor’s degree or equivalent education and experience with two or more years of relevant work experience.
+
+  
+
+**Certifications/Licenses**
+
+  
+
+**Required Knowledge, Skills, and Abilities**
+
+* Experience coding in HTML, JavaScript, CSS, AJAX, and using JSON data objects.
+* Experience developing relational databases and queries in SQL database management systems such as MySQL and PostgreSQL.
+* Experience using Git or related code management software.
+* Experience with code documentation.
+
+  
+
+**Preferred Qualifications**
+
+* Experience in utilizing various web and programming frameworks such as ReactJS, Bootstrap, CakePHP, and Symfony.
+* Experience developing online mapping and graphing applications using development APIs for ESRI ArcGIS for JavaScript.
+* Experience with server-side scripting languages such as Python, PHP, or others.
+
+  
+
+**Equipment Utilized**
+
+* Experience working with open-source operating systems and server software.
+* Familiarity with software versioning control systems such as Git or Gitlab.
+
+  
+
+**Physical Demands and Work Environment**
+
+  
+
+**Special Conditions**
+
+Posting Details
+
+**Posting Number**
+
+25ST1162
+
+  
+
+**Posting Open Date**
+
+05/22/2025
+
+  
+
+**Special Instructions to Applicants**
+
+  
+
+**Regional Campus**
+
+Rutgers University-New Brunswick
+
+  
+
+**Home Location Campus**
+
+Downtown New Brunswick
+
+  
+
+**City**
+
+New Brunswick
+
+  
+
+**State**
+
+NJ
+
+  
+
+**Location Details**
+
+Pre-employment Screenings
+
+All offers of employment are contingent upon successful completion of all pre-employment screenings.
+
+Immunization Requirements
+
+Under Policy 100.3.1 Immunization Policy for Covered Individuals, if employment will commence during Flu Season, Rutgers University may require certain prospective employees to provide proof that they are vaccinated against Seasonal Influenza for the current Flu Season, unless the University has granted the individual a medical or religious exemption. Additional infection control and safety policies may apply. Prospective employees should speak with their hiring manager to determine which policies apply to the role or position for which they are applying. Failure to provide proof of vaccination for any required vaccines or obtain a medical or religious exemption from the University will result in rescission of a candidate’s offer of employment or disciplinary action up to and including termination.","Education And Schools","https://www.indeed.com/cmp/Rutgers-University","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/041507130b51cdea14164dc2fbc44f87","http://www.rutgers.edu","57 US Highway 1
+New Brunswick, NJ 08901-8554","10,000+","$1B to $5B (USD)","","","","","","",""
+"li-4139558613","linkedin","https://www.linkedin.com/jobs/view/4139558613","","Software Engineer, Fullstack","CLEAR","New York, NY","","","","","","","",False,"","","","","","","https://www.linkedin.com/company/clear-by-alclear-llc","","","","","","","","","","","",""
+"li-4188423301","linkedin","https://www.linkedin.com/jobs/view/4188423301","","Software Development Engineer","Prime Video & Amazon MGM Studios","New York, NY","","","","","","","",False,"","","","","","","https://www.linkedin.com/company/primevideoamazonstudios","","","","","","","","","","","",""
+"li-4234874497","linkedin","https://www.linkedin.com/jobs/view/4234874497","","Software Engineer, Backend","Siro","New York, NY","","","","","","","",False,"","","","","","","https://www.linkedin.com/company/siro-ai","","","","","","","","","","","",""
+"li-4233506747","linkedin","https://www.linkedin.com/jobs/view/4233506747","","Front End Developer","Morgan Stanley","New York, NY","","","","","","","",False,"","","","","","","https://www.linkedin.com/company/morgan-stanley","","","","","","","","","","","",""
+"li-4204758218","linkedin","https://www.linkedin.com/jobs/view/4204758218","","Software Engineer","Persistent Systems, LLC","New York, NY","","","","","","","",False,"","","","","","","https://www.linkedin.com/company/persistent-systems-llc","","","","","","","","","","","",""
+"li-4142865296","linkedin","https://www.linkedin.com/jobs/view/4142865296","","Software Engineer, Infrastructure (2-8 YOE)","Airtable","New York, NY","","","","","","","",False,"","","","","","","https://www.linkedin.com/company/airtable","","","","","","","","","","","",""
+"li-4233421187","linkedin","https://www.linkedin.com/jobs/view/4233421187","","Software Engineer, Deploy Observability Infra","Notion","New York, NY","","","","","","","",False,"","","","","","","https://www.linkedin.com/company/notionhq","","","","","","","","","","","",""
+"li-4234878189","linkedin","https://www.linkedin.com/jobs/view/4234878189","","Software Engineer, Full Stack (Senior/Staff)","Siro","New York, NY","","","","","","","",False,"","","","","","","https://www.linkedin.com/company/siro-ai","","","","","","","","","","","",""
+"li-4233512022","linkedin","https://www.linkedin.com/jobs/view/4233512022","","Java Developer","Morgan Stanley","New York, NY","","","","","","","",False,"","","","","","","https://www.linkedin.com/company/morgan-stanley","","","","","","","","","","","",""
+"li-4232872416","linkedin","https://www.linkedin.com/jobs/view/4232872416","","Software Engineer III, Full Stack, Search","Google","New York, NY","","","","","","","",False,"","","","","","","https://www.linkedin.com/company/google","","","","","","","","","","","",""
+"li-4219009029","linkedin","https://www.linkedin.com/jobs/view/4219009029","","Software Engineer","Sourgum","Jersey City, NJ","","","","","","","",False,"","","","","","","https://www.linkedin.com/company/sourgumwaste","","","","","","","","","","","",""
+"li-4122979615","linkedin","https://www.linkedin.com/jobs/view/4122979615","","FullStack-Senior Software Engineer","Intuit","New York, NY","","","","","","","",False,"","","","","","","https://www.linkedin.com/company/intuit","","","","","","","","","","","",""
+"li-4234878275","linkedin","https://www.linkedin.com/jobs/view/4234878275","","Software Engineer, Backend (Senior/Staff)","Siro","New York, NY","","","","","","","",False,"","","","","","","https://www.linkedin.com/company/siro-ai","","","","","","","","","","","",""
+"li-4235385474","linkedin","https://www.linkedin.com/jobs/view/4235385474","","Senior Software Engineer I","Etsy","Brooklyn, NY","","","","","","","",False,"","","","","","","https://www.linkedin.com/company/etsy","","","","","","","","","","","",""
+"li-4215575564","linkedin","https://www.linkedin.com/jobs/view/4215575564","","Software Engineer","Moment","","","","","","","","",False,"","","","","","","https://www.linkedin.com/company/moment-markets","","","","","","","","","","","",""
+"li-4218973988","linkedin","https://www.linkedin.com/jobs/view/4218973988","","Software Engineer II, CMS","CNN","New York, NY","","","","","","","",False,"","","","","","","https://www.linkedin.com/company/cnn","","","","","","","","","","","",""
+"li-4218571926","linkedin","https://www.linkedin.com/jobs/view/4218571926","","Software Engineer, Enterprise","Anthropic","New York, NY","","","","","","","",False,"","","","","","","https://www.linkedin.com/company/anthropicresearch","","","","","","","","","","","",""
+"li-4233264658","linkedin","https://www.linkedin.com/jobs/view/4233264658","","Software Engineer","Valon","New York, NY","","","","","","","",False,"","","","","","","https://www.linkedin.com/company/valon-technologies","","","","","","","","","","","",""
+"li-4219685265","linkedin","https://www.linkedin.com/jobs/view/4219685265","","Staff Software Engineer I, Seller Onboarding","Etsy","Brooklyn, NY","","","","","","","",False,"","","","","","","https://www.linkedin.com/company/etsy","","","","","","","","","","","",""
+"li-4187565280","linkedin","https://www.linkedin.com/jobs/view/4187565280","","Web Developer","Bluu, Inc.","Hackensack, NJ","","","","","","","",False,"","","","","","","https://www.linkedin.com/company/ebluu","","","","","","","","","","","",""
